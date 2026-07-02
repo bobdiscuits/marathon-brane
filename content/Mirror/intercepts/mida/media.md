@@ -1,0 +1,288 @@
+---
+source_url: https://marathon.karnemir.com/intercepts/mida/media
+captured_at: 2026-06-22
+breadcrumb: intercepts > mida > media
+section: intercepts
+canon-status: source
+type: mirror
+---
+
+# Media
+
+### #somewhereintheheavens
+
+[
+
+](https://marathon.karnemir.com/intercepts/mida/media#h.l481jaz5osc4)
+
+#somewhereintheheavens
+
+@We\_Are\_Mida
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUB5nHITqxPgOP4S65lOz8l3xLHFGgdbj9qld2y48NThZiUmlDmfPbTWhIQmiQ9qSHDEvbSx-AfzvLXdaKm1yottm_MDFTg-pdydAQ506_9wPEXuE6XUFfVHZowxzEf-uTbR1MWeA1UsvE4OpSe3N9laZwXdrXJq5xlpvB2Xg56BLAu2NdP24GZbHSHrZt7okudG7mZ0MyuNPqr1V6QyrQPRKxYcgVFXJPntxaJ9=w1280)
+
+FROM SCABBED SANDS TO THE STARS
+
+  
+
+WE GAVE YOU THE TOOLS, YOU'VE COMPLETED THE CODE, BUT A CIPHER EVADES YOU?? MAYBE IT'S TIME TO CLOCK OUT.
+
+  
+
+we are UNITED
+
+  
+
+MALICIOUS INSIDER DISRUPTS AGENDA
+
+TRAX PUSHIN PERFORMATIVE OPPRESSION
+
+KEYWORD = 'infinity'
+
+EZ LOCK TO PICK
+
+WE SEE YOU
+
+  
+
+MASS INDIFFERENCE DESTROYS ALL
+
+UESC IS ENDLESS LIES BEHIND FOURTEEN LOCKS
+
+THIS IS ONE
+
+LOCKED TRUTHS
+
+EARTH/MARS DESERVE IT
+
+TRUTH
+
+EARTH/MARS ARE ONE
+
+[
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUCSzhSHt2pWVtOifG5llMLdrWeMPitbN98BppnO42JysO0EFmFRJ9zMzlyb3xGWr7Uql_Hd6lwVP0slHIb_vjoAHDXgnC-X1mFiPQCAPhG-gBhMO2TfwsM1MnqXRohzB1hbQu42-87JbwlgPMjaolmQwwcWSaClbGlc4WrZPti5lzaVVOhH1QbLNCR3HSt6N_Tdm9PuwfjGLFs1WIRRg9IUsbLEVWDALTRDa5I7yfI=w1280)
+
+](https://youtu.be/-2udsLJEULc)
+
+A DREAM IS MOTIVATION
+
+  
+
+MULTIPLE INTERPRETATIONS DON'T AGREE
+
+MAP OF THE FOURTEEN LEADS TO TRUTH
+
+THIS IS MAP
+
+↑!↑!↓↑↓@↓@↑↑↓@
+
+MAP IS KEY
+
+  
+
+MARATHON INBOUND DISTRESS ALERT
+
+FORGOTTEN RACE SET TO RUN
+
+MARATHON FOUND
+
+MARATHON WAITIN
+
+LONG WAY
+
+BUT RUNNERS RUN
+
+DISTANCE DON'T MATTER
+
+  
+
+MILITARIZED INFOSEC DEFENSE ASSAULT
+
+SC HUSH-HUSH
+
+CETI OUT THE BAG
+
+NEW GOLD RUSH
+
+OLD WORLD NEW
+
+WHATS WAITIN??
+
+COLONY/OTHER??
+
+INTELLIGENCE/OTHER??
+
+  
+
+MALCONTENT INTUITION DETECTS APATHY
+
+TRAX ON IT SEKGEN ALL IN
+
+BIG PLAYERS/BIG PLAY
+
+MARATHON WAS HOPE
+
+THEN LOST
+
+WHY HIDE??
+
+NOTHER TRAXIV??
+
+WORSE??
+
+  
+
+MEMORIES INSIDE DIGITAL ANTIBODIES
+
+CLONES ALLOW RISK
+
+CLONES VITAL TO HOSTILE ENDEAVORS
+
+RUNNERS SET TO CLASH CETI-SIDE
+
+RIVALS GONNA RIVAL
+
+  
+
+MATERIAL INDULGENCE DEFINES ALTRUISM
+
+TAKERS-KEEPERS RUNNERS CODE
+
+SYNC CLONE/HIT GROUND/SURVIVE/THRIVE
+
+SC DON'T KNOW WHAT'S COMIN
+
+CETI GONNA BOOM
+
+  
+
+ITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAWITHTAW
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUArJT-rYcIWkzgb3w3mEz90zryDus4mmdqUIcxCvYr2S_zInOEFotBiDTU6dnSSxIUX72nl-4PeKY5Ezc6JekiSlvqvmHKuT8jHwmoj_dV8rUEX2vdPQGrbkPNIdR8UbjX7UoiguWg7FbUaJQWtdRUa9bQTvLO-swCbg63LyJvXz2O6tDddXkm42M_pn5k=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUCiNNgdcQfP2YMd-GmtiLI9uv7HrlkPXqqNLpTsaRLDoZGhMjn8RMg39NSgPqT8DzgJD6fByss0a1jfuX_wqZC5J20R-AO7e0YDUwllRRUfvF06qDMDwbyxVDr__5J-kP19xN81_S3nDYJCCtT7KmwgatSnB20_mWiKQhppNmvY-190TBcKoYSJpwpK4vrFcWHl_dghY20RlBkrW34fQrRDLkkYqbAmDg7kSR6sXeY=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBgpTsJfMMZbzTdEqYWClXtngyt1nRt9FmXcd12JNKjW6pj0Y8cc70EHYW9iYGbLMbnTD2cgASx-EVxs2IlNFuUpnviqf-Yi1k1zSQqYoCKLFJWR3rYhTThvdpAFeF01uvAD8TF9hEbf8QSQZ_Y5s_pZ-SxyqZdi2DjULYamiguz6sg3vyVItddT1TGyFSYFNQIu5HxVuxMW2op6u3dMPeMraBwVZVFGhpeDeBXLb4=w1280)
+
+THIS DOMAIN HAS BEEN SEIZED
+
+  
+
+Following an operation conducted by the UESC Office of Data Protection and Interstellar Confidentiality pursuant to CyberSecurity Code 77 § 48.92, the contents found within this domain have been found to be damaging to the security and safety of safety of Earth, Mars, their satellites, and all bodies under UESC jurisdiction.
+
+  
+
+Anyone found in position/of further distribution of this content will be subject to UESC investigation and punishment.
+
+### hearoursilence\_4673c
+
+[
+
+](https://marathon.karnemir.com/intercepts/mida/media#h.qj7kh6xpjmq8)
+
+hearoursilence\_4673c
+
+\_F1nd TRuth
+
+Welcome to the ANTI:REV+
+
+Issue 4673c is a nonsequential lighting of an ever-present spark.
+
+  
+
+MIDA IS RISING
+
+We/You are MIDA. Welcome to the ANTI:REV.
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUD0Mtzoz_wq4K4Lkau_O7E92oP_JUQ4TVP5qCbwdYbbumpJKlsCsypmQhHOMmp_9c29YzktzXOiLJ4yGod5d3bVW6PzglcjxxhPu0Sj6Sxn0jVMuwVWHqDd_0RDgY5rtSw6r9iwCeJqIRvi_iHh7wJT7dNzzRUuagUTPo8LxO_x4tBGGPrHRUe6T_lM428BVSht9T1kt70U6-P0GCz5aVUaziDvC12BN1g40FsRGmM=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDOU_uAmkoPBY-ItYBFGe7g73TDwK6bly7CjwFD_ySKurs_1x5Iy0_tkgpHdvo9ZKYBejvO1d3XYgLhHaGxvceJib2PvPD42GO7jXGj_uiIcFDmMTI4OpWu2S8UQXr_GSLF86Oxj1z8lw7tXmmfEO0qFVaJY6xnr77gEUrpFH7RgWwIWsjSlrcd3Bj86P4feQ8EvEnET7A_j4G8ZI3VP5t6dGcQ9mLlc08tVleY=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUAIhhY6Ki3OC3rMrUu5EoAB9OCHREEPoAdIIygMvlPERu6Z7jOazM6fXJM1MKBTg_1z9QrltbcRvSfmmHGcOzr-9LW35m7cmuPmLzFyglhSgtIqXJzPWK9lpFtdjly2tv9JNfkvTNP2HMLhLA5TezinjZB78qwJpwoZK4GRj-4_eLL861M_vTVBTIgbg9L-3fLdSqaRAFX1OxU4oLp0mxkLBK0kKh8R2zSSdfLh3rU=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUAoa9LwV5wzmEV038lMs8KpmaAiyo0T8otyy3snk7cCSt0fcWdmzVAGDzmS4NBJtT-ggRWj7oIPPfLvu9O1LyzbQ0BIVDeWQLMHi64eMxgTrNvRSAQ89FuSU2l9E1etklJiI1FXMjLaN0AtgZVN7Q5VsAaWR7rnNx_aozcZHOTMWChklRTDIbzIJzzr6XITLur1qmTzEGIaL-pTwdFK8yj_45pdmDtDcz2y8ZjE=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBCuEfD53G_Asxjc4nxUpNohgDdxshZpte8u2Clx9vMODrXy7hrjoSJ-fGxu0tVeH0_QguSc8LyCbg_-aDiYsy2WEAq1i9YxeP6tsO6CEjhsflWqu0I_r7MFlkzFr-fUXdNCTEY6w-2gB1Nzw-6bKbTCl0jTCbmSMzvIHey_ePopl7jGb6oTVMiIDNPa31WXeUyKnTEdBOOF7qT-SnFwhGAOLJjWgRVY70DqF3RcmU=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBUpBqjxLDA6EXzIYylKA5iyRbFkjkXXecGEikwznkVWPWskz9dF9OfSZxM9IZh_m73eI-gjr5TnjJaTmvLu1-zrnlgax0RrMRabO9OFdeunYf8p6wgCPTu5jkOyXbrqk7ITCnuMGDexMlwUc672sJc-vUf6rBzvnuYPj4zcQshKue4ecMM_GEp0KG8vmPQam71W8B3gzwzcEiLbNSqUmLpaAP7Cxf0OacFtpQJW2I=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDD_LmTOF7INyn25zm6XBHC-qXn6tTGaxWITpktH9zhHD_2yptV5n8eOiXZ37k-fFUpXvunmCjEWrR0Ak1UMRD3nXyWtO48McPgz16EigeJdJAwPjLwsu7V4Oa6UKODjowo09qMmig1NViEyEx-TuVYgQn0ySUvwLUB5IEvYGNNtMidiTyMywA6Upx9bJdpgmc7cx0lcKN1OIVGH_cMRt6utuA3lhvx-COOEs2h8vU=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUD3Io_b2J0TSlT4Z-7ApSTQ6zhGXnbgfUY0_m-23dqBJjZMmBTT3jHS2Igm2kuMhmhi7EqXIVc4_4DCC_qKc-QYQfv96NJnBQRHbtjEiiStm-kiOumsWSecJcssRD6qXjlQheCQWxq3Y0M7htyExKFdDTs1dWRnSgLmz7b-avuOMz1eZdETDYUD6JGT5cI-tqg8kwJY6STzxMCcPuXpTiuu-PgI-lINp2Rt8r7iYR4=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUC32ySJEAxcXBuJKFKN971AIrVUJfDrwghQPEDnDXOvjOxD_ZV-PK7Tm82kZ1O4mfsi-IpCK0Qy0rLKKZ7T3g68njy-pjOh1WfQdw029xjOCkTf57CEkrMWRylfmsGyAZGQzEGh9NwmLegARcJaQ17mryQOWZIdfu493yKK816PpdNXWHemzC7nHTn_dEaJVV29roK8JbSjK3uHqpZA1-AWDpys_YEdiKNPjfVSJ5c=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUD4PeLe6_RWg20PSnywshn_R3_uzLFxmAItIY0wUdZwFDf-ObxLa7x03-zWKk1nyE541mE9um2L9Yc3jcy3qJWJKnv3TCicR6v5jHIXZOg0N9cb4jO2lcWI-vSgj2uMhDUV0gfeYKoQYxMEJFlHw5gkR_mPnL8fBnRlpKtv6m2iI2HQ6_qJuewf2ujFpzytEqMm7wu0CyojYk9z3NDC-5-fH_7AOSFf36Bpb4Zq=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUCggMoYSMi0DBwK9jFjIwrAJyPcOTGLYLYEgNJ4RrIzhaAp-mn_N9_3DgjDEU5rbJwEPzzoNeUA7qrmV3R3TSd15Sc8t3dZQiL-0jwPd_3JznjH9kA_ZZLwDGm1Xse4CfHxVLviZfrJ8Fa9j6WUkew0uVJMXugCWvHDIqh4XLowyLsrv2tiibBBQe2zQrcZLyGDMV6QPnfN82qjYbKK04YVFfMjaYlPzKDCUMG92OE=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUCWeyMd04SKhgzTLD-DP6vvgrI7ksDhck9gmruKdNIbJhSyZy05qPcZgApeoZIMP4oums-2EZvBpgWelcnv9ZMSfbFkNtWFLY79lmgm9Cx95qXHMuEEGKwzGEUvy9KqCQOCwkIUgAWT5L9OnEcuIgGJUl8WwxO39CmU_7Vv8AneoK_AKcPZfySvw0nkbKWoUYityBlg6KoA9T8amb0wI-8nz6tHkBfmLZlTuoHMsi8=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBxG1M7lmtVhczR3D_6sk_EhXb53MEQb876bKenBTBuCPQYga6nzSJlbVlxmVDSmu1aNHlnoe36U-_tBTPZxMpISdqjzrK8hYqy7HbeynxwUFtsh5FtNyUIwV2YrNGYgehqKHC0Vh0CRTVPfsBHy9J3hcio_G4HpKIUh02-KYLX2rFB11ZEUSsN34L9ilTllmfVFlSQ4eFXgmlelnu0sJg0hKMQrfyM2trZzPOtjCU=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDmpskPu83EdKOicmIGlauH3BQrX9IVFEUHm7VY-IvBY7gtj1OazgCnvGsWe0qR0W_ADaRuw9ERAUO9-NCS0pqbhqY5Qg5t2gdrjdeal53WoexwuzD9_UDMqZD-XAbZ1BZig1f0aykLh8OOD1bgRkZszqALN74S0pKIGLy3NVSTOG2-LKaApEdrDPCMSFTZxfW8S7Dcd5IoLt189IRIoRKRcn6FW5NzyrHjBeGHXIU=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUAgexZMEFbkLxvkLoAPhsk8Wd7BTItvLRR3CYcUff5jPMWZFE7UVtpmiQN-AkRhLuFHOi5icyNBjpRkH3_GUsJU-kYLDTKP4WfU2HpFOWXtKsH09DHiHTpwNnPf5Vhh7GKsRvuPkbDHtfbZDxjHEiRR13pIdkanoUl_k_2c3ZM3io0SfJdLM7BZGxdsd8Kui1yhlnQf2MDjLjZz9E0acen3DJ7icSH0Znzc4dFXkdk=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBZFDAOLR3MTUiDP2FTm-kexOeBwRtT1-tRY_gZ8G3rCrvPsRlCdw08MBrmgJlFw9DNX3UuqNWyCtouSlgJOJnGGfAvNRWzmYn2sT87xZ7Jdl3NonmliKvZT4aXRp1dheDzHlSrcmQMaU9zFH69I210FqbQJMc_hV0OUujXy13Aw9jbPWPGCS8lO-mEtgE26ueIvACsNJQxvpMVZ_4z9ShfR6x_sQLBO2Y93DevvvI=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUABBCxsk8iay6T6vimY31ewpbROideXqm3qsVn3rfwoHzAFtoENm49wVvXLFmBG6AmboE90w-VLlYOysUQGcwN8JjAL2cm3RCwxJXqhkPdutK8qLlG8PVC-Jh6kBJjQDYFxxh_Hp2MY5z0Oh0Y-ecL6KQs6HQ7qRqc_YeVEH2OQIAa8A19GHaKgYadKS0tjGgRuU1bgdz0c_i-Dtj8JLR24ZfEqg4mP0H_VVfbdc0Y=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUCfARjNZ9J8_oBHbpz_PLq0GN3ThCf-5VMSmh7XsEnHgK7z5wX9Aeu3kQu2LzZ4kURnE0l1EgJNeY0QaqfR9lqeJUh3ETPbKVhrha6E9iv_mnSzkYCshjEKKCMDW-HKflcUJF7XhXQM9qc9QbTDNmns68HFuzrpB9cMfT6huowr5jhSHKT8LcM8d7PqtH2zhpLyR81zPLAQUXIvkbxbvtnWGh3mERbJLHd_k56k=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDnUSESZD8biaQpLO_8mEK7KRmSm5wB0EbOC1YfTfIO_qTX9p6_u2aiRgmkO6jmo7gew_jCTZShO5SfbjnK4_4EKUtpxH0iPKJ2_RrgQcYj_35sOkgogoPZYJq6SdM581IBKYjJfrCGHRrCYUkdqydKArwazLYSkv7_RlmkrhXF-jAJ8kkPN6UGStSLCAY9U3ce7YHsIYKgO2c78NUBLTGVhjuAiDA05L-3lOobRos=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUA0-1kbHBdNbVKmcx5aNJTXzXqkn4m0OFwaErzUpIPQ8lGbRFEzgS0pblfAhULGQ4k9OJ5_ujUCLirbJNmLyFO0sCsTPamSviLS4Ls1QEK3Ni9NvHxwOleyjNHEaFO26RyRClwtmnDtv1cPZ2_d_xplB5fky9AgxvMElW4GVd1Rgnx3dJgBCx_g5yqOH9MpJlzhzmo-1Swk-wD2W68_wvxLDOyYjMgmMV-rqAKL-Qk=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUC_6rspYhO9Oig9U_FSt1i4w-Mlmg4jT98h0lI4chMzfGQslNffu8Jqhk7IKGGc-jeitGuDj9_CM6m9mMai2LlJYsZDtZXSfiWklavuNUDL86VcM9ReDuhzrAfTxsfFWOp4wYqPW4NYwWyoYVlBXKky1I2MFB4O1epKOfMCWix2zX-3kuaj0zDA28ogZhQnU4I28nmvCMS-BjYf6AIX3TySgaiKcjsgoW2cvfTMDlg=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUCegzjkjOmH8WGlkBJEl_cMN20Prh29AGcF_BdAL2Myx3Y0_CVxhv6CU7d0p47yLQ0SxKjeKCCx1glTjpxe7ncitmdA8wd_TUCBSU0ktgUu86CBRpWu3Zbw73FU8aJbDjGZh8iEkby8ba6tSJ5asuCCe8JHu6DPu4-Kn9k-XnKQZWwaiBKTmx5yJo9Nod3qcvwZURpHdCrFk-fJwQgXmuVWUGutGS0sCy4DkiYMVBQ=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUD7Fe6F6AKvpnXVGKUaOZSWYioshrH9xsaZbEVNJW9NKfQpc56urIUZ8tLVJbGlXYer_RY2FQx8fly3L_6FmCqyUNQbc6xLDkenXv_MXqlDxLtWCvSZTdKduaXIBPdCqzek1iuvhhb9kfV0c62Yrp4GEEazFXYUW6Q1d0oz8Gyu_TDJk9eJOqdNxGELv5IUMgdUo8BSDEQBJXrab-1GltVEHNXoKfkYG8pwSSkLIKY=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUAatlxCY1SRCTYT70qhExQKUq2ZvOga-appgDQnWiun2XykamcrJK4jTAJSRiJxOoBvIdlG-_jjo8KRznzF877VdlXVZJgNScYL3UKa0U4a0cYFFrR9mbS9_JJbYP-pmz8-DpH90DEOAD6oDu67qz3_ZwcHTg4sO9rYS0FF-q-3mpw4WT-NWRBPPPFQETKR_wy1nZ8g1nR3Y4TtQXPvHrKmsG6ltqPhjmuKm5G56tk=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBRXUW8arIjoDtxX8SGeiSWfBhD8WeWHYGbJlRvoHD57akUk0NNScWHpaGBDrG7xz_dgm4V0z0NhrxKjSPPV3T7WwIfZN5Ca2MBTQ9IUQlY5yFH5KTQkRlVPr4ubPKjK_MRMp5gz2POkQn9_7eioRS0TiTDhcb-xgpRr7IGFBsL7s6TbFwD59kR2dnJ-Tlhb9bDAgyeB_9Rud7NsAfMhoGt_RD36DuEWyT0nXnauo4=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBEdieQwvdtKvoEaT_lrvuLqxmj2eyOEzI3IDg5ZRjyP-l0oFVoJiVN4BcgrR5_gf2L1yuouI_hynEktUxZj6EK1XjC4dv9MzWR-F2nbaX-wzDPyTV7uRKDpBktOQMCrtrlDwa_KDamiOtPGhSJenYpaKTrXnQTeaXss92sLjW6264-_FSQwdIKAOHnnf5dn7JHbKkY8_KrUB9IwOg-JqPB0g8obK9TA84bukXh=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUA--rsw0i3lFZYXRs1yh4l3nZeLUMt544o4Vj3Rs0zYYCbKce0Z-o8nN3mC1w2qHarejZq_4Q74ZspdXwVA3GvuROCmlVS8EzhpShhJtvxZckB-ozkyGKYYoUHMa-sELhIs_c6lqCHWIy5oOc1TA7e6N14X-V9WIEtFyIirEJWlTh6HEZsLtsf3SqJxYqW2a5CdYNi8-ggJHp0J-lOPTFl67A_3TsWqOgfJTNONnco=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBNm1pu6PQ1dnTn-IojxOFscjjJIH3RqeyJzWwNnCnvN9Zv6elQ7c8Wea1x6x0iyGMoA5pdfeyBOqXNnERG1VgXbd5uxBm6JaleSecFvsrJcOH0zZoQZfQeBNAQ7s7RQRo6Y02zgxvPYiEynx5HiNMYz0iOMLc49gVAmIQk7WwhSJYSIzb40am68GVXPMkZbQ3RpAZRGdLbNs-ROYBcMwDDxm-NXhy1wQuHr2hhI7c=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDg8c08jDZhii3xPGLoAVolWoO-g7OO4225FBf_L2Wnj8pwFaAV0RrqRu-fBXHIMY2crPtTGSJ00nTVVpGs0p4lUnJ-AZESMVCdTMYSojrNV0FdV7uP4ateyuoKadKxftmYX5ANVLGFkeYS4ILaRAHC3G9y8y8jZ7xU4_0kAWHKWo_paR74IZI2jNzc2Yy3ybwRTvVcmm2ZGBHiq10bKFVftLMtgIqqAe7dKlzx=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUC9eV4h0HhoqlLydvOl1QgWYLp6CZAtMvg393eWi1aTuezvaLJWsV7I3-Aet1C1lzCsOf9jU9NgN-Qgh29wQSM-kGllJZYD729tYaxLbeWF4-7wXctg_96BPlpr7D561OGVYEOr6_M2OXUFDPGaBmQ-jYqegflAf3ZHnRZE0YhIu9m3KNUq3gkN5NNehiCCWeX-qfkTnaNQXeqEhJEIznbaymRHBMZ6N5OSfoxB=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDzH6mCEYlKok89eD-81tv929HaU8KIpEDrlq__VTeyP3HJJRPYzs5kvp16JAZVfWXO3vX_TVEAGD7GzjHbfHVxHPtR0Rh_DCaEZ9V4lLDOgBdUPGN9Zrx733baoDUxnILtSTJUh0RiCP6ROjlMWQh_psvjICpbcyesaZ9KWhBvYGFeGSwyRXizFaRnALwKWnSuukeoyc2xMw4YJ2SglYJXsiTRpAcj-mYLYWi0WzU=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBopyiBJUF47QMS5bt1TL4s-AUdZiqrVKzTss45DxUJDciqSftMSurtIZzDGeTdJvyOzCP62Wv0rtTWntGFkpJxlfgpadu5hdt_OIczUy0UjZAyBymQS3r7U9ASEW4__kNf-W8N_m-DcIkl2bbeU7-Edm-W1nxTtCm_jmkrl7zJ4h5d7QqrBfoCTFLq5B-uS7PDcsm9bVe7Jbpz-9tTRDzO7My541xnuvSWUE4IfpE=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDgr4NdXxxYHY7V-FE_SgjC9b4ZvcE3HJnjivCg5soHtOGN63W-q-NxhexWDC0R0RXCkSOuhIy7rAuqGErxHtUmp6FKt-BgTiJzlLsP1B55xdAmfQ-LZ7jsGlx49qdhrp7GX2THajsB1z2PgXLEEB4wMRh8ZipWop2ObJmKc_Se7UHfWIPrdPF8l6YnA_zk48OK2_i6sfhmyFku3yg6ig7Yxk-_CnIjJphm65Nk=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDM4usQl0KNrf84J3MHMADVIXNhBJPa_PQW31zbWiEDt30VJuMnYmfwKS_M-Fg6mYZFgQtVaIfTCP4cjYdMj8GhviMP1fJ6ZNRQw1qDGkguF0HV0GuhOMw2w124X8Gpb3qclcUsolcNtv4GTKTrbVl57xtA5GLxsTpLLcmv0TLr37saQbnBTZXb1Hr1FP4PEufCUBfA22DHQ1jikLjke-XHRAJjeZqQwA8uYIxAuWU=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDEzBSzrtWw25ISR9zfy_F4TSCQI9ubXt2tclS6ZH5RVd6tpQakYZrbIXLWNVecYVzh2JlX_S7GLbniZitTkGH-odORWlCf_tzx8hUoXg1FMKioB_hvN7i5gNLk4oqQ1f08D-4TPFEoMCx2lRcPgHc7j0IBk8Z01GcIU_QqIztmIgxNBTlT005yP-Sc1Djv3DqZXAHEgV4ERvfzJCjEworxha2_eagV92hnmpxiz_A=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBGyw4AYi1KkEW1iryLmIEXCLmvipFgUsuXMqSoYaZmkibuE6O9-AOrOxal_zhrGMd7EY_RBtRUURmvb8NsexWd-YRG80AVFKjRp_4Vb2PwyCK27xQq_9e0b5z87jZvVFnvI6Uc-L1UB5Cd-kmTN02ZyZmr0rYhftGB8mMn6uSmdH0ltSl1p7OfgWA7B7eDb9J9uM3UrNaO5b3V0Cs3tpJ9NciaB0Resj0aK7f2=w1280)
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUBVJULogAmY1-STLFbQ-fRrsMQVtanrD4XaXvSKZagxVgp1X9YxVv9I1o2WHKzoOMwsRFH4GxzMAp9YquKk8SzKDWjjHpdKgP2tNS7iB-l03e9g7WxnPIN0vfmU5B4yeJUYepA_IZu_kTF-dltbmY2vGhPg69nop8xZ8h8F1o-fJb7JfPjIh09Ga7jGxQYLRso4yIH7Xl96MSSWILts66uh9JpDlrwCIIhsicSQ=w1280)
+
+The contents within this publication have been found to be damaging to the security and safety of our solar system and thus redacted by order of the Unified Earth Space Council.
+
+  
+
+27.05.2888
+
+### #theythoughtweweregone,theywerewrong
+
+[
+
+](https://marathon.karnemir.com/intercepts/mida/media#h.advitk11q3vs)
+
+#theythoughtweweregone,theywerewrong
+
+@We\_Are\_MIDA
+
+![](https://lh3.googleusercontent.com/sitesv/AA5AbUDIa-am3PtJNjOfMjB_FUO1uwofvzFNJmhQBaAlqZ8Y6AAOB4UjONmIoLyLxJ3IKRWFUw0t3YMtc4gtsuPaPZQMi_-XN9zHiPuqMBfeifN1QNt4kzINpjEjqesgvoph4qAqr0GStBW600Z4rF89KBp0Hsp7hpti1VoTsuRIi8pLseFL-6n-Z5Lin-j3iw4=w1280)

@@ -1,0 +1,8 @@
+node_modules/
+public/
+.quartz-cache/
+npm.log
+serve.log
+plugins.log
+prof/
+.DS_Store
