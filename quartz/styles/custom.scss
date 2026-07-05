@@ -1,3 +1,18 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Marathon Brane: let the explorer breathe — 1,400+ tree items need a scrollbar
+.sidebar.left {
+  max-height: 100vh;
+}
+.explorer {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto !important;
+  scrollbar-width: thin;
+}
+.explorer-content {
+  max-height: none !important;
+  overflow-y: visible !important;
+}
