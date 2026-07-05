@@ -13,7 +13,7 @@ tags: [character, trilogy, m2, spht, myth, jjaro]
 source-count: 6
 mentioned-by: 9
 appears-in: [m2, infinity]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Yrro
@@ -84,18 +84,17 @@ The W'rkncacnter were not destroyed — they were imprisoned in Lh'owon's sun, s
 - [[Mirror/archive/marathon-2/citadel/eat-it-vid-boi|citadel · eat-it-vid-boi]]
 - [[Mirror/archive/marathon-2/citadel/six-thousand-feet-under|citadel · six-thousand-feet-under]]
 - [[Mirror/archive/marathon-2/citadel/the-hard-stuff-rules|citadel · the-hard-stuff-rules]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Aye-Mak Sicur — tat.iana](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
-[^2]: [You Think You're Big Time… — dciel1cb1](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
-[^3]: [You Think You're Big Time… — wgrnc.q23](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
-[^4]: [Eat It Vid Boi — Mnr \*@1cz](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
-[^5]: [Six Thousand Feet Under — ax1-40^23](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
-[^6]: [The Hard Stuff Rules — Rr2Shr9](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
-
+[^1]: [[Leela/Marathon Infinity/aye-mak-sicur/tat.iana|tat.iana]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
+[^2]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/dciel1cb1|dciel1cb1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
+[^3]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/wgrnc.q23|wgrnc.q23]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
+[^4]: [[Leela/Marathon 2 - Durandal/eat-it-vid-boi/-Mnr --@1cz- 9cm2-|<Mnr \*@1cz: 9cm2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
+[^5]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/ax1-40^23-094.95.28.85-|ax1-40^23<094.95.28.85>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
+[^6]: [[Leela/Marathon 2 - Durandal/the-hard-stuff-rules/Rr2Shr9-995.52.194.63-|Rr2Shr9<995.52.194.63>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

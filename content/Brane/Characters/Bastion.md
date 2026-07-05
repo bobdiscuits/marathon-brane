@@ -13,7 +13,7 @@ tags: [character, ai, colony-ai, rhea-suite, m2026, brane-hub]
 source-count: 11
 mentioned-by: 20
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Bastion
@@ -97,17 +97,16 @@ Bastion is one of **eight "Strong" colony support intelligences** built by **Tra
 
 ## Sources
 
-[^1]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^2]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^3]: [Cerebral Record: Bastion](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
-[^4]: [Cerebral Record: Arthur](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
-[^5]: [Report from Orbital Satellites](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.fm4o1r7rx3p0)
-[^6]: [Ecological Best Practices](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kmsfc0fciv1x)
-[^7]: [Drone Modifications](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kkp3galoosm6)
-[^8]: [Personal Log: Kuzmin, I.](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.w9hf1720cmvb)
-[^9]: [Anomaly Incident Reports](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.dfyiaydai6aj)
-[^10]: [Mars, Our First Colony](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.8gbex8rdet0f)
-[^11]: [Our Cosmic Home](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.x98u3jlftuqo)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^2]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Bastion|Cerebral Record: Bastion]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Arthur|Cerebral Record: Arthur]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
+[^5]: [[Leela/Marathon 2026/perimeter/Report from Orbital Satellites|Report from Orbital Satellites]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.fm4o1r7rx3p0)
+[^6]: [[Leela/Marathon 2026/perimeter/Ecological Best Practices|Ecological Best Practices]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kmsfc0fciv1x)
+[^7]: [[Leela/Marathon 2026/perimeter/Drone Modifications|Drone Modifications]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kkp3galoosm6)
+[^8]: [[Leela/Marathon 2026/perimeter/Personal Log- Kuzmin, I.|Personal Log: Kuzmin, I.]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.w9hf1720cmvb)
+[^9]: [[Leela/Marathon 2026/faction-traxus/Anomaly Incident Reports|Anomaly Incident Reports]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.dfyiaydai6aj)
+[^10]: [[Leela/Marathon 2026/dire-marsh/Mars, Our First Colony|Mars, Our First Colony]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.8gbex8rdet0f)
+[^11]: [[Leela/Marathon 2026/dire-marsh/Our Cosmic Home|Our Cosmic Home]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.x98u3jlftuqo)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

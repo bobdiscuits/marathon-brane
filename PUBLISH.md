@@ -12,3 +12,5 @@ The repo is staged and committed. To go live:
 **Brane-only vs. both:** the repo currently ships BOTH halves (Brane + Mirror). To publish analysis-only, add "Mirror" to `ignorePatterns` in `quartz.config.ts` — the hubs' footnotes still link out to karnemir. `CONTENT-LICENSE.md` covers the both-halves case.
 
 **Refresh after vault edits:** re-run the rsync in `README-DEMO.md`, plus `_tools/artifact_index.py` + `_tools/export_console.py` in the vault, then copy `_index/console_snapshot.html` → `content/console.html`, commit, push.
+
+> Note: Quartz emits `content/console.html` at the clean URL `/console`. After deploy, verify it renders on GitHub Pages; if it downloads instead, move the file to `quartz/static/` and link `/static/console.html`.

@@ -13,7 +13,7 @@ tags: [ai, colony-ai, rhea-suite, nucaloric, new-cascadia, anomaly, rampancy, m2
 source-count: 19
 mentioned-by: 23
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Darius
@@ -180,25 +180,24 @@ V1.7 filed Darius only as a Dire Marsh "Corrupt AI Data Log" subject, and framed
 
 ## Sources
 
-[^1]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^2]: [Agricultural Inspection](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.odlhuhx6nehd)
-[^3]: [Maintenance Logs: Darius](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.avu26s73trbs)
-[^4]: [Diagnostic Analysis: Darius](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
-[^7]: [Security Recording: Seed Vault](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
-[^8]: [Field Recording: C. Song](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
-[^9]: [UESC Report: Combat Protocol](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.760jqqm5k360)
-[^10]: [Data Log: Confinement](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.d867104hundl)
-[^11]: [Data Log: Consideration](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.hg01llrrz7nv)
-[^12]: [Data Log: Evolution](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.flx515d4ryrt)
-[^13]: [Data Log: Madness](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.nyk41m7bbg59)
-[^14]: [Data Log: Eternity](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.gb1qr0dmdxj5)
-[^15]: [Unauthorized Access Request](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
-[^16]: [Classified: Colony Anomaly Research](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xqolsxndepmg)
-[^17]: [Bonsai Care Sheet](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.56ij2v4iy4qx)
-[^18]: [Darius and Joy Dialogue](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
-[^19]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^20]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^21]: [Mars, Our First Colony](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.8gbex8rdet0f)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^2]: [[Leela/Marathon 2026/faction-nucaloric/Agricultural Inspection|Agricultural Inspection]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.odlhuhx6nehd)
+[^3]: [[Leela/Marathon 2026/faction-nucaloric/Maintenance Logs- Darius|Maintenance Logs: Darius]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.avu26s73trbs)
+[^4]: [[Leela/Marathon 2026/faction-nucaloric/Diagnostic Analysis- Darius|Diagnostic Analysis: Darius]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
+[^7]: [[Leela/Marathon 2026/faction-nucaloric/Security Recording- Seed Vault|Security Recording: Seed Vault]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
+[^8]: [[Leela/Marathon 2026/faction-nucaloric/Field Recording- C. Song|Field Recording: C. Song]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
+[^9]: [[Leela/Marathon 2026/faction-traxus/UESC Report- Combat Protocol|UESC Report: Combat Protocol]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.760jqqm5k360)
+[^10]: [[Leela/Marathon 2026/dire-marsh/Data Log- Confinement|Data Log: Confinement]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.d867104hundl)
+[^11]: [[Leela/Marathon 2026/dire-marsh/Data Log- Consideration|Data Log: Consideration]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.hg01llrrz7nv)
+[^12]: [[Leela/Marathon 2026/dire-marsh/Data Log- Evolution|Data Log: Evolution]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.flx515d4ryrt)
+[^13]: [[Leela/Marathon 2026/dire-marsh/Data Log- Madness|Data Log: Madness]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.nyk41m7bbg59)
+[^14]: [[Leela/Marathon 2026/dire-marsh/Data Log- Eternity|Data Log: Eternity]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.gb1qr0dmdxj5)
+[^15]: [[Leela/Marathon 2026/dire-marsh-night/Unauthorized Access Request|Unauthorized Access Request]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
+[^16]: [[Leela/Marathon 2026/dire-marsh-night/Classified- Colony Anomaly Research (xqolsx)|Classified: Colony Anomaly Research]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xqolsxndepmg)
+[^17]: [[Leela/Marathon 2026/perimeter/Bonsai Care Sheet|Bonsai Care Sheet]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.56ij2v4iy4qx)
+[^18]: [[Leela/Marathon 2026/perimeter/Darius and Joy Dialogue|Darius and Joy Dialogue]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
+[^19]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^20]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^21]: [[Leela/Marathon 2026/dire-marsh/Mars, Our First Colony|Mars, Our First Colony]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.8gbex8rdet0f)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

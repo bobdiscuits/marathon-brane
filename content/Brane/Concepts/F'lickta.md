@@ -12,7 +12,7 @@ tags: [concept, creature, trilogy, m2, lhowon, spht]
 source-count: 5
 mentioned-by: 4
 appears-in: [m2, codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # F'lickta
@@ -81,11 +81,10 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Rr2Shr9\<995.52.194.63\>](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
-[^2]: [Remote Tecibon 05fc392d](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.dbaxap586ury)
-[^3]: [CI32LCOC.A](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.xolq9wwhfp5e)
-[^4]: [Alien History](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
-[^5]: [Z-4 G-3 A-4c @394](https://marathon.karnemir.com/archive/marathon-2/garrison/curiouser-and-curiouser#h.c0r4myuqx26s)
-
+[^1]: [[Leela/Marathon 2 - Durandal/the-hard-stuff-rules/Rr2Shr9-995.52.194.63-|Rr2Shr9<995.52.194.63>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
+[^2]: [[Leela/Marathon 2 - Durandal/charon-doesnt-make-change/Remote Tecibon 05fc392d|Remote Tecibon 05fc392d]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.dbaxap586ury)
+[^3]: [[Leela/Marathon 2 - Durandal/charon-doesnt-make-change/CI32LCOC.A|CI32LCOC.A]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.xolq9wwhfp5e)
+[^4]: [[Leela/Marathon 2026/cryo-archive/Alien History (9xe7pf)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
+[^5]: [[Leela/Marathon 2 - Durandal/curiouser-and-curiouser/Z-4 G-3 A-4c @394|Z-4 G-3 A-4c @394]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/garrison/curiouser-and-curiouser#h.c0r4myuqx26s)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

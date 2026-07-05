@@ -13,7 +13,7 @@ tags: [character, m2026, new-cascadia]
 source-count: 10
 mentioned-by: 9
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Luca Caruso
@@ -93,16 +93,15 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Post-Apocalyptic Log](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
-[^2]: [Broadcast: Caruso](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xjdyz3jhyf1h)
-[^3]: [Council Meeting Recording](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
-[^4]: [Colony Announcement](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.p9lkfg8ivime)
-[^5]: [Letter Dictation](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.xpv25cjmv06k)
-[^6]: [Anomaly Taskforce Extension Request](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
-[^7]: [Anomaly Recording](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.29sdbyj9tfgu)
-[^8]: [Luca Caruso](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.u7nzc8n685hx)
-[^9]: [Maverick Research](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.11bom225g6ij)
-[^10]: [Personal Log: Hassan](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
-
+[^1]: [[Leela/Marathon 2026/dire-marsh/Post-Apocalyptic Log|Post-Apocalyptic Log]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
+[^2]: [[Leela/Marathon 2026/faction-nucaloric/Broadcast- Caruso|Broadcast: Caruso]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xjdyz3jhyf1h)
+[^3]: [[Leela/Marathon 2026/faction-traxus/Council Meeting Recording|Council Meeting Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
+[^4]: [[Leela/Marathon 2026/faction-traxus/Colony Announcement|Colony Announcement]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.p9lkfg8ivime)
+[^5]: [[Leela/Marathon 2026/faction-traxus/Letter Dictation|Letter Dictation]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.xpv25cjmv06k)
+[^6]: [[Leela/Marathon 2026/faction-traxus/Anomaly Taskforce Extension Request|Anomaly Taskforce Extension Request]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
+[^7]: [[Leela/Marathon 2026/faction-traxus/Anomaly Recording|Anomaly Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.29sdbyj9tfgu)
+[^8]: [[Leela/Marathon 2026/cryo-archive/Luca Caruso|Luca Caruso]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.u7nzc8n685hx)
+[^9]: [[Leela/Marathon 2026/faction-sekiguchi/Maverick Research|Maverick Research]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.11bom225g6ij)
+[^10]: [[Leela/Marathon 2026/outpost/Personal Log- Hassan|Personal Log: Hassan]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

@@ -13,7 +13,7 @@ tags: [character, nucaloric, m2026, brane-hub]
 source-count: 3
 mentioned-by: 3
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Gus Moraine
@@ -69,9 +69,8 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [NuCal Overview](https://marathon.karnemir.com/codex/factions/nucaloric/comms#h.t98ew6vw4ufu)
-[^2]: [Colonist Welcome Package](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.3izn72exrnwk)
-[^3]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-
+[^1]: [[Leela/Marathon 2026/faction-nucaloric/NuCal Overview|NuCal Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/comms#h.t98ew6vw4ufu)
+[^2]: [[Leela/Marathon 2026/perimeter/Colonist Welcome Package|Colonist Welcome Package]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.3izn72exrnwk)
+[^3]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

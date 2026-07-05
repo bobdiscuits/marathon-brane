@@ -13,7 +13,7 @@ tags: [character, ai, sekiguchi, m2026, storyteller, key-lore, brane-hub]
 source-count: 5
 mentioned-by: 8
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Nona

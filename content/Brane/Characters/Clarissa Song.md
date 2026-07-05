@@ -13,7 +13,7 @@ tags: [character, nucaloric, scientist, m2026, new-cascadia]
 source-count: 5
 mentioned-by: 7
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Dr. Clarissa Song
@@ -78,11 +78,10 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Agricultural Inspection](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.odlhuhx6nehd)
-[^2]: [Security Recording: Seed Vault](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
-[^3]: [Lab Report: Novel Contagion](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.1c67o25lvjn7)
-[^4]: [Fieldwork Request: C. Song](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.wh7myegimvd3)
-[^5]: [Field Recording: C. Song](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
-
+[^1]: [[Leela/Marathon 2026/faction-nucaloric/Agricultural Inspection|Agricultural Inspection]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.odlhuhx6nehd)
+[^2]: [[Leela/Marathon 2026/faction-nucaloric/Security Recording- Seed Vault|Security Recording: Seed Vault]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
+[^3]: [[Leela/Marathon 2026/faction-nucaloric/Lab Report- Novel Contagion|Lab Report: Novel Contagion]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.1c67o25lvjn7)
+[^4]: [[Leela/Marathon 2026/faction-nucaloric/Fieldwork Request- C. Song|Fieldwork Request: C. Song]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.wh7myegimvd3)
+[^5]: [[Leela/Marathon 2026/faction-nucaloric/Field Recording- C. Song|Field Recording: C. Song]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

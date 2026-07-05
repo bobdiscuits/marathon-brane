@@ -13,7 +13,7 @@ tags: [character, scientist, ai, rampancy, trilogy, m2026, brane-hub]
 source-count: 30
 mentioned-by: 16
 appears-in: [m1, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Bernhard Strauss
@@ -140,36 +140,35 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Science Station 43-c (Blaspheme Quarantine)](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.y3ose2w89y09)
-[^2]: [Public Access 1066-g (Beware of Low-Flying Defense Drones)](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/beware-of-low-flying-defense-drones#h.59khe6ue893c)
-[^3]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^4]: [Luca Caruso](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.u7nzc8n685hx)
-[^5]: [Dr. Mari Hassan](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.n5krcy9xu4w6)
-[^6]: [Welcome Message: Strauss](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.va6qn8pjowto)
-[^7]: [Security Brief: Rampancy, Stage 2](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.cgo2tk8mkz3t)
-[^8]: [Security Report: Lt. Yabara](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.f0yztul74tbu)
-[^9]: [Colony AI memorandum (UESC Letters)](https://marathon.karnemir.com/intercepts/uesc/letters#h.1vi2dqmd5jzi)
-[^10]: [Questioning Intelligence](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.r6dkgx34w14l)
-[^11]: [Consideration of the Artificial](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.6xmqayobsofg)
-[^12]: [AI and Automation](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.lb3bmw5chb41)
-[^13]: [The Family Support Suite](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.172jtub34cr)
-[^14]: [CyberAcme Interview](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
-[^15]: [A Conversation Starter](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.yhvesqxxgkd8)
-[^16]: [Public Access Terminal 59-e (No Artificial Colors)](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/no-artificial-colors#h.ocwoe2so6vp0)
-[^17]: [Project Goliath Draft A](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
-[^18]: [Project Goliath Draft B](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
-[^19]: [Project Goliath Draft E](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
-[^20]: [Considering Degradation](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
-[^21]: [Mentoring Intelligence](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.ily8nvmv72t1)
-[^22]: [Growing Pains](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.i444mdlb5e4v)
-[^23]: [Farewell](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.1dg1e48li3b)
-[^24]: [Assessment: Joy](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.yz45thbjq7jc)
-[^25]: [Strauss.B.file](https://marathon.karnemir.com/intercepts/uesc/terminal#h.59byk7scaver)
+[^1]: [[Leela/Marathon 1/blaspheme-quarantine/Science Station 43-c|Science Station 43-c]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.y3ose2w89y09)
+[^2]: [[Leela/Marathon 1/beware-of-low-flying-defense-drones/Public Access 1066-g|Public Access 1066-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/beware-of-low-flying-defense-drones#h.59khe6ue893c)
+[^3]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^4]: [[Leela/Marathon 2026/cryo-archive/Luca Caruso|Luca Caruso]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.u7nzc8n685hx)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Dr. Mari Hassan|Dr. Mari Hassan]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.n5krcy9xu4w6)
+[^6]: [[Leela/Marathon 2026/outpost/Welcome Message- Strauss|Welcome Message: Strauss]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.va6qn8pjowto)
+[^7]: [[Leela/Marathon 2026/outpost/Security Brief- Rampancy, Stage 2|Security Brief: Rampancy, Stage 2]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.cgo2tk8mkz3t)
+[^8]: [[Leela/Marathon 2026/outpost/Security Report- Lt. Yabara (f0yztu)|Security Report: Lt. Yabara]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.f0yztul74tbu)
+[^9]: [[Leela/Marathon 2026/intercepts-uesc/Colony AI-|Colony AI:]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.1vi2dqmd5jzi)
+[^10]: [[Leela/Marathon 2026/perimeter/Questioning Intelligence|Questioning Intelligence]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.r6dkgx34w14l)
+[^11]: [[Leela/Marathon 2026/perimeter/Consideration of the Artificial|Consideration of the Artificial]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.6xmqayobsofg)
+[^12]: [[Leela/Marathon 2026/perimeter/AI and Automation|AI and Automation]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.lb3bmw5chb41)
+[^13]: [[Leela/Marathon 2026/perimeter/The Family Support Suite|The Family Support Suite]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.172jtub34cr)
+[^14]: [[Leela/Marathon 2026/perimeter/CyberAcme Interview|CyberAcme Interview]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
+[^15]: [[Leela/Marathon 2026/perimeter/A Conversation Starter|A Conversation Starter]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.yhvesqxxgkd8)
+[^16]: [[Leela/Marathon 1/no-artificial-colors/Public Access Terminal 59-e|Public Access Terminal 59-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/no-artificial-colors#h.ocwoe2so6vp0)
+[^17]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_A|Project:Goliath\_DRAFT\_A]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
+[^18]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_B|Project:Goliath\_DRAFT\_B]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
+[^19]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_E|Project:Goliath\_DRAFT\_E]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
+[^20]: [[Leela/Marathon 2026/cryo-archive/Considering Degradation|Considering Degradation]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
+[^21]: [[Leela/Marathon 2026/cryo-archive/Mentoring Intelligence|Mentoring Intelligence]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.ily8nvmv72t1)
+[^22]: [[Leela/Marathon 2026/cryo-archive/Growing Pains|Growing Pains]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.i444mdlb5e4v)
+[^23]: [[Leela/Marathon 2026/cryo-archive/Farewell|Farewell]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.1dg1e48li3b)
+[^24]: [[Leela/Marathon 2026/outpost/Assessment- Joy|Assessment: Joy]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.yz45thbjq7jc)
+[^25]: [[Leela/Marathon 2026/intercepts-uesc/Strauss.B.file|Strauss.B.file]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.59byk7scaver)
 [^26]: [B. Strauss, On AI (header)](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.lolui94hnfpn)
 [^27]: [Bernard Strauss's Journal (header)](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.ricgzs9c6x36)
-[^28]: [Value in Reflection](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.wp0qpkl2i1d0)
-[^29]: [UESC Letter (Montenegro-Sankara)](https://marathon.karnemir.com/intercepts/uesc/letters#h.o4gbj5d6yhf6)
-[^30]: [Welcome to Marathon draft003a](https://marathon.karnemir.com/intercepts/uesc/terminal#h.ipr4g5uknc08)
-
+[^28]: [[Leela/Marathon 2026/cryo-archive/Value in Reflection|Value in Reflection]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.wp0qpkl2i1d0)
+[^29]: [[Leela/Marathon 2026/intercepts-uesc/Unified Earth Space Council Center|Unified Earth Space Council Center]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.o4gbj5d6yhf6)
+[^30]: [[Leela/Marathon 2026/intercepts-uesc/Welcome-_to-_Marathon-_draft003a.txt|Welcome\_to\_Marathon\_draft003a.txt]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.ipr4g5uknc08)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

@@ -13,7 +13,7 @@ tags: [character, ai, colony-ai, rhea-suite, new-cascadia, m2026, brane-hub]
 source-count: 29
 mentioned-by: 18
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Joy
@@ -161,35 +161,34 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^2]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^3]: [Cerebral Record: Arthur](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
-[^4]: [Cerebral Record: Lilith](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
-[^5]: [Cerebral Record: Gabriel](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
-[^6]: [Emotional Support: Greeting](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.7yzspwpzelh)
-[^7]: [Emotional Support: Encouragement](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.aezoq8tupkjk)
-[^8]: [Emotional Support: Celebration](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.g8eqn7nzg91i)
-[^9]: [Emotional Support: Comfort](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.gack0hqrp1jh)
-[^10]: [Emotional Support: Reflection](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rehdgnhyq60x)
-[^11]: [Eulogy Broadcast](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.zgq0rmquj36t)
-[^12]: [UESC Interrogation: Alva, T.](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.30y5fqh51eji)
-[^13]: [Anomaly Taskforce Extension Request](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
-[^14]: [Colony Announcement](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.p9lkfg8ivime)
-[^15]: [Manifesto](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.tyg2gp83jqvh)
-[^16]: [Personal Log: Hassan](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
-[^17]: [Nightmare Accounts](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.1jrb77vfhumg)
-[^18]: [Assessment: Joy](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.yz45thbjq7jc)
-[^19]: [Activation Error: Joy](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.4bghyc3onrxx)
-[^20]: [Self-Diagnostics: Joy](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.dcn4zccsei2)
-[^21]: [AI Recollection](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.z77k1kvv7ewv)
-[^22]: [Recording: Grief Intervention](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.7xf0f47w8atl)
-[^23]: [Darius and Joy Dialogue](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
-[^24]: [New Cascadia Potluck](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.o7i366hf1pos)
-[^25]: [Behavior Analysis](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
-[^26]: [Messaging Review](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.yetlgjx2h03e)
-[^27]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^28]: [Cerebral Record: Bastion](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
-[^29]: [Cerebral Record: Icarus](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^2]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Arthur|Cerebral Record: Arthur]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Lilith|Cerebral Record: Lilith]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
+[^5]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Gabriel|Cerebral Record: Gabriel]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
+[^6]: [[Leela/Marathon 2026/dire-marsh/Emotional Support- Greeting|Emotional Support: Greeting]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.7yzspwpzelh)
+[^7]: [[Leela/Marathon 2026/dire-marsh/Emotional Support- Encouragement|Emotional Support: Encouragement]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.aezoq8tupkjk)
+[^8]: [[Leela/Marathon 2026/dire-marsh/Emotional Support- Celebration|Emotional Support: Celebration]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.g8eqn7nzg91i)
+[^9]: [[Leela/Marathon 2026/dire-marsh/Emotional Support- Comfort|Emotional Support: Comfort]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.gack0hqrp1jh)
+[^10]: [[Leela/Marathon 2026/dire-marsh/Emotional Support- Reflection|Emotional Support: Reflection]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rehdgnhyq60x)
+[^11]: [[Leela/Marathon 2026/cryo-archive/Eulogy Broadcast|Eulogy Broadcast]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.zgq0rmquj36t)
+[^12]: [[Leela/Marathon 2026/dire-marsh/UESC Interrogation- Alva, T.|UESC Interrogation: Alva, T.]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.30y5fqh51eji)
+[^13]: [[Leela/Marathon 2026/faction-traxus/Anomaly Taskforce Extension Request|Anomaly Taskforce Extension Request]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
+[^14]: [[Leela/Marathon 2026/faction-traxus/Colony Announcement|Colony Announcement]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.p9lkfg8ivime)
+[^15]: [[Leela/Marathon 2026/outpost/Manifesto|Manifesto]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.tyg2gp83jqvh)
+[^16]: [[Leela/Marathon 2026/outpost/Personal Log- Hassan|Personal Log: Hassan]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
+[^17]: [[Leela/Marathon 2026/outpost/Nightmare Accounts|Nightmare Accounts]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.1jrb77vfhumg)
+[^18]: [[Leela/Marathon 2026/outpost/Assessment- Joy|Assessment: Joy]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.yz45thbjq7jc)
+[^19]: [[Leela/Marathon 2026/outpost/Activation Error- Joy|Activation Error: Joy]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.4bghyc3onrxx)
+[^20]: [[Leela/Marathon 2026/outpost/Self-Diagnostics- Joy|Self-Diagnostics: Joy]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.dcn4zccsei2)
+[^21]: [[Leela/Marathon 2026/outpost/AI Recollection|AI Recollection]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.z77k1kvv7ewv)
+[^22]: [[Leela/Marathon 2026/perimeter/Recording- Grief Intervention|Recording: Grief Intervention]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.7xf0f47w8atl)
+[^23]: [[Leela/Marathon 2026/perimeter/Darius and Joy Dialogue|Darius and Joy Dialogue]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
+[^24]: [[Leela/Marathon 2026/perimeter/New Cascadia Potluck|New Cascadia Potluck]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.o7i366hf1pos)
+[^25]: [[Leela/Marathon 2026/dire-marsh-night/Behavior Analysis|Behavior Analysis]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
+[^26]: [[Leela/Marathon 2026/dire-marsh-night/Messaging Review|Messaging Review]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.yetlgjx2h03e)
+[^27]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^28]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Bastion|Cerebral Record: Bastion]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
+[^29]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Icarus|Cerebral Record: Icarus]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

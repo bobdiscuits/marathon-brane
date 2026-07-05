@@ -13,7 +13,7 @@ tags: [faction, corporation, m2026, cyberacme]
 source-count: 19
 mentioned-by: 13
 appears-in: [codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 
@@ -130,25 +130,24 @@ members: []
 
 ## Sources
 
-[^1]: [CyAc Overview](https://marathon.karnemir.com/codex/factions/cyberacme/comms#h.pjtp4m7qo0vt)
-[^2]: [Welcome_to_Marathon_draft003a.txt](https://marathon.karnemir.com/intercepts/uesc/terminal#h.ipr4g5uknc08)
-[^3]: [Shell "Death" Overview](https://marathon.karnemir.com/codex/career/orientation#h.74xhn1h9e87y)
-[^4]: [Runner Contract](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.phu5hx6v8n0r)
-[^5]: [TRP Copy (Debtor, Palliative)](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.3t2t4rm4d97h)
-[^6]: [Acceptance Notice](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
-[^7]: [C.A.R.R.I. Overview](https://marathon.karnemir.com/codex/career/pacesetter#h.tjxgaek2uhli)
-[^8]: [Advertisement](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.9jaa6wmopr7v)
-[^9]: [Cradle Overview](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
-[^10]: [Custom Chassis (Cradle Function)](https://marathon.karnemir.com/codex/loot/cradle#h.hmcp1k7qa305)
-[^11]: [Diagnostic Analysis: Darius](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
-[^12]: [Crew Chatter Log](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.36kxq6buk21o)
-[^13]: [Opening Connection to Server ß.4.5-23 / SYSINFO / DIAGNOSTIC_REPORT.txt](https://marathon.karnemir.com/intercepts/uesc/terminal#h.gp8mjcnbwp4r)
-[^14]: [LOG#11734 / LOG#25792](https://marathon.karnemir.com/intercepts/traxus/chats#h.zd4cr4tzy0bc)
-[^15]: [Attn: Quarantine in Effect](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.3apy6nt31ams)
-[^16]: [AI Security Protocols](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.qmipb8te73ua)
-[^17]: [CyberAcme Interview](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
-[^18]: [Leaked PR Campaign](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.syyyez33fe12)
-[^19]: [Bioaugment Incidents](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.4uas9k207et2)
-
+[^1]: [[Leela/Marathon 2026/faction-cyberacme/CyAc Overview|CyAc Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/cyberacme/comms#h.pjtp4m7qo0vt)
+[^2]: [[Leela/Marathon 2026/intercepts-uesc/Welcome-_to-_Marathon-_draft003a.txt|Welcome\_to\_Marathon\_draft003a.txt]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.ipr4g5uknc08)
+[^3]: [[Leela/Marathon 2026/career/Shell -Death- Overview|Shell "Death" Overview]] · [src ↗](https://marathon.karnemir.com/codex/career/orientation#h.74xhn1h9e87y)
+[^4]: [[Leela/Marathon 2026/dire-marsh-night/Runner Contract|Runner Contract]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.phu5hx6v8n0r)
+[^5]: [[Leela/Marathon 2026/dire-marsh-night/TRP Copy (Debtor, Pallative)|TRP Copy (Debtor, Pallative)]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.3t2t4rm4d97h)
+[^6]: [[Leela/Marathon 2026/dire-marsh-night/Acceptance Notice|Acceptance Notice]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
+[^7]: [[Leela/Marathon 2026/career/C.A.R.R.I. Overview|C.A.R.R.I. Overview]] · [src ↗](https://marathon.karnemir.com/codex/career/pacesetter#h.tjxgaek2uhli)
+[^8]: [[Leela/Marathon 2026/dire-marsh-night/Advertisement|Advertisement]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.9jaa6wmopr7v)
+[^9]: [[Leela/Marathon 2026/loot/Matter, Converted|Matter, Converted]] · [src ↗](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
+[^10]: [[Leela/Marathon 2026/loot/Custom Chasis|Custom Chasis]] · [src ↗](https://marathon.karnemir.com/codex/loot/cradle#h.hmcp1k7qa305)
+[^11]: [[Leela/Marathon 2026/faction-nucaloric/Diagnostic Analysis- Darius|Diagnostic Analysis: Darius]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
+[^12]: [[Leela/Marathon 2026/dire-marsh-night/Crew Chatter Log|Crew Chatter Log]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.36kxq6buk21o)
+[^13]: [[Leela/Marathon 2026/intercepts-uesc/Opening Connection to ß.4.5-23|Opening Connection to ß.4.5-23]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.gp8mjcnbwp4r)
+[^14]: [[Leela/Marathon 2026/intercepts-traxus/LOG-11734|LOG#11734]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.zd4cr4tzy0bc)
+[^15]: [[Leela/Marathon 2026/dire-marsh-night/Attn- Quarantine in Effect|Attn: Quarantine in Effect]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.3apy6nt31ams)
+[^16]: [[Leela/Marathon 2026/perimeter/AI Security Protocols|AI Security Protocols]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.qmipb8te73ua)
+[^17]: [[Leela/Marathon 2026/perimeter/CyberAcme Interview|CyberAcme Interview]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
+[^18]: [[Leela/Marathon 2026/perimeter/Leaked PR Campaign|Leaked PR Campaign]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.syyyez33fe12)
+[^19]: [[Leela/Marathon 2026/perimeter/Bioaugment Incidents|Bioaugment Incidents]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.4uas9k207et2)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

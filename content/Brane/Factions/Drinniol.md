@@ -13,7 +13,7 @@ tags: [faction, species, trilogy, pfhor, drinniol]
 source-count: 4
 mentioned-by: 4
 appears-in: [m1, m2, infinity]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 
@@ -81,16 +81,15 @@ members: []
 
 - [[Mirror/archive/marathon-1/counterattack/defend-this|counterattack · defend-this]]
 - [[Mirror/archive/marathon-2/durandal/for-carnage-apply-within|durandal · for-carnage-apply-within]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
-- [[Mirror/archive/marathon/rage/thing-what-kicks|rage · thing-what-kicks]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
+- [[Mirror/archive/marathon-infinity/rage/thing-what-kicks|rage · thing-what-kicks]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Defense Security Access 23-e — Defend This](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.asrmlj01mw9)
-[^2]: [Report to Lh'owon Command — Introduction](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
-[^3]: [traxIV — For Carnage Apply Within](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
-[^4]: [fred.cictl.circe — Thing What Kicks](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
-
+[^1]: [[Leela/Marathon 1/defend-this/Defense Security Access 23-e|Defense Security Access 23-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.asrmlj01mw9)
+[^2]: [[Leela/Marathon Infinity/introduction/Report to Lh’owon Command|Report to Lh’owon Command]] · [src ↗](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
+[^3]: [[Leela/Marathon 2 - Durandal/for-carnage-apply-within/traxIV-40c-40c- 48c-48c-|traxIV<40c<40c> 48c<48c>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
+[^4]: [[Leela/Marathon Infinity/thing-what-kicks/fred.cictl.circe|fred.cictl.circe]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

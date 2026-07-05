@@ -13,7 +13,7 @@ tags: [character, ai, m2026, rampancy, hermes-adjacent, brane-hub]
 source-count: 5
 mentioned-by: 8
 appears-in: [m1, m2, infinity, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # IDEA (AI)
@@ -74,11 +74,10 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Final Quadrant Report](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j9fe017v9e12)
-[^2]: [!!!Emergency Alert!!!](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.situ4eg7qfuf)
-[^3]: [Marathon Ship AI Distress Review](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.t404p2yoyoib)
-[^4]: [Pre-Decommission Reflection](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.blh35ru5m6rf)
-[^5]: [Considering Degradation](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Final Quadrant Report|Final Quadrant Report]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j9fe017v9e12)
+[^2]: [[Leela/Marathon 2026/cryo-archive/!!!Emergency Alert!!!|!!!Emergency Alert!!!]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.situ4eg7qfuf)
+[^3]: [[Leela/Marathon 2026/cryo-archive/Distress Review -[Interrupted-]|Distress Review \[Interrupted\]]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.t404p2yoyoib)
+[^4]: [[Leela/Marathon 2026/cryo-archive/Pre-Decommission Reflection|Pre-Decommission Reflection]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.blh35ru5m6rf)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Considering Degradation|Considering Degradation]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

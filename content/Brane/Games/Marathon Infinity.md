@@ -2,6 +2,7 @@
 type: game
 aliases: [Marathon Infinity, Marathon Inf, Marathon 1996]
 scope: trilogy
+subhub_model: sequential
 summary: "Bungie's 1996 non-linear finale to the original trilogy: Durandal and Tycho's final collision at Lh'owon, the S'pht'Kr's return, and the W'rkncacnter's release threatening all order."
 era: "1996 (release) — Lh'owon's destruction (05.10.2337 / 10.15.2796, presented simultaneously)"
 status: current
@@ -13,8 +14,8 @@ confidence: working
 tags: [game, trilogy, infinity]
 source-count: 4
 mentioned-by: 12
-appears-in: []
-last-updated: 2026-07-02
+appears-in: [infinity]
+last-updated: 2026-07-05
 ---
 
 # Marathon Infinity
@@ -160,37 +161,37 @@ Infinity is the last data point on [[Durandal]] before the centuries-long gap th
 ## Mirror pages
 *The local 1:1 pages this hub's citations resolve to — the twin's own ground truth.*
 
-- [[Mirror/archive/marathon/despair/aie-mak-sicur|despair · aie-mak-sicur]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/despair/electric-sheep-one|despair · electric-sheep-one]]
-- [[Mirror/archive/marathon/despair/poor-yorick|despair · poor-yorick]]
-- [[Mirror/archive/marathon/despair/rise-robot-rise|despair · rise-robot-rise]]
-- [[Mirror/archive/marathon/despair/robot-world-arena|despair · robot-world-arena]]
-- [[Mirror/archive/marathon/despair/two-for-the-price-of-one|despair · two-for-the-price-of-one]]
-- [[Mirror/archive/marathon/despair/where-are-monsters-in-dreams|despair · where-are-monsters-in-dreams]]
-- [[Mirror/archive/marathon/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/bagged-again|envy · bagged-again]]
-- [[Mirror/archive/marathon/envy/by-committee|envy · by-committee]]
-- [[Mirror/archive/marathon/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
-- [[Mirror/archive/marathon/envy/son-of-grendel|envy · son-of-grendel]]
-- [[Mirror/archive/marathon/envy/strange-aeons|envy · strange-aeons]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
-- [[Mirror/archive/marathon/prologue/ne-cede-malis|prologue · ne-cede-malis]]
-- [[Mirror/archive/marathon/rage/acme-station|rage · acme-station]]
-- [[Mirror/archive/marathon/rage/carroll-street-station|rage · carroll-street-station]]
-- [[Mirror/archive/marathon/rage/eat-the-path|rage · eat-the-path]]
-- [[Mirror/archive/marathon/rage/electric-sheep-three|rage · electric-sheep-three]]
-- [[Mirror/archive/marathon/rage/electric-sheep-two|rage · electric-sheep-two]]
-- [[Mirror/archive/marathon/rage/foe-hammer|rage · foe-hammer]]
-- [[Mirror/archive/marathon/rage/hang-brain|rage · hang-brain]]
-- [[Mirror/archive/marathon/rage/naw-man-hes-close|rage · naw-man-hes-close]]
-- [[Mirror/archive/marathon/rage/post-naval-trauma|rage · post-naval-trauma]]
-- [[Mirror/archive/marathon/rage/thing-what-kicks|rage · thing-what-kicks]]
-- [[Mirror/archive/marathon/rage/whatever-you-please|rage · whatever-you-please]]
-- [[Mirror/archive/marathon/rage/where-some-rarely-go|rage · where-some-rarely-go]]
-- [[Mirror/archive/marathon/rage/youre-wormfood-dude|rage · youre-wormfood-dude]]
+- [[Mirror/archive/marathon-infinity/despair/aie-mak-sicur|despair · aie-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/despair/electric-sheep-one|despair · electric-sheep-one]]
+- [[Mirror/archive/marathon-infinity/despair/poor-yorick|despair · poor-yorick]]
+- [[Mirror/archive/marathon-infinity/despair/rise-robot-rise|despair · rise-robot-rise]]
+- [[Mirror/archive/marathon-infinity/despair/robot-world-arena|despair · robot-world-arena]]
+- [[Mirror/archive/marathon-infinity/despair/two-for-the-price-of-one|despair · two-for-the-price-of-one]]
+- [[Mirror/archive/marathon-infinity/despair/where-are-monsters-in-dreams|despair · where-are-monsters-in-dreams]]
+- [[Mirror/archive/marathon-infinity/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/bagged-again|envy · bagged-again]]
+- [[Mirror/archive/marathon-infinity/envy/by-committee|envy · by-committee]]
+- [[Mirror/archive/marathon-infinity/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
+- [[Mirror/archive/marathon-infinity/envy/son-of-grendel|envy · son-of-grendel]]
+- [[Mirror/archive/marathon-infinity/envy/strange-aeons|envy · strange-aeons]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
+- [[Mirror/archive/marathon-infinity/prologue/ne-cede-malis|prologue · ne-cede-malis]]
+- [[Mirror/archive/marathon-infinity/rage/acme-station|rage · acme-station]]
+- [[Mirror/archive/marathon-infinity/rage/carroll-street-station|rage · carroll-street-station]]
+- [[Mirror/archive/marathon-infinity/rage/eat-the-path|rage · eat-the-path]]
+- [[Mirror/archive/marathon-infinity/rage/electric-sheep-three|rage · electric-sheep-three]]
+- [[Mirror/archive/marathon-infinity/rage/electric-sheep-two|rage · electric-sheep-two]]
+- [[Mirror/archive/marathon-infinity/rage/foe-hammer|rage · foe-hammer]]
+- [[Mirror/archive/marathon-infinity/rage/hang-brain|rage · hang-brain]]
+- [[Mirror/archive/marathon-infinity/rage/naw-man-hes-close|rage · naw-man-hes-close]]
+- [[Mirror/archive/marathon-infinity/rage/post-naval-trauma|rage · post-naval-trauma]]
+- [[Mirror/archive/marathon-infinity/rage/thing-what-kicks|rage · thing-what-kicks]]
+- [[Mirror/archive/marathon-infinity/rage/whatever-you-please|rage · whatever-you-please]]
+- [[Mirror/archive/marathon-infinity/rage/where-some-rarely-go|rage · where-some-rarely-go]]
+- [[Mirror/archive/marathon-infinity/rage/youre-wormfood-dude|rage · youre-wormfood-dude]]
 <!-- MIRROR:END -->
 
 ## Sources

@@ -40,4 +40,6 @@ Every hub is footnoted to the vault's own word-for-word [[Mirror/about|Mirror]] 
 
 ## About this vault
 
+Built on the archive at [marathon.karnemir.com](https://marathon.karnemir.com), with permission — see [[acknowledgments|Acknowledgments]].
+
 Maintained by [Bob Discuits](https://github.com/bobdiscuits). Every analysis page cites the primary game text it draws from. In-game writing is reproduced for transformative research and community purposes; Bungie retains all rights to *Marathon* and its content. Vault analysis is shared under CC BY 4.0.

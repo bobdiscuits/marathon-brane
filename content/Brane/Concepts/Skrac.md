@@ -12,7 +12,7 @@ tags: [concept, creature, m2026, dire-marsh, skrac]
 source-count: 8
 mentioned-by: 7
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Skrac
@@ -93,13 +93,13 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Food Procurement](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.l04lh3ag5et0)
-[^2]: [Archived Planetary Survey](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.plyo3k64exyd)
-[^3]: [Behavior Analysis](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
-[^4]: [Redacted Report: "Night Musings"](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.6k85mlb0dhg4)
-[^5]: [Skrac Mimicry](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.e0bpmgyq1p6v)
-[^6]: [Unauthorized Access Request](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
-[^7]: [Grievance Report](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.c1w2kfsyhr0)
+[^1]: [[Leela/Marathon 2026/dire-marsh/Food Procurement|Food Procurement]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.l04lh3ag5et0)
+[^2]: [[Leela/Marathon 2026/dire-marsh-night/Archived Planetary Survey|Archived Planetary Survey]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.plyo3k64exyd)
+[^3]: [[Leela/Marathon 2026/dire-marsh-night/Behavior Analysis|Behavior Analysis]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
+[^4]: [[Leela/Marathon 2026/dire-marsh-night/Redacted Report- “Night Musings”|Redacted Report: “Night Musings”]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.6k85mlb0dhg4)
+[^5]: [[Leela/Marathon 2026/dire-marsh-night/Skrac Mimicry|Skrac Mimicry]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.e0bpmgyq1p6v)
+[^6]: [[Leela/Marathon 2026/dire-marsh-night/Unauthorized Access Request|Unauthorized Access Request]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
+[^7]: [[Leela/Marathon 2026/dire-marsh-night/Grievance Report|Grievance Report]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.c1w2kfsyhr0)
 [^8]: [Field Observation [22716.2]](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.mkzlu3rfz6dg)
 
 ---

@@ -13,7 +13,7 @@ tags: [character, ai, trilogy, m2, thoth, trilogy-bridge]
 source-count: 4
 mentioned-by: 10
 appears-in: [m2]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Thoth
@@ -89,10 +89,9 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [acropolis.piltdown//004121.25.1, God Will Sort the Dead](https://marathon.karnemir.com/archive/marathon-2/blake/god-will-sort-the-dead#h.dy0zx1qyhlvq)
-[^2]: [gv0-i6tck[24 2h26u njk==tp12t1, Kill Your Television](https://marathon.karnemir.com/archive/marathon-2/blake/kill-your-television#h.efuzceaeuty)
-[^3]: [common.set <2e0xcxx3.465.2>, My Own Private Thermopylae](https://marathon.karnemir.com/archive/marathon-2/blake/my-own-private-thermopylae#h.94wo4rrubhd1)
-[^4]: [//cge-wrought<293ef.c9ab20>, Feel the Noise](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.s7oyhlyw5prm)
-
+[^1]: [[Leela/Marathon 2 - Durandal/god-will-sort-the-dead/acropolis.piltdown--004121.25.1|acropolis.piltdown//004121.25.1]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/blake/god-will-sort-the-dead#h.dy0zx1qyhlvq)
+[^2]: [[Leela/Marathon 2 - Durandal/kill-your-television/gv0-i6tck-[24 2h26u njk==tp12t1|gv0-i6tck\[24 2h26u njk==tp12t1]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/blake/kill-your-television#h.efuzceaeuty)
+[^3]: [[Leela/Marathon 2 - Durandal/my-own-private-thermopylae/common.set -2e0xcxx3.465.2-|common.set <2e0xcxx3.465.2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/blake/my-own-private-thermopylae#h.94wo4rrubhd1)
+[^4]: [[Leela/Marathon 2 - Durandal/feel-the-noise/--cge-wrought-293ef.c9ab20-|//cge-wrought<293ef.c9ab20>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.s7oyhlyw5prm)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

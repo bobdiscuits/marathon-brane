@@ -13,7 +13,7 @@ tags: [character, ai, colony-ai, rhea-suite, new-cascadia, m2026, brane-hub]
 source-count: 20
 mentioned-by: 21
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Gabriel
@@ -114,26 +114,25 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^2]: [Cerebral Record: Arthur](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
-[^3]: [Cerebral Record: Lilith](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
-[^4]: [Cerebral Record: Bastion](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
-[^5]: [Cerebral Record: Gabriel](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
-[^6]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^7]: [Personal Log: Pike, U.](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.wtz22hhhrbbu)
-[^8]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^9]: [Welcome Message: Reed](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.e502ntl80xti)
-[^10]: [Personal Log: General Reed](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.37jlptgtfmkr)
-[^11]: [UESC Interrogation: Alva, T.](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.30y5fqh51eji)
-[^12]: [Tick-Related Incident](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.he3jrvh7syax)
-[^13]: [Unauthorized Access Request](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
-[^14]: [Attn: Quarantine in Effect](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.3apy6nt31ams)
-[^15]: [Debrief Transcript (Anonymized)](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.wq4nqxhibilj)
-[^16]: [PSA: Public Health](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.l4uj9dqgmfct)
-[^17]: [Decontamination Protocol](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.nffovnhregpg)
-[^18]: [Medical AI Remnants](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.2zo1rrdnvk43)
-[^19]: [Specimen, Ref. #003021](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.rit4gooetk1t)
-[^20]: [Bonsai Care Sheet](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.56ij2v4iy4qx)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^2]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Arthur|Cerebral Record: Arthur]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Lilith|Cerebral Record: Lilith]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Bastion|Cerebral Record: Bastion]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
+[^5]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Gabriel|Cerebral Record: Gabriel]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
+[^6]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^7]: [[Leela/Marathon 2026/cryo-archive/Personal Log- Pike, U. (wtz22h)|Personal Log: Pike, U.]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.wtz22hhhrbbu)
+[^8]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^9]: [[Leela/Marathon 2026/outpost/Welcome Message- Reed|Welcome Message: Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.e502ntl80xti)
+[^10]: [[Leela/Marathon 2026/outpost/Personal Log- General Reed (37jlpt)|Personal Log: General Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.37jlptgtfmkr)
+[^11]: [[Leela/Marathon 2026/dire-marsh/UESC Interrogation- Alva, T.|UESC Interrogation: Alva, T.]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.30y5fqh51eji)
+[^12]: [[Leela/Marathon 2026/dire-marsh/Tick-Related Incident|Tick-Related Incident]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.he3jrvh7syax)
+[^13]: [[Leela/Marathon 2026/dire-marsh-night/Unauthorized Access Request|Unauthorized Access Request]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
+[^14]: [[Leela/Marathon 2026/dire-marsh-night/Attn- Quarantine in Effect|Attn: Quarantine in Effect]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.3apy6nt31ams)
+[^15]: [[Leela/Marathon 2026/dire-marsh-night/Debrief Transcript (Anonymized)|Debrief Transcript (Anonymized)]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.wq4nqxhibilj)
+[^16]: [[Leela/Marathon 2026/outpost/PSA- Public Health|PSA: Public Health]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.l4uj9dqgmfct)
+[^17]: [[Leela/Marathon 2026/outpost/Decontamination Protocol|Decontamination Protocol]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.nffovnhregpg)
+[^18]: [[Leela/Marathon 2026/faction-nucaloric/Medical AI Remnants|Medical AI Remnants]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.2zo1rrdnvk43)
+[^19]: [[Leela/Marathon 2026/outpost/Specimen, Ref. -003021|Specimen, Ref. #003021]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.rit4gooetk1t)
+[^20]: [[Leela/Marathon 2026/perimeter/Bonsai Care Sheet|Bonsai Care Sheet]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.56ij2v4iy4qx)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

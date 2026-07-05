@@ -1,0 +1,68 @@
+---
+type: leela
+game: "[[Marathon 2026]]"
+group: intercepts-uesc
+subhub_model: faceted
+facets: [intercepts, uesc]
+volume-id: intercepts/uesc/terminal.md::156
+source_url: https://marathon.karnemir.com/intercepts/uesc/terminal#h.6ev9b1a4jrcz
+words: 78
+canon-status: source
+tags: [leela, verbatim, intercepts, uesc]
+---
+
+# CE\_Tactical\_Sidearm.pdf2
+
+CE Tactical Sidearm
+
+Signal\_Data.tx \_Manufacturer: xxx \_Magazine Capacity: xx CPU usage: 6.30% user, 8.70% sys, idle SharedLibs: 435M, 80.70% Data tracker: 78M datapoints MemRegions: 128100 total, Resident: 4880M Memory: Private: 1350M Shared: PhysMem: 15.9G used (2760M wired), 31M unused. Swapins: 13456789 CO) Swapouts Networks: packets: 14567890(0) Reg: 69012345/53.9G- In, 1467890
+
+  
+
+  ....                                                                  
+
+.+++++++++                                                              
+
+.++==++++=....+++++=+++++++++++++.                                      
+
+.+.++++++=+++++++++#++++++=++=++++                                      
+
+.+.+.++++=+++++++++#++==++=++=++=+                                      
+
+.++++++++=+++++++++#++=++==+==++=+                                      
+
+.=########=========#==########=++.                                      
+
+.+++...=#===+++++++==##...                                              
+
+.+++   .+.+++++++++==##                                                 
+
+.+++      .++++++++++===.                                               
+
+.+++      .+ .++++++++++==+                                             
+
+.+++.     .. .+.++++++++++=#.                                           
+
+.+++++++++... +.+++++++++==#@                                           
+
+.......      .+++++++++====@=                                          
+
+               ++++++++++===#@                                          
+
+                +++++++++===#@=                                         
+
+                 +++++++++===#@                                         
+
+                  ++++++++===##.                                        
+
+                  .+++++++...                                           
+
+                   ....
+
+---
+*— everything above is 1:1 source · from [[Mirror/intercepts/uesc/terminal|terminal]] · [karnemir ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.6ev9b1a4jrcz)*
+
+<!-- CITEDBY:START -->
+### Cited by
+*not yet cited by any hub*
+<!-- CITEDBY:END -->

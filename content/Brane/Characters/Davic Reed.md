@@ -13,7 +13,7 @@ tags: [character, uesc, military, m2026, new-cascadia, brane-hub]
 source-count: 20
 mentioned-by: 18
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # General Davic Reed
@@ -108,25 +108,25 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Davic Reed (interview)](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.zfw5lq11thwm)
-[^2]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^3]: [Personal Log: Pike, U.](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.52ytx5il0ait)
-[^4]: [UESC Quarantine Standards](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xmloi2s8j8p4)
-[^5]: [Council Meeting Recording](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
-[^6]: [Personal Log: General Reed (0246)](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.il8xnl4lefv4)
-[^7]: [Personal Log: General Reed (2783)](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.g3oxe5fu8hr)
-[^8]: [Letter Dictation](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.xpv25cjmv06k)
-[^9]: [Personal Log: General Reed (11622)](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.37jlptgtfmkr)
-[^10]: [Security Protocol Activation](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.4hws6m2m43bh)
-[^11]: [Anomaly Taskforce Extension Request](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
-[^12]: [Welcome Message: Reed](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.e502ntl80xti)
-[^13]: [Personal Log: General Reed (7839)](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.mj54k7tc6wt0)
-[^14]: [Security Report: Lt. Yabara (daily)](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.2dk9qakepi6j)
-[^15]: [Personal Log: General Reed (11841)](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.bm4jrdjfecv5)
-[^16]: [Amnesiac Implant Proposal](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xzniy3u359s0)
-[^17]: [Wellness Session: Reed](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.ptzargmrab3t)
-[^18]: [Personal Log: Hassan](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
-[^19]: [Security Report: Lt. Yabara (end-of-cycle)](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.f0yztul74tbu)
+[^1]: [[Leela/Marathon 2026/cryo-archive/Davic Reed|Davic Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.zfw5lq11thwm)
+[^2]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^3]: [[Leela/Marathon 2026/cryo-archive/Personal Log- Pike, U.|Personal Log: Pike, U.]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.52ytx5il0ait)
+[^4]: [[Leela/Marathon 2026/faction-nucaloric/UESC Quarantine Standards|UESC Quarantine Standards]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xmloi2s8j8p4)
+[^5]: [[Leela/Marathon 2026/faction-traxus/Council Meeting Recording|Council Meeting Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
+[^6]: [[Leela/Marathon 2026/outpost/Personal Log- General Reed|Personal Log: General Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.il8xnl4lefv4)
+[^7]: [[Leela/Marathon 2026/outpost/Personal Log- General Reed (g3oxe5)|Personal Log: General Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.g3oxe5fu8hr)
+[^8]: [[Leela/Marathon 2026/faction-traxus/Letter Dictation|Letter Dictation]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.xpv25cjmv06k)
+[^9]: [[Leela/Marathon 2026/outpost/Personal Log- General Reed (37jlpt)|Personal Log: General Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.37jlptgtfmkr)
+[^10]: [[Leela/Marathon 2026/dire-marsh-night/Security Protocol Activation|Security Protocol Activation]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.4hws6m2m43bh)
+[^11]: [[Leela/Marathon 2026/faction-traxus/Anomaly Taskforce Extension Request|Anomaly Taskforce Extension Request]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
+[^12]: [[Leela/Marathon 2026/outpost/Welcome Message- Reed|Welcome Message: Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.e502ntl80xti)
+[^13]: [[Leela/Marathon 2026/outpost/Personal Log- General Reed (mj54k7)|Personal Log: General Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.mj54k7tc6wt0)
+[^14]: [[Leela/Marathon 2026/outpost/Security Report- Lt. Yabara|Security Report: Lt. Yabara]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.2dk9qakepi6j)
+[^15]: [[Leela/Marathon 2026/outpost/Personal Log- General Reed (bm4jrd)|Personal Log: General Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.bm4jrdjfecv5)
+[^16]: [[Leela/Marathon 2026/dire-marsh-night/Amnesiac Implant Proposal|Amnesiac Implant Proposal]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xzniy3u359s0)
+[^17]: [[Leela/Marathon 2026/outpost/Wellness Session- Reed|Wellness Session: Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.ptzargmrab3t)
+[^18]: [[Leela/Marathon 2026/outpost/Personal Log- Hassan|Personal Log: Hassan]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
+[^19]: [[Leela/Marathon 2026/outpost/Security Report- Lt. Yabara (f0yztu)|Security Report: Lt. Yabara]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.f0yztul74tbu)
 [^20]: [Personal Log: General Reed — body not captured](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.l7ewks2fqw0i)
 
 ---

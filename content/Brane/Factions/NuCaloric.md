@@ -13,7 +13,7 @@ tags: [faction, corporation, m2026, nucaloric, agriculture]
 source-count: 22
 mentioned-by: 19
 appears-in: [codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: ["[[Gus Moraine]]", "[[Tobias Luttero]]"]
 ---
 
@@ -121,28 +121,27 @@ members: ["[[Gus Moraine]]", "[[Tobias Luttero]]"]
 
 ## Sources
 
-[^1]: [NuCal Overview](https://marathon.karnemir.com/codex/factions/nucaloric/comms#h.t98ew6vw4ufu)
-[^2]: [Code Fragments: Cerberus](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.i6ml9hat13tt)
-[^3]: [Anti-Virus Pack](https://marathon.karnemir.com/codex/loot/consumables#h.1dp9x0lcztc)
-[^4]: [Cardio Kick](https://marathon.karnemir.com/codex/loot/consumables#h.2ok70cg5pwdj)
-[^5]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^6]: [Profile: Dr. Tobias Luttero](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.zatcbjbx0usq)
-[^7]: [A Watershed Famine](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rcmauboje6fn)
-[^8]: [Mission to the Stars](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.t9w96xz8h79g)
-[^9]: [Dire Marsh Overview](https://marathon.karnemir.com/codex/world/dire-marsh/orientation#h.2wx2cy1nz8cy)
-[^10]: [Acceptance Notice](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
-[^11]: [UESC and NuCal Contract](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.schssirdufmu)
-[^12]: [Exoplanet Candidates](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.jiatdwmf392e)
-[^13]: [Recording 1](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ubcdwmotjv6)
-[^14]: [Colonist Welcome Package](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.3izn72exrnwk)
-[^15]: [Nutrition Facts](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.errudu39g0st)
-[^16]: [New Cascadia Potluck](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.o7i366hf1pos)
-[^17]: [Subsistence Notes](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.lm3iac82hd5d)
-[^18]: [Food Production](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.sue9b5ifsf9a)
-[^19]: [Board Meeting Recording](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.j2siyrr8f5y6)
-[^20]: [Cafeteria_Menu.txt](https://marathon.karnemir.com/intercepts/uesc/terminal#h.rcvjhibeyspr)
-[^21]: [Drone Modifications](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kkp3galoosm6)
-[^22]: [Welcome_to_Marathon_draft003a.txt](https://marathon.karnemir.com/intercepts/uesc/terminal#h.ipr4g5uknc08)
-
+[^1]: [[Leela/Marathon 2026/faction-nucaloric/NuCal Overview|NuCal Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/comms#h.t98ew6vw4ufu)
+[^2]: [[Leela/Marathon 2026/faction-nucaloric/Code Fragments- Cerberus|Code Fragments: Cerberus]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.i6ml9hat13tt)
+[^3]: [[Leela/Marathon 2026/loot/Anti-Virus Pack|Anti-Virus Pack]] · [src ↗](https://marathon.karnemir.com/codex/loot/consumables#h.1dp9x0lcztc)
+[^4]: [[Leela/Marathon 2026/loot/Cardio Kick|Cardio Kick]] · [src ↗](https://marathon.karnemir.com/codex/loot/consumables#h.2ok70cg5pwdj)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^6]: [[Leela/Marathon 2026/dire-marsh/Profile- Dr. Tobias Luttero|Profile: Dr. Tobias Luttero]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.zatcbjbx0usq)
+[^7]: [[Leela/Marathon 2026/dire-marsh/A Watershed Famine|A Watershed Famine]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rcmauboje6fn)
+[^8]: [[Leela/Marathon 2026/dire-marsh/Mission to the Stars|Mission to the Stars]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.t9w96xz8h79g)
+[^9]: [[Leela/Marathon 2026/dire-marsh/Dire Marsh Overview|Dire Marsh Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/orientation#h.2wx2cy1nz8cy)
+[^10]: [[Leela/Marathon 2026/dire-marsh-night/Acceptance Notice|Acceptance Notice]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
+[^11]: [[Leela/Marathon 2026/perimeter/UESC and NuCal Contract|UESC and NuCal Contract]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.schssirdufmu)
+[^12]: [[Leela/Marathon 2026/perimeter/Exoplanet Candidates|Exoplanet Candidates]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.jiatdwmf392e)
+[^13]: [[Leela/Marathon 2026/dire-marsh-night/Recording 1|Recording 1]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ubcdwmotjv6)
+[^14]: [[Leela/Marathon 2026/perimeter/Colonist Welcome Package|Colonist Welcome Package]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.3izn72exrnwk)
+[^15]: [[Leela/Marathon 2026/perimeter/Nutrition Facts|Nutrition Facts]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.errudu39g0st)
+[^16]: [[Leela/Marathon 2026/perimeter/New Cascadia Potluck|New Cascadia Potluck]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.o7i366hf1pos)
+[^17]: [[Leela/Marathon 2026/perimeter/Subsistence Notes|Subsistence Notes]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.lm3iac82hd5d)
+[^18]: [[Leela/Marathon 2026/perimeter/Food Production|Food Production]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.sue9b5ifsf9a)
+[^19]: [[Leela/Marathon 2026/perimeter/Board Meeting Recording|Board Meeting Recording]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.j2siyrr8f5y6)
+[^20]: [[Leela/Marathon 2026/intercepts-uesc/Cafeteria-_Menu.txt|Cafeteria\_Menu.txt]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.rcvjhibeyspr)
+[^21]: [[Leela/Marathon 2026/perimeter/Drone Modifications|Drone Modifications]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kkp3galoosm6)
+[^22]: [[Leela/Marathon 2026/intercepts-uesc/Welcome-_to-_Marathon-_draft003a.txt|Welcome\_to\_Marathon\_draft003a.txt]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.ipr4g5uknc08)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

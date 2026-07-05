@@ -12,7 +12,7 @@ tags: [concept, m2026, contagion, anomaly, new-cascadia]
 source-count: 11
 mentioned-by: 7
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Novel Contagion
@@ -103,17 +103,16 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Agricultural Inspection](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.odlhuhx6nehd)
-[^2]: [Security Recording: Seed Vault](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
-[^3]: [Lab Report: Novel Contagion](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.1c67o25lvjn7)
-[^4]: [Mass Analysis: Novel Contagion](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.hq112hqnq7ac)
-[^5]: [Field Recording: C. Song](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
-[^6]: [Post-Apocalyptic Log](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
-[^7]: [Council Meeting Recording](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
-[^8]: [Letter Dictation](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.xpv25cjmv06k)
-[^9]: [Field Observation 371.6](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.43zu625m5o7u)
-[^10]: [Quarantine Overview](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.74uas98r7938)
-[^11]: [Complex Overview](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.udn8a4kg6p52)
-
+[^1]: [[Leela/Marathon 2026/faction-nucaloric/Agricultural Inspection|Agricultural Inspection]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.odlhuhx6nehd)
+[^2]: [[Leela/Marathon 2026/faction-nucaloric/Security Recording- Seed Vault|Security Recording: Seed Vault]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
+[^3]: [[Leela/Marathon 2026/faction-nucaloric/Lab Report- Novel Contagion|Lab Report: Novel Contagion]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.1c67o25lvjn7)
+[^4]: [[Leela/Marathon 2026/faction-nucaloric/Mass Analysis- Novel Contagion|Mass Analysis: Novel Contagion]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.hq112hqnq7ac)
+[^5]: [[Leela/Marathon 2026/faction-nucaloric/Field Recording- C. Song|Field Recording: C. Song]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
+[^6]: [[Leela/Marathon 2026/dire-marsh/Post-Apocalyptic Log|Post-Apocalyptic Log]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
+[^7]: [[Leela/Marathon 2026/faction-traxus/Council Meeting Recording|Council Meeting Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
+[^8]: [[Leela/Marathon 2026/faction-traxus/Letter Dictation|Letter Dictation]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.xpv25cjmv06k)
+[^9]: [[Leela/Marathon 2026/dire-marsh-night/Field Observation -[371.6-]|Field Observation \[371.6\]]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.43zu625m5o7u)
+[^10]: [[Leela/Marathon 2026/dire-marsh/Quarantine Overview|Quarantine Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.74uas98r7938)
+[^11]: [[Leela/Marathon 2026/dire-marsh/Complex Overview|Complex Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.udn8a4kg6p52)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

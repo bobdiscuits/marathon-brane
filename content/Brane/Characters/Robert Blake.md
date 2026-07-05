@@ -13,7 +13,7 @@ tags: [character, trilogy, m2, blake]
 source-count: 7
 mentioned-by: 9
 appears-in: [m2, infinity]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Robert Blake
@@ -86,18 +86,18 @@ last-updated: 2026-07-02
 - [[Mirror/archive/marathon-2/epilogue|marathon-2 · epilogue]]
 - [[Mirror/archive/marathon-2/sphtkr/fatum-iustum-stultorum|sphtkr · fatum-iustum-stultorum]]
 - [[Mirror/archive/marathon-2/volunteers/what-about-bob|volunteers · what-about-bob]]
-- [[Mirror/archive/marathon/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
-- [[Mirror/archive/marathon/rage/foe-hammer|rage · foe-hammer]]
-- [[Mirror/archive/marathon/rage/youre-wormfood-dude|rage · youre-wormfood-dude]]
+- [[Mirror/archive/marathon-infinity/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
+- [[Mirror/archive/marathon-infinity/rage/foe-hammer|rage · foe-hammer]]
+- [[Mirror/archive/marathon-infinity/rage/youre-wormfood-dude|rage · youre-wormfood-dude]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Foe Hammer — mimir.seg](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.5grkqmc234sv)
-[^2]: [You're Wormfood, Dude — purge.3a](https://marathon.karnemir.com/archive/marathon/rage/youre-wormfood-dude#h.6de2unbkbini)
-[^3]: [This Side Toward Enemy — acropolis.piltdown//004121.25.1](https://marathon.karnemir.com/archive/marathon-2/blake/this-side-toward-enemy#h.iwxtfh34ivww)
-[^4]: [Fatum Iustum Stultorum — 8756w41.61.1//corinth.ggk](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.vskhzix2krcz)
-[^5]: [What About Bob? — \<CMND OVERRIDE &@85f2\>](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.9j698eaufrkw)
+[^1]: [[Leela/Marathon Infinity/foe-hammer/mimir.seg|mimir.seg]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.5grkqmc234sv)
+[^2]: [[Leela/Marathon Infinity/youre-wormfood-dude/purge.3a|purge.3a]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/youre-wormfood-dude#h.6de2unbkbini)
+[^3]: [[Leela/Marathon 2 - Durandal/this-side-toward-enemy/acropolis.piltdown--004121.25.1|acropolis.piltdown//004121.25.1]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/blake/this-side-toward-enemy#h.iwxtfh34ivww)
+[^4]: [[Leela/Marathon 2 - Durandal/fatum-iustum-stultorum/8756w41.61.1--corinth.ggk|8756w41.61.1//corinth.ggk]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.vskhzix2krcz)
+[^5]: [[Leela/Marathon 2 - Durandal/what-about-bob/-CMND OVERRIDE -@85f2-|<CMND OVERRIDE &@85f2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.9j698eaufrkw)
 [^6]: [Epilogue — UESCTerm 802.11](https://marathon.karnemir.com/archive/marathon-2/epilogue)
 [^7]: [A Converted Church In Venice Italy — Blake.evac](https://marathon.karnemir.com/archive/marathon/envy/a-converted-church-in-venice-italy#h.ey1ucyaz6k9f)
 

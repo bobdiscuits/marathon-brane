@@ -14,7 +14,7 @@ tags: [thread, uesc, m2026, black-project, mida, key-lore]
 source-count: 15
 mentioned-by: 11
 appears-in: [infinity, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Project Goliath
@@ -159,21 +159,20 @@ _No inbound links yet._
 
 ## Sources
 
-[^1]: [Project:Goliath\_DRAFT\_A](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
-[^2]: [Project:Goliath\_DRAFT\_B](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
-[^3]: [Project:Goliath\_DRAFT\_E](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
-[^4]: [CONFIDENTIAL\_PROJECT: GOLIATH — LM→AS 02:13](https://marathon.karnemir.com/intercepts/uesc/emails#h.pvlzy75y5d14)
-[^5]: [CONFIDENTIAL\_PROJECT: GOLIATH — AS→LM 06:04](https://marathon.karnemir.com/intercepts/uesc/emails#h.vij5tl76li80)
-[^6]: [CONFIDENTIAL\_PROJECT: GOLIATH — LM→AS 06:08](https://marathon.karnemir.com/intercepts/uesc/emails#h.hu2a8r1md3cb)
-[^7]: [CONFIDENTIAL\_PROJECT: GOLIATH — AS→LM 06:22](https://marathon.karnemir.com/intercepts/uesc/emails#h.3wd6csrgkpic)
-[^8]: [TRAXUSCONNECT 24 May 2888 02:15](https://marathon.karnemir.com/intercepts/traxus/chats#h.qzfe5kob7hhw)
-[^9]: [TRAXUSCONNECT 24 May 2888 04:45](https://marathon.karnemir.com/intercepts/traxus/chats#h.g2d56egeuq4l)
-[^10]: [TRAXUSCONNECT 25 May 2888 04:08](https://marathon.karnemir.com/intercepts/traxus/chats#h.y7953ku52rc6)
-[^11]: [TRAXUSCONNECT 26 May 2888 08:45](https://marathon.karnemir.com/intercepts/traxus/chats#h.j59b4p1wuowg)
-[^12]: [STARTING\_LINE.log](https://marathon.karnemir.com/intercepts/uesc/terminal#h.8q208tfmtm77)
-[^13]: [Project:Protus\_UNUS](https://marathon.karnemir.com/intercepts/uesc/emails#h.9y0hbdj65h4k)
-[^14]: [Project:Goliath\_PROGO](https://marathon.karnemir.com/intercepts/uesc/letters#h.nz8b1e7rqzzg)
-[^15]: [Project:Goliath\_DIGICORR](https://marathon.karnemir.com/intercepts/uesc/emails#h.i3esq179wffk)
-
+[^1]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_A|Project:Goliath\_DRAFT\_A]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
+[^2]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_B|Project:Goliath\_DRAFT\_B]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
+[^3]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_E|Project:Goliath\_DRAFT\_E]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
+[^4]: [[Leela/Marathon 2026/intercepts-uesc/CONFIDENTIAL-_PROJECT- GOLIATH|CONFIDENTIAL\_PROJECT: GOLIATH]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/emails#h.pvlzy75y5d14)
+[^5]: [[Leela/Marathon 2026/intercepts-uesc/CONFIDENTIAL-_PROJECT- GOLIATH (vij5tl)|CONFIDENTIAL\_PROJECT: GOLIATH]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/emails#h.vij5tl76li80)
+[^6]: [[Leela/Marathon 2026/intercepts-uesc/CONFIDENTIAL-_PROJECT- GOLIATH (hu2a8r)|CONFIDENTIAL\_PROJECT: GOLIATH]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/emails#h.hu2a8r1md3cb)
+[^7]: [[Leela/Marathon 2026/intercepts-uesc/CONFIDENTIAL-_PROJECT- GOLIATH (3wd6cs)|CONFIDENTIAL\_PROJECT: GOLIATH]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/emails#h.3wd6csrgkpic)
+[^8]: [[Leela/Marathon 2026/intercepts-traxus/24 May 2888, 02-15PM PST|24 May 2888, 02:15PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.qzfe5kob7hhw)
+[^9]: [[Leela/Marathon 2026/intercepts-traxus/24 May 2888, 04-45PM PST|24 May 2888, 04:45PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.g2d56egeuq4l)
+[^10]: [[Leela/Marathon 2026/intercepts-traxus/25 May 2888, 04-08PM PST|25 May 2888, 04:08PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.y7953ku52rc6)
+[^11]: [[Leela/Marathon 2026/intercepts-traxus/26 May 2888, 08-45AM PST|26 May 2888, 08:45AM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.j59b4p1wuowg)
+[^12]: [[Leela/Marathon 2026/intercepts-uesc/STARTING-_LINE.log|STARTING\_LINE.log]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.8q208tfmtm77)
+[^13]: [[Leela/Marathon 2026/intercepts-uesc/Project-Protus-_UNUS|Project:Protus\_UNUS]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/emails#h.9y0hbdj65h4k)
+[^14]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_PROGO|Project:Goliath\_PROGO]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.nz8b1e7rqzzg)
+[^15]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DIGICORR|Project:Goliath\_DIGICORR]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/emails#h.i3esq179wffk)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

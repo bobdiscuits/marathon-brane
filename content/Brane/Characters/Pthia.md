@@ -13,7 +13,7 @@ tags: [character, trilogy, m2, m2026, spht, myth]
 source-count: 7
 mentioned-by: 8
 appears-in: [m2, infinity, codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Pthia
@@ -81,19 +81,18 @@ Pthia and Yrro are thus jointly the figures under whose direction the S'pht terr
 
 - [[Mirror/archive/marathon-2/citadel/six-thousand-feet-under|citadel · six-thousand-feet-under]]
 - [[Mirror/archive/marathon-2/citadel/the-hard-stuff-rules|citadel · the-hard-stuff-rules]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
 - [[Mirror/codex/world/cryo-archive/collectibles|cryo-archive · collectibles]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Six Thousand Feet Under — ax1-40^23](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
-[^2]: [The Hard Stuff Rules — Rr2Shr9](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
-[^3]: [Aye-Mak Sicur — tat.iana](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.d3qeajsc96q2)
-[^4]: [Alien History — E'PYODH](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.5r4gebgp2tpe)
-[^5]: [Alien History — LM'UUT'HF](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
-[^6]: [Alien History — P'LOM'K](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
-[^7]: [Alien History — Y'VF'ZIH](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.7xyfujng9ro1)
-
+[^1]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/ax1-40^23-094.95.28.85-|ax1-40^23<094.95.28.85>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
+[^2]: [[Leela/Marathon 2 - Durandal/the-hard-stuff-rules/Rr2Shr9-995.52.194.63-|Rr2Shr9<995.52.194.63>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
+[^3]: [[Leela/Marathon Infinity/aye-mak-sicur/skim.out|skim.out]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.d3qeajsc96q2)
+[^4]: [[Leela/Marathon 2026/cryo-archive/Alien History|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.5r4gebgp2tpe)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Alien History (9xe7pf)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
+[^6]: [[Leela/Marathon 2026/cryo-archive/Alien History (8jq58y)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
+[^7]: [[Leela/Marathon 2026/cryo-archive/Alien History (7xyfuj)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.7xyfujng9ro1)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

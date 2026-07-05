@@ -13,7 +13,7 @@ tags: [faction, cult, m2026, solemn-vigil, outpost]
 source-count: 4
 mentioned-by: 4
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 
@@ -96,10 +96,9 @@ members: []
 
 ## Sources
 
-[^1]: [Pamphlet: Elucidation](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.fj6ghxkx1rwf)
-[^2]: [Pamphlet: Easement](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.evq5cfw2zzkf)
-[^3]: [Pamphlet: Anamnēsis](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.gvf29k7f2kjd)
-[^4]: [Pamphlet: Transcendence](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.yfi4aj67u6uq)
-
+[^1]: [[Leela/Marathon 2026/outpost/Pamphlet- Elucidation|Pamphlet: Elucidation]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.fj6ghxkx1rwf)
+[^2]: [[Leela/Marathon 2026/outpost/Pamphlet- Easement|Pamphlet: Easement]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.evq5cfw2zzkf)
+[^3]: [[Leela/Marathon 2026/outpost/Pamphlet- Anamnēsis|Pamphlet: Anamnēsis]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.gvf29k7f2kjd)
+[^4]: [[Leela/Marathon 2026/outpost/Pamphlet- Transcendence|Pamphlet: Transcendence]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.yfi4aj67u6uq)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

@@ -1,0 +1,13 @@
+---
+type: leela-landing
+render: html
+game: "[[Marathon Infinity]]"
+volume-count: 3
+tags: [leela, landing]
+---
+
+# Dire Marsh
+
+<div style="background:#0a0a0a;border:1px solid #222;border-radius:14px;padding:24px 28px;color:#fff"><div style="font-family:ui-monospace,Menlo,monospace;font-size:21px;letter-spacing:.18em;color:#fff">WHATEVER YOU PLEASE <span style=&quot;color:#C0FE04&quot;>//</span> MARATHON INFINITY</div><div style="font-size:12.5px;color:rgba(255,255,255,.55);margin:6px 0 4px">3 recovered pieces · day &amp; night cycles · every page below is verbatim 1:1 source</div><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:30px;margin-top:14px"><section style="min-width:0"><div style="border-top:3px solid #C0FE04;padding-top:10px;font-family:ui-monospace,Menlo,monospace;font-size:15px;letter-spacing:.14em;color:#C0FE04">■ TERMINALS <span style="color:rgba(255,255,255,.4);font-size:11px;letter-spacing:.08em">· 3 PIECES</span></div><div style="margin:16px 0 4px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.22em;color:rgba(255,255,255,.45)">WHATEVER YOU PLEASE · 3</div><div style="padding:7px 0;border-bottom:1px solid rgba(255,255,255,.07)"><a class="wl" data-p="Leela/Marathon Infinity/whatever-you-please/2.0.md" href="Leela/Marathon-Infinity/whatever-you-please/2.0" style="color:#C0FE04;text-decoration:none;font-size:14.5px">2.0</a><div style="font-size:12px;color:rgba(255,255,255,.5);line-height:1.4;margin-top:1px">A narrator on a train observes black-suited men and sanitation workers, reflecting on approximation before escaping through anothe</div></div><div style="padding:7px 0;border-bottom:1px solid rgba(255,255,255,.07)"><a class="wl" data-p="Leela/Marathon Infinity/whatever-you-please/@2.1.md" href="Leela/Marathon-Infinity/whatever-you-please/@2.1" style="color:#C0FE04;text-decoration:none;font-size:14.5px">@2.1</a><div style="font-size:12px;color:rgba(255,255,255,.5);line-height:1.4;margin-top:1px">The narrator inspects a dual-bladed knife before being confronted by an impassive suited figure and his clones.</div></div><div style="padding:7px 0;border-bottom:1px solid rgba(255,255,255,.07)"><a class="wl" data-p="Leela/Marathon Infinity/whatever-you-please/2.2.md" href="Leela/Marathon-Infinity/whatever-you-please/2.2" style="color:#C0FE04;text-decoration:none;font-size:14.5px">2.2</a><div style="font-size:12px;color:rgba(255,255,255,.5);line-height:1.4;margin-top:1px">The narrator observes silent, screaming captives in a hangar who refuse to speak, acknowledging their own agency in the violence.</div></div></section></div></div>
+
+*Part of [[Marathon Infinity]] · blurbs are machine-drafted navigation copy — the pages themselves are verbatim source.*

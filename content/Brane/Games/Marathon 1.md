@@ -2,6 +2,7 @@
 type: game
 aliases: [Marathon, Marathon 1, Marathon 1994, "Marathon (1994)"]
 scope: trilogy
+subhub_model: sequential
 summary: "Bungie's 1994 original: the UESC Marathon under Pfhor attack over Tau Ceti; Durandal's rampancy, Leela's defense, and the S'pht revolt that ends with Durandal seizing the Pfhor ship."
 era: "1994 (release) — 2794.7.3 (in-fiction attack date)"
 status: current
@@ -14,7 +15,7 @@ tags: [game, trilogy, m1]
 source-count: 4
 mentioned-by: 8
 appears-in: [m1, m2, infinity, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Marathon (1994)

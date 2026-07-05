@@ -12,7 +12,7 @@ tags: [concept, ai, ship-ai, trilogy, m2026, hermes-suite, brane-hub]
 source-count: 10
 mentioned-by: 9
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Hermes Suite
@@ -133,16 +133,15 @@ Following the collapse, a voice speaking as IDEA — confirmed in "Pre-Decommiss
 
 ## Sources
 
-[^1]: [UESC Marathon AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
-[^2]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^3]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^4]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^5]: [Final Quadrant Report](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j9fe017v9e12)
-[^6]: [Growing Pains](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.i444mdlb5e4v)
-[^7]: [!!!Emergency Alert!!!](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.situ4eg7qfuf)
+[^1]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon AI|UESC Marathon AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
+[^2]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^3]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^4]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Final Quadrant Report|Final Quadrant Report]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j9fe017v9e12)
+[^6]: [[Leela/Marathon 2026/cryo-archive/Growing Pains|Growing Pains]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.i444mdlb5e4v)
+[^7]: [[Leela/Marathon 2026/cryo-archive/!!!Emergency Alert!!!|!!!Emergency Alert!!!]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.situ4eg7qfuf)
 [^8]: [Distress Review [Interrupted]](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.t404p2yoyoib)
-[^9]: [Pre-Decommission Reflection](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.blh35ru5m6rf)
-[^10]: [Tau Ceti Status Report](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
-
+[^9]: [[Leela/Marathon 2026/cryo-archive/Pre-Decommission Reflection|Pre-Decommission Reflection]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.blh35ru5m6rf)
+[^10]: [[Leela/Marathon 2026/faction-traxus/Tau Ceti Status Report|Tau Ceti Status Report]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

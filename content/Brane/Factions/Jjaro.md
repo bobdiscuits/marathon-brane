@@ -13,7 +13,7 @@ tags: [faction, species, trilogy, precursor, jjaro, key-lore]
 source-count: 17
 mentioned-by: 18
 appears-in: [m2]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 
@@ -227,33 +227,33 @@ This establishes that Durandal had ten thousand years of unsupervised access to 
 - [[Mirror/archive/marathon-2/introduction|marathon-2 · introduction]]
 - [[Mirror/archive/marathon-2/sphtkr/all-roads-lead-to-sol|sphtkr · all-roads-lead-to-sol]]
 - [[Mirror/archive/marathon-2/sphtkr/feel-the-noise|sphtkr · feel-the-noise]]
-- [[Mirror/archive/marathon/despair/aie-mak-sicur|despair · aie-mak-sicur]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
-- [[Mirror/archive/marathon/prologue/ne-cede-malis|prologue · ne-cede-malis]]
-- [[Mirror/archive/marathon/rage/acme-station|rage · acme-station]]
+- [[Mirror/archive/marathon-infinity/despair/aie-mak-sicur|despair · aie-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
+- [[Mirror/archive/marathon-infinity/prologue/ne-cede-malis|prologue · ne-cede-malis]]
+- [[Mirror/archive/marathon-infinity/rage/acme-station|rage · acme-station]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [For Carnage Apply Within — traxIV<40c>](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
-[^2]: [Acme Station — <dlci3.ci3.21>](https://marathon.karnemir.com/archive/marathon/rage/acme-station#h.mp0d86b5n35l)
-[^3]: [Aye-Mak Sicur — 1023.poly.max](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.mcx7tleg7yz6)
-[^4]: [Report to Lh'owon Command — Introduction](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
-[^5]: [All Roads Lead to Sol — tranced.Finale<0-05>](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
-[^6]: [Aye Mak Sicur — tat.iana](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
-[^7]: [Confound Delivery — Cirlw.zoq](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
-[^8]: [You Think You're Big Time… — dciel1cb1](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
-[^9]: [The Adventure Continues…](https://marathon.karnemir.com/archive/marathon-2/introduction#h.abe9p6foql1u)
-[^10]: [Six Thousand Feet Under — ax1-40^23](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
-[^11]: [You Think You're Big Time… — wgrnc.q23](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
-[^12]: [God Will Sort the Dead — acropolis.piltdown//004121.25.1](https://marathon.karnemir.com/archive/marathon-2/blake/god-will-sort-the-dead#h.dy0zx1qyhlvq)
-[^13]: [Feel the Noise — //cge-wrought<293ef.c9ab20>](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.s7oyhlyw5prm)
-[^14]: [Aie Mak Sicur — ^^^EOf](https://marathon.karnemir.com/archive/marathon/despair/aie-mak-sicur#h.svkiumbublnb)
-[^15]: [Ne Cede Malis — <Error>](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
-[^16]: [The Hard Stuff Rules — Rr2Shr9](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
+[^1]: [[Leela/Marathon 2 - Durandal/for-carnage-apply-within/traxIV-40c-40c- 48c-48c-|traxIV<40c<40c> 48c<48c>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
+[^2]: [[Leela/Marathon Infinity/acme-station/-dlci3.ci3.21-|<dlci3.ci3.21>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/acme-station#h.mp0d86b5n35l)
+[^3]: [[Leela/Marathon Infinity/aye-mak-sicur/1023.poly.max|1023.poly.max]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.mcx7tleg7yz6)
+[^4]: [[Leela/Marathon Infinity/introduction/Report to Lh’owon Command|Report to Lh’owon Command]] · [src ↗](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
+[^5]: [[Leela/Marathon 2 - Durandal/all-roads-lead-to-sol/tranced.Finale-0-05-|tranced.Finale<0-05>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
+[^6]: [[Leela/Marathon Infinity/aye-mak-sicur/tat.iana|tat.iana]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
+[^7]: [[Leela/Marathon Infinity/confound-delivery/Cirlw.zoq|Cirlw.zoq]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
+[^8]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/dciel1cb1|dciel1cb1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
+[^9]: [[Leela/Marathon 2 - Durandal/introduction/The Adventure Continues...|The Adventure Continues...]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/introduction#h.abe9p6foql1u)
+[^10]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/ax1-40^23-094.95.28.85-|ax1-40^23<094.95.28.85>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
+[^11]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/wgrnc.q23|wgrnc.q23]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
+[^12]: [[Leela/Marathon 2 - Durandal/god-will-sort-the-dead/acropolis.piltdown--004121.25.1|acropolis.piltdown//004121.25.1]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/blake/god-will-sort-the-dead#h.dy0zx1qyhlvq)
+[^13]: [[Leela/Marathon 2 - Durandal/feel-the-noise/--cge-wrought-293ef.c9ab20-|//cge-wrought<293ef.c9ab20>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.s7oyhlyw5prm)
+[^14]: [[Leela/Marathon Infinity/aie-mak-sicur/^^^EOf|^^^EOf]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/aie-mak-sicur#h.svkiumbublnb)
+[^15]: [[Leela/Marathon Infinity/ne-cede-malis/-Error-|<Error>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
+[^16]: [[Leela/Marathon 2 - Durandal/the-hard-stuff-rules/Rr2Shr9-995.52.194.63-|Rr2Shr9<995.52.194.63>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.uabb1wdmtae5)
 [^17]: [Epilogue](https://marathon.karnemir.com/archive/marathon-2/epilogue)
 
 ---

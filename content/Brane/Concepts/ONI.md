@@ -12,7 +12,7 @@ tags: [concept, ai, cyberacme, m2026, runners]
 source-count: 9
 mentioned-by: 5
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # ONI
@@ -92,15 +92,14 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [CyAc Overview](https://marathon.karnemir.com/codex/factions/cyberacme/comms#h.pjtp4m7qo0vt)
-[^2]: [Diagnostic Analysis: Darius](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
-[^3]: [Metabolic Readout](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.y9w7korwwjzw)
-[^4]: [Matter, Converted](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
-[^5]: [Custom Chassis](https://marathon.karnemir.com/codex/loot/cradle#h.hmcp1k7qa305)
-[^6]: [Advertisement](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.9jaa6wmopr7v)
-[^7]: [Acceptance Notice](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
-[^8]: [Headhunter (Executive)](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.clcmg5jqhege)
-[^9]: [Darius and Joy Dialogue](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
-
+[^1]: [[Leela/Marathon 2026/faction-cyberacme/CyAc Overview|CyAc Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/cyberacme/comms#h.pjtp4m7qo0vt)
+[^2]: [[Leela/Marathon 2026/faction-nucaloric/Diagnostic Analysis- Darius|Diagnostic Analysis: Darius]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
+[^3]: [[Leela/Marathon 2026/faction-sekiguchi/Metabolic Readout|Metabolic Readout]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.y9w7korwwjzw)
+[^4]: [[Leela/Marathon 2026/loot/Matter, Converted|Matter, Converted]] · [src ↗](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
+[^5]: [[Leela/Marathon 2026/loot/Custom Chasis|Custom Chasis]] · [src ↗](https://marathon.karnemir.com/codex/loot/cradle#h.hmcp1k7qa305)
+[^6]: [[Leela/Marathon 2026/dire-marsh-night/Advertisement|Advertisement]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.9jaa6wmopr7v)
+[^7]: [[Leela/Marathon 2026/dire-marsh-night/Acceptance Notice|Acceptance Notice]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
+[^8]: [[Leela/Marathon 2026/dire-marsh-night/Headhunter (Executive)|Headhunter (Executive)]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.clcmg5jqhege)
+[^9]: [[Leela/Marathon 2026/perimeter/Darius and Joy Dialogue|Darius and Joy Dialogue]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

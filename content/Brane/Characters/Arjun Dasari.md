@@ -13,7 +13,7 @@ tags: [character, scientist, m2026, anomaly, brane-hub]
 source-count: 3
 mentioned-by: 4
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Arjun Dasari
@@ -73,9 +73,8 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Database Query](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
-[^2]: [Anomaly Incident Reports](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.dfyiaydai6aj)
-[^3]: [Anomaly Recording](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.29sdbyj9tfgu)
-
+[^1]: [[Leela/Marathon 2026/dire-marsh/Database Query|Database Query]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
+[^2]: [[Leela/Marathon 2026/faction-traxus/Anomaly Incident Reports|Anomaly Incident Reports]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.dfyiaydai6aj)
+[^3]: [[Leela/Marathon 2026/faction-traxus/Anomaly Recording|Anomaly Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.29sdbyj9tfgu)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

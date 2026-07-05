@@ -13,7 +13,7 @@ tags: [faction, cult, m2026, arachne]
 source-count: 9
 mentioned-by: 8
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 
@@ -94,15 +94,14 @@ The First Sleeper's journals frame cryogenic sleep as a "recoverable form of dea
 
 ## Sources
 
-[^1]: [Arachne Overview](https://marathon.karnemir.com/codex/factions/arachne/comms#h.hzzpvklkid8s)
-[^2]: [Comfort/Cage](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vu9afbh4xha4)
-[^3]: [Assassin's Logs](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.f1bdsbiq8ebn)
+[^1]: [[Leela/Marathon 2026/faction-arachne/Arachne Overview|Arachne Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/arachne/comms#h.hzzpvklkid8s)
+[^2]: [[Leela/Marathon 2026/faction-mida/Comfort-Cage|Comfort/Cage]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vu9afbh4xha4)
+[^3]: [[Leela/Marathon 2026/dire-marsh-night/Assassin’s Logs|Assassin’s Logs]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.f1bdsbiq8ebn)
 [^4]: [Arachne Doctrine](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l4f3cfsfos8r)
-[^5]: [Fragment 1](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.tu317h8f1pv4)
-[^6]: [Fragment 2](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.7v1q5cow3wo0)
-[^7]: [Fragment 3](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.jzgjq07hivg0)
-[^8]: [Fragment 4](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l6uyte72ipx3)
-[^9]: [Fragment 5](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.or0sihohq0lo)
-
+[^5]: [[Leela/Marathon 2026/dire-marsh-night/Fragment 1|Fragment 1]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.tu317h8f1pv4)
+[^6]: [[Leela/Marathon 2026/dire-marsh-night/Fragment 2|Fragment 2]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.7v1q5cow3wo0)
+[^7]: [[Leela/Marathon 2026/dire-marsh-night/Fragment 3|Fragment 3]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.jzgjq07hivg0)
+[^8]: [[Leela/Marathon 2026/dire-marsh-night/Fragment 4|Fragment 4]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l6uyte72ipx3)
+[^9]: [[Leela/Marathon 2026/dire-marsh-night/Fragment 5|Fragment 5]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.or0sihohq0lo)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

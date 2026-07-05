@@ -12,7 +12,7 @@ tags: [concept, biotech, sekiguchi, m2026, shells]
 source-count: 8
 mentioned-by: 5
 appears-in: [codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # WEAVEworms
@@ -110,14 +110,13 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [An Introduction to WEAVEworms](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fmtd21eloz4u)
-[^2]: [An Introduction to SYNTHsilk](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.lro1043pj6w5)
-[^3]: [Shell Print Process Overview](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.mml2dn2d36j)
-[^4]: [Matter, Converted — CRADLE Overview](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
-[^5]: [WEAVEworm Advancements](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.amwcxte2081o)
-[^6]: [WEAVEworm Technological Timeline](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.5ptlw5dvkx65)
-[^7]: [SekGen Overview](https://marathon.karnemir.com/codex/factions/sekiguchi/comms#h.11qt8hzojdl)
-[^8]: [Acceptance Notice](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
-
+[^1]: [[Leela/Marathon 2026/dire-marsh/An Introduction to WEAVEworms|An Introduction to WEAVEworms]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fmtd21eloz4u)
+[^2]: [[Leela/Marathon 2026/dire-marsh/An Introduction to SYNTHsilk|An Introduction to SYNTHsilk]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.lro1043pj6w5)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Shell Print Process Overview|Shell Print Process Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.mml2dn2d36j)
+[^4]: [[Leela/Marathon 2026/loot/Matter, Converted|Matter, Converted]] · [src ↗](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
+[^5]: [[Leela/Marathon 2026/dire-marsh/WEAVEworm Advancements|WEAVEworm Advancements]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.amwcxte2081o)
+[^6]: [[Leela/Marathon 2026/dire-marsh/WEAVEworm Technological Timeline|WEAVEworm Technological Timeline]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.5ptlw5dvkx65)
+[^7]: [[Leela/Marathon 2026/faction-sekiguchi/SekGen Overview|SekGen Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/comms#h.11qt8hzojdl)
+[^8]: [[Leela/Marathon 2026/dire-marsh-night/Acceptance Notice|Acceptance Notice]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.l3nrsjvlm9l3)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

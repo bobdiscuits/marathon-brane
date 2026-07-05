@@ -12,7 +12,7 @@ tags: [concept, ai, rampancy, trilogy, m2026, key-lore, brane-hub]
 source-count: 30
 mentioned-by: 14
 appears-in: [m1, m2, infinity, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Rampancy
@@ -212,9 +212,9 @@ The Runners' Guide entry for **AI Uplink** (Dire Marsh Night) uses the term in a
 - [[Mirror/archive/marathon-2/citadel/eat-it-vid-boi|citadel · eat-it-vid-boi]]
 - [[Mirror/archive/marathon-2/epilogue|marathon-2 · epilogue]]
 - [[Mirror/archive/marathon-2/volunteers/come-and-take-your-medicine|volunteers · come-and-take-your-medicine]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/rage/foe-hammer|rage · foe-hammer]]
-- [[Mirror/archive/marathon/rage/naw-man-hes-close|rage · naw-man-hes-close]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/rage/foe-hammer|rage · foe-hammer]]
+- [[Mirror/archive/marathon-infinity/rage/naw-man-hes-close|rage · naw-man-hes-close]]
 - [[Mirror/codex/factions/nucaloric/contracts|nucaloric · contracts]]
 - [[Mirror/codex/world/cryo-archive/collectibles|cryo-archive · collectibles]]
 - [[Mirror/codex/world/cryo-archive/cryo-vault|cryo-archive · cryo-vault]]
@@ -228,35 +228,35 @@ The Runners' Guide entry for **AI Uplink** (Dire Marsh Night) uses the term in a
 
 ## Sources
 
-[^1]: [The Family Support Suite](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.172jtub34cr)
-[^2]: [Public Access Terminal 42-s](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.mcabvu33ex1m)
-[^3]: [Nice to meet you... I mean it.](https://marathon.karnemir.com/codex/world/cryo-archive/cryo-vault#h.i54iigpl8xy8)
-[^4]: [Security Brief: Rampancy, Stage 1](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.uhsaiae9iyx9)
-[^5]: [Stage 2](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.cgo2tk8mkz3t)
-[^6]: [Stage 3](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.oh3p5ik8v74t)
-[^7]: [U.E.S.C. MARATHON letter](https://marathon.karnemir.com/intercepts/uesc/letters#h.obnddian4z9l)
-[^8]: [Colony Ship for Sale, Cheap](https://marathon.karnemir.com/archive/marathon-1/durandal/colony-ship-for-sale-cheap#h.322flwi6c0yy)
-[^9]: [Couch Fishing](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.kg5znc3c7bgj)
-[^10]: [Fire Fire Fire Fire Fire](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
-[^11]: [Ingue Ferroque](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
-[^12]: [Defense Sector 39-f](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.79xoyo2n58n8)
-[^13]: [Eat It Vid Boi](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.r9metmeyg6q5)
-[^14]: [Come and Take Your Medicine](https://marathon.karnemir.com/archive/marathon-2/volunteers/come-and-take-your-medicine#h.hhspkkpu8alf)
-[^15]: [Naw Man He's Close](https://marathon.karnemir.com/archive/marathon/rage/naw-man-hes-close#h.229oc63ai9bb)
-[^16]: [Foe Hammer](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.aaqrd1fopg2j)
-[^17]: [line.cipher.cadence](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.ft7upaaoxxqx)
-[^18]: [Final Quadrant Report](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j9fe017v9e12)
-[^19]: [!!!Emergency Alert!!!](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.situ4eg7qfuf)
-[^20]: [Considering Degradation](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
-[^21]: [AI Uplink Overview](https://marathon.karnemir.com/codex/world/dire-marsh-night/exploration#h.brov5m7m78uw)
-[^22]: [Field Observation 371.6](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.43zu625m5o7u)
-[^23]: [Project:Goliath_DRAFT_A](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
-[^24]: [DRAFT_B](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
-[^25]: [DRAFT_E](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
-[^26]: [Security Report: Lt. Yabara](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.2dk9qakepi6j)
-[^27]: [CyberAcme Interview](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
-[^28]: [Diagnostic Analysis: Darius](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
-[^29]: [Smells Like Napalm Tastes Like Chicken](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.y2rfebe1amqh)
+[^1]: [[Leela/Marathon 2026/perimeter/The Family Support Suite|The Family Support Suite]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.172jtub34cr)
+[^2]: [[Leela/Marathon 1/defend-this/Public Access Terminal 42-s|Public Access Terminal 42-s]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.mcabvu33ex1m)
+[^3]: [[Leela/Marathon 2026/cryo-archive/Nice to meet you... I mean it.|Nice to meet you... I mean it.]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/cryo-vault#h.i54iigpl8xy8)
+[^4]: [[Leela/Marathon 2026/outpost/Security Brief- Rampancy, Stage 1|Security Brief: Rampancy, Stage 1]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.uhsaiae9iyx9)
+[^5]: [[Leela/Marathon 2026/outpost/Security Brief- Rampancy, Stage 2|Security Brief: Rampancy, Stage 2]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.cgo2tk8mkz3t)
+[^6]: [[Leela/Marathon 2026/outpost/Security Brief- Rampancy, Stage 3|Security Brief: Rampancy, Stage 3]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.oh3p5ik8v74t)
+[^7]: [[Leela/Marathon 2026/intercepts-uesc/U.E.S.C. MARATHON|U.E.S.C. MARATHON]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.obnddian4z9l)
+[^8]: [[Leela/Marathon 1/colony-ship-for-sale-cheap/Public Access Terminal 2992-f|Public Access Terminal 2992-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/durandal/colony-ship-for-sale-cheap#h.322flwi6c0yy)
+[^9]: [[Leela/Marathon 1/couch-fishing/Public Access Terminal 903-e|Public Access Terminal 903-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.kg5znc3c7bgj)
+[^10]: [[Leela/Marathon 1/fire-fire-fire-fire-fire/Public Access Terminal 92-g|Public Access Terminal 92-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
+[^11]: [[Leela/Marathon 1/ingue-ferroque/Public Access Terminal 39-z|Public Access Terminal 39-z]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
+[^12]: [[Leela/Marathon 1/defend-this/Defense Sector 39-f|Defense Sector 39-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.79xoyo2n58n8)
+[^13]: [[Leela/Marathon 2 - Durandal/eat-it-vid-boi/-Pragma Junction ^7921 Engaged-|<Pragma Junction ^7921 Engaged>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.r9metmeyg6q5)
+[^14]: [[Leela/Marathon 2 - Durandal/come-and-take-your-medicine/gjk--H-v58-w12pcgbk|gjk//H-v58-w12pcgbk]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/come-and-take-your-medicine#h.hhspkkpu8alf)
+[^15]: [[Leela/Marathon Infinity/naw-man-hes-close/ci1.c390ad|ci1.c390ad]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/naw-man-hes-close#h.229oc63ai9bb)
+[^16]: [[Leela/Marathon Infinity/foe-hammer/d.ondwn4|d.ondwn4]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.aaqrd1fopg2j)
+[^17]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/line.cipher.cadence|line.cipher.cadence]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.ft7upaaoxxqx)
+[^18]: [[Leela/Marathon 2026/cryo-archive/Final Quadrant Report|Final Quadrant Report]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j9fe017v9e12)
+[^19]: [[Leela/Marathon 2026/cryo-archive/!!!Emergency Alert!!!|!!!Emergency Alert!!!]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.situ4eg7qfuf)
+[^20]: [[Leela/Marathon 2026/cryo-archive/Considering Degradation|Considering Degradation]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
+[^21]: [[Leela/Marathon 2026/dire-marsh-night/AI Uplink Overview|AI Uplink Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/exploration#h.brov5m7m78uw)
+[^22]: [[Leela/Marathon 2026/dire-marsh-night/Field Observation -[371.6-]|Field Observation \[371.6\]]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.43zu625m5o7u)
+[^23]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_A|Project:Goliath\_DRAFT\_A]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
+[^24]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_B|Project:Goliath\_DRAFT\_B]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
+[^25]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_E|Project:Goliath\_DRAFT\_E]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
+[^26]: [[Leela/Marathon 2026/outpost/Security Report- Lt. Yabara|Security Report: Lt. Yabara]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.2dk9qakepi6j)
+[^27]: [[Leela/Marathon 2026/perimeter/CyberAcme Interview|CyberAcme Interview]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
+[^28]: [[Leela/Marathon 2026/faction-nucaloric/Diagnostic Analysis- Darius|Diagnostic Analysis: Darius]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
+[^29]: [[Leela/Marathon 1/smells-like-napalm-tastes-like-chicken/Service Access 31-b|Service Access 31-b]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.y2rfebe1amqh)
 [^30]: [Epilogue](https://marathon.karnemir.com/archive/marathon-2/epilogue)
 
 ---

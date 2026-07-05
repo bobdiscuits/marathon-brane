@@ -12,7 +12,7 @@ tags: [concept, biosynth, creature, m2026, dire-marsh, sekiguchi]
 source-count: 4
 mentioned-by: 4
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Felini
@@ -99,10 +99,9 @@ _No inbound links yet._
 
 ## Sources
 
-[^1]: [Felini Deliverables](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.oeyjb3nvtttr)
-[^2]: [Felini Troubleshooting](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pkg406j9t7il)
-[^3]: [Frequent Felini Bugs](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.ntfvqnw3apo7)
-[^4]: [Recording: Ghost Cat](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.ddliltfexam)
-
+[^1]: [[Leela/Marathon 2026/dire-marsh/Felini Deliverables|Felini Deliverables]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.oeyjb3nvtttr)
+[^2]: [[Leela/Marathon 2026/dire-marsh/Felini Troubleshooting|Felini Troubleshooting]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pkg406j9t7il)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Frequent Felini Bugs|Frequent Felini Bugs]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.ntfvqnw3apo7)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Recording- Ghost Cat|Recording: Ghost Cat]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.ddliltfexam)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

@@ -12,7 +12,7 @@ tags: [concept, trilogy, infinity, wrkncacnter, jjaro, key-lore]
 source-count: 4
 mentioned-by: 18
 appears-in: [m2, infinity, codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # W'rkncacnter
@@ -111,8 +111,8 @@ In the S'pht account, the W'rkncacnter are not merely an external threat but are
 *The local 1:1 pages this hub's citations resolve to — the twin's own ground truth.*
 
 - [[Mirror/archive/marathon-2/citadel/six-thousand-feet-under|citadel · six-thousand-feet-under]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/prologue/ne-cede-malis|prologue · ne-cede-malis]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/prologue/ne-cede-malis|prologue · ne-cede-malis]]
 <!-- MIRROR:END -->
 
 ## Sources

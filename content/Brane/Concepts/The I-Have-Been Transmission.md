@@ -12,7 +12,7 @@ tags: [concept, trilogy, m2, security-officer, key-lore, mystery]
 source-count: 1
 mentioned-by: 8
 appears-in: []
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # The I-Have-Been Transmission

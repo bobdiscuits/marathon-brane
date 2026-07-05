@@ -13,7 +13,7 @@ tags: [character, ai, uesc, m2026, cerberus, key-lore]
 source-count: 14
 mentioned-by: 13
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Cerberus
@@ -100,19 +100,19 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Personnel File: "Orion"](https://marathon.karnemir.com/codex/factions/mida/contracts#h.hivvxqv0w3hd)
-[^2]: [Cerberus Code Fragment](https://marathon.karnemir.com/codex/factions/mida/contracts#h.urgoqgv23p0s)
-[^3]: [Burn/Reveal](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vs2cpmsy57ox)
-[^4]: [Code Fragments: Cerberus](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.i6ml9hat13tt)
-[^5]: [Code Fragments: Optimization](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.mp77enksp0r2)
-[^6]: [UESC Comms: Anomaly](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.vd0him8xydp6)
-[^7]: [UESC Report: Combat Protocol](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.760jqqm5k360)
-[^8]: [Breaching the Marathon](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.jryyslsy345g)
-[^9]: [First Contact](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.udaoflp8m081)
-[^10]: [Cryo Deck Exploration](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.b6tzxf3wczst)
-[^11]: [Securing Cryo Deck](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.k5q53mspykha)
+[^1]: [[Leela/Marathon 2026/faction-mida/Personnel File- -Orion-|Personnel File: "Orion"]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.hivvxqv0w3hd)
+[^2]: [[Leela/Marathon 2026/faction-mida/Cerberus Code Fragment|Cerberus Code Fragment]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.urgoqgv23p0s)
+[^3]: [[Leela/Marathon 2026/faction-mida/Burn-Reveal|Burn/Reveal]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vs2cpmsy57ox)
+[^4]: [[Leela/Marathon 2026/faction-nucaloric/Code Fragments- Cerberus|Code Fragments: Cerberus]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.i6ml9hat13tt)
+[^5]: [[Leela/Marathon 2026/faction-sekiguchi/Code Fragments- Optimization|Code Fragments: Optimization]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.mp77enksp0r2)
+[^6]: [[Leela/Marathon 2026/faction-traxus/UESC Comms- Anomaly|UESC Comms: Anomaly]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.vd0him8xydp6)
+[^7]: [[Leela/Marathon 2026/faction-traxus/UESC Report- Combat Protocol|UESC Report: Combat Protocol]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.760jqqm5k360)
+[^8]: [[Leela/Marathon 2026/cryo-archive/Breaching the Marathon|Breaching the Marathon]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.jryyslsy345g)
+[^9]: [[Leela/Marathon 2026/cryo-archive/First Contact|First Contact]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.udaoflp8m081)
+[^10]: [[Leela/Marathon 2026/cryo-archive/Cryo Deck Exploration|Cryo Deck Exploration]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.b6tzxf3wczst)
+[^11]: [[Leela/Marathon 2026/cryo-archive/Securing Cryo Deck|Securing Cryo Deck]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.k5q53mspykha)
 [^12]: [Engagement [Subject01]](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.sttbwxtlq7jz)
-[^13]: [Messaging, Part 2](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.aq6manpo503w)
+[^13]: [[Leela/Marathon 2026/dire-marsh-night/Messaging, Part 2|Messaging, Part 2]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.aq6manpo503w)
 [^14]: [Field Observation [22716.2]](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.mkzlu3rfz6dg)
 
 ---

@@ -13,7 +13,7 @@ tags: [character, ai, trilogy, m1, m2, infinity, trilogy-bridge]
 source-count: 36
 mentioned-by: 38
 appears-in: [m1, m2, infinity, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Tycho
@@ -211,14 +211,14 @@ last-updated: 2026-07-02
 - [[Mirror/archive/marathon-2/sphtkr/feel-the-noise|sphtkr · feel-the-noise]]
 - [[Mirror/archive/marathon-2/volunteers/were-everywhere|volunteers · were-everywhere]]
 - [[Mirror/archive/marathon-2/volunteers/what-about-bob|volunteers · what-about-bob]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/despair/poor-yorick|despair · poor-yorick]]
-- [[Mirror/archive/marathon/despair/rise-robot-rise|despair · rise-robot-rise]]
-- [[Mirror/archive/marathon/envy/bagged-again|envy · bagged-again]]
-- [[Mirror/archive/marathon/prologue/ne-cede-malis|prologue · ne-cede-malis]]
-- [[Mirror/archive/marathon/rage/foe-hammer|rage · foe-hammer]]
-- [[Mirror/archive/marathon/rage/naw-man-hes-close|rage · naw-man-hes-close]]
-- [[Mirror/archive/marathon/rage/where-some-rarely-go|rage · where-some-rarely-go]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/despair/poor-yorick|despair · poor-yorick]]
+- [[Mirror/archive/marathon-infinity/despair/rise-robot-rise|despair · rise-robot-rise]]
+- [[Mirror/archive/marathon-infinity/envy/bagged-again|envy · bagged-again]]
+- [[Mirror/archive/marathon-infinity/prologue/ne-cede-malis|prologue · ne-cede-malis]]
+- [[Mirror/archive/marathon-infinity/rage/foe-hammer|rage · foe-hammer]]
+- [[Mirror/archive/marathon-infinity/rage/naw-man-hes-close|rage · naw-man-hes-close]]
+- [[Mirror/archive/marathon-infinity/rage/where-some-rarely-go|rage · where-some-rarely-go]]
 - [[Mirror/codex/world/cryo-archive/collectibles|cryo-archive · collectibles]]
 - [[Mirror/codex/world/cryo-archive/cryo-vault|cryo-archive · cryo-vault]]
 - [[Mirror/codex/world/perimeter/collectibles|perimeter · collectibles]]
@@ -227,42 +227,41 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Public Access Terminal, Bigger Guns Nearby](https://marathon.karnemir.com/archive/marathon-1/arrival/bigger-guns-nearby#h.z1sj8x12ngjm)
-[^2]: [Defense Sector 39-f, Defend This](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.79xoyo2n58n8)
-[^3]: [Public Access Terminal 92-g, Fire Fire Fire Fire Fire](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
-[^4]: [Engineering Access Terminal 20-f, Welcome to the Revolution](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.irc3brhzy1h)
-[^5]: [Engineering Terminal 39-g, Shake Before Using](https://marathon.karnemir.com/archive/marathon-1/reprisal/shake-before-using#h.lqo9sl65nwg3)
-[^6]: [Public Access 1066-g, Beware of Low-Flying Defense Drones](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/beware-of-low-flying-defense-drones#h.59khe6ue893c)
-[^7]: [jon3//12-a Phce<194-973-2356>, The Slings and Arrows of Outrageous Fortune](https://marathon.karnemir.com/archive/marathon-2/lhowon/the-slings-arrows-of-outrageous-fortune#h.p1kejg50lwma)
-[^8]: [lusecurbonfeed.7, Where Some Rarely Go](https://marathon.karnemir.com/archive/marathon/rage/where-some-rarely-go#h.bnho1ysm19n8)
-[^9]: [%94decaf@&!7, Sorry Don't Make It So](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
-[^10]: [65124.134.12##<CMND PRAMA &49c2>, We're Everywhere](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.gijk44pczngb)
-[^11]: [<CMND OVERRIDE @1494>, What About Bob](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.yaqioipgfdvq)
-[^12]: [<error #441 in transmission>, For Carnage Apply Within](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.eefj57kf3o9y)
-[^13]: [li5%!\_data, Sorry Don't Make It So](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.jqgltqdz4wqr)
-[^14]: [Yt-c469d02l;12, Begging for Mercy Makes Me Angry](https://marathon.karnemir.com/archive/marathon-2/durandal/begging-for-mercy-makes-me-angry#h.v5gncp6k0qmr)
-[^15]: [mimir.seg, Foe Hammer](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.5grkqmc234sv)
-[^16]: [vestrum.excrucibo<1>, Fatum Iustum Stultorum](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
-[^17]: [//cge-wrought<293ef.c9ab20>, Feel the Noise](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.s7oyhlyw5prm)
-[^18]: [xpj399c001, Rise Robot Rise](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.vhulcr4hulnp)
-[^19]: [frontx02.19, Rise Robot Rise](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.dn7rhn3jr61)
-[^20]: [Cirlw.zoq, Confound Delivery](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
-[^21]: [end.secur.feed.89A, Poor Yorick](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.j8dvmff6tkrj)
-[^22]: [purge.seg1, Confound Delivery](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.dok9bc917ycc)
-[^23]: [75.battle.standard, Poor Yorick](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.10ux90mp9g4l)
-[^24]: [111.commandoversight, Rise Robot Rise](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.7pp0bsz0fn0x)
-[^25]: [ci1.c390ad, Naw Man He's Close](https://marathon.karnemir.com/archive/marathon/rage/naw-man-hes-close#h.229oc63ai9bb)
-[^26]: [d.ondwn4, Foe Hammer](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.aaqrd1fopg2j)
-[^27]: [finite.2.5, Bagged Again](https://marathon.karnemir.com/archive/marathon/envy/bagged-again#h.tk4dvwoxzztj)
-[^28]: [<Error>, Ne Cede Malis](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
-[^29]: [EPAL4mm//toneskfa31'loa'kr, Six Thousand Feet Under](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.byzi6emzhf1i)
+[^1]: [[Leela/Marathon 1/bigger-guns-nearby/Public Access Terminal|Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/bigger-guns-nearby#h.z1sj8x12ngjm)
+[^2]: [[Leela/Marathon 1/defend-this/Defense Sector 39-f|Defense Sector 39-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.79xoyo2n58n8)
+[^3]: [[Leela/Marathon 1/fire-fire-fire-fire-fire/Public Access Terminal 92-g|Public Access Terminal 92-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
+[^4]: [[Leela/Marathon 1/welcome-to-the-revolution/Engineering Access Terminal 20-f|Engineering Access Terminal 20-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.irc3brhzy1h)
+[^5]: [[Leela/Marathon 1/shake-before-using/Engineering Terminal 39-g|Engineering Terminal 39-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/reprisal/shake-before-using#h.lqo9sl65nwg3)
+[^6]: [[Leela/Marathon 1/beware-of-low-flying-defense-drones/Public Access 1066-g|Public Access 1066-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/beware-of-low-flying-defense-drones#h.59khe6ue893c)
+[^7]: [[Leela/Marathon 2 - Durandal/the-slings-arrows-of-outrageous-fortune/jon3--12-a Phce-194-973-2356-|jon3//12-a Phce<194-973-2356>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/the-slings-arrows-of-outrageous-fortune#h.p1kejg50lwma)
+[^8]: [[Leela/Marathon Infinity/where-some-rarely-go/lusecurbonfeed.7|lusecurbonfeed.7]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/where-some-rarely-go#h.bnho1ysm19n8)
+[^9]: [[Leela/Marathon 2 - Durandal/sorry-dont-make-it-so/-94decaf@-!7|%94decaf@&!7]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
+[^10]: [[Leela/Marathon 2 - Durandal/were-everywhere/65124.134.12---CMND PRAMA -49c2-|65124.134.12##<CMND PRAMA &49c2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.gijk44pczngb)
+[^11]: [[Leela/Marathon 2 - Durandal/what-about-bob/-CMND OVERRIDE -@1494-|<CMND OVERRIDE &@1494>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.yaqioipgfdvq)
+[^12]: [[Leela/Marathon 2 - Durandal/for-carnage-apply-within/-error -441 in transmission-|<error #441 in transmission>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.eefj57kf3o9y)
+[^13]: [[Leela/Marathon 2 - Durandal/sorry-dont-make-it-so/li5-!-_data(--li!$ne-_in|li5%!\_data(\*li!$ne\_in]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.jqgltqdz4wqr)
+[^14]: [[Leela/Marathon 2 - Durandal/begging-for-mercy-makes-me-angry/Yt-c469d02l;12|Yt-c469d02l;12]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/begging-for-mercy-makes-me-angry#h.v5gncp6k0qmr)
+[^15]: [[Leela/Marathon Infinity/foe-hammer/mimir.seg|mimir.seg]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.5grkqmc234sv)
+[^16]: [[Leela/Marathon 2 - Durandal/fatum-iustum-stultorum/vestrum.excrucibo-1-|vestrum.excrucibo<1>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
+[^17]: [[Leela/Marathon 2 - Durandal/feel-the-noise/--cge-wrought-293ef.c9ab20-|//cge-wrought<293ef.c9ab20>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.s7oyhlyw5prm)
+[^18]: [[Leela/Marathon Infinity/rise-robot-rise/xpj399c001|xpj399c001]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.vhulcr4hulnp)
+[^19]: [[Leela/Marathon Infinity/rise-robot-rise/frontx02.19|frontx02.19]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.dn7rhn3jr61)
+[^20]: [[Leela/Marathon Infinity/confound-delivery/Cirlw.zoq|Cirlw.zoq]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
+[^21]: [[Leela/Marathon Infinity/poor-yorick/end.secur.feed.89A|end.secur.feed.89A]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.j8dvmff6tkrj)
+[^22]: [[Leela/Marathon Infinity/confound-delivery/purge.seg1|purge.seg1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.dok9bc917ycc)
+[^23]: [[Leela/Marathon Infinity/poor-yorick/75.battle.standard|75.battle.standard]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.10ux90mp9g4l)
+[^24]: [[Leela/Marathon Infinity/rise-robot-rise/111.commandoversight|111.commandoversight]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.7pp0bsz0fn0x)
+[^25]: [[Leela/Marathon Infinity/naw-man-hes-close/ci1.c390ad|ci1.c390ad]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/naw-man-hes-close#h.229oc63ai9bb)
+[^26]: [[Leela/Marathon Infinity/foe-hammer/d.ondwn4|d.ondwn4]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.aaqrd1fopg2j)
+[^27]: [[Leela/Marathon Infinity/bagged-again/finite.2.5|finite.2.5]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/bagged-again#h.tk4dvwoxzztj)
+[^28]: [[Leela/Marathon Infinity/ne-cede-malis/-Error-|<Error>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
+[^29]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/EPAL4mm--toneskfa31'loa'kr|EPAL4mm//toneskfa31'loa'kr]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.byzi6emzhf1i)
 [^30]: [Epilogue](https://marathon.karnemir.com/archive/marathon-2/epilogue) — *Marathon 2* epilogue (no in-page anchor in source)
-[^31]: [Letters — SCIENG memo](https://marathon.karnemir.com/intercepts/uesc/letters#h.go0tffk1he2w)
-[^32]: [UESC Marathon AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
-[^33]: [Report from Orbital Satellites](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.fm4o1r7rx3p0)
+[^31]: [[Leela/Marathon 2026/intercepts-uesc/Ship AI-|Ship AI:]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.go0tffk1he2w)
+[^32]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon AI|UESC Marathon AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
+[^33]: [[Leela/Marathon 2026/perimeter/Report from Orbital Satellites|Report from Orbital Satellites]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.fm4o1r7rx3p0)
 [^34]: [Distress Review [Interrupted]](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.t404p2yoyoib)
-[^35]: [Pre-Decommission Reflection](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.blh35ru5m6rf)
-[^36]: ["Nice to meet you... I mean it."](https://marathon.karnemir.com/codex/world/cryo-archive/cryo-vault#h.i54iigpl8xy8)
-
+[^35]: [[Leela/Marathon 2026/cryo-archive/Pre-Decommission Reflection|Pre-Decommission Reflection]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.blh35ru5m6rf)
+[^36]: [[Leela/Marathon 2026/cryo-archive/Nice to meet you... I mean it.|Nice to meet you... I mean it.]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/cryo-vault#h.i54iigpl8xy8)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

@@ -13,7 +13,7 @@ tags: [character, uesc, military, m2026, mida]
 source-count: 8
 mentioned-by: 4
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Captain Orion
@@ -96,14 +96,13 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Personnel File: "Orion"](https://marathon.karnemir.com/codex/factions/mida/contracts#h.hivvxqv0w3hd)
+[^1]: [[Leela/Marathon 2026/faction-mida/Personnel File- -Orion-|Personnel File: "Orion"]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.hivvxqv0w3hd)
 [^2]: [Message: Orion [2]](https://marathon.karnemir.com/codex/factions/mida/contracts#h.1436ndxtxfzu)
-[^3]: [Project:Goliath_DRAFT_B](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
-[^4]: [Tau Ceti Status Report](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
-[^5]: [UESC Drone Manifest](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.qvdn5vh1q5tc)
-[^6]: [UESC Outreach / Messaging, Part 1](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.o670nevh3a79)
-[^7]: [Messaging, Part 2](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.aq6manpo503w)
-[^8]: [Public Status Report](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.vj4lt23p6uf4)
-
+[^3]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_B|Project:Goliath\_DRAFT\_B]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
+[^4]: [[Leela/Marathon 2026/faction-traxus/Tau Ceti Status Report|Tau Ceti Status Report]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
+[^5]: [[Leela/Marathon 2026/faction-traxus/UESC Drone Manifest|UESC Drone Manifest]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.qvdn5vh1q5tc)
+[^6]: [[Leela/Marathon 2026/dire-marsh-night/Special Operations Oversight|Special Operations Oversight]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.o670nevh3a79)
+[^7]: [[Leela/Marathon 2026/dire-marsh-night/Messaging, Part 2|Messaging, Part 2]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.aq6manpo503w)
+[^8]: [[Leela/Marathon 2026/dire-marsh-night/Public Status Report|Public Status Report]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.vj4lt23p6uf4)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

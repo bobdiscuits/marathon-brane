@@ -13,7 +13,7 @@ tags: [character, ai, colony-ai, rhea-suite, m2026, brane-hub]
 source-count: 5
 mentioned-by: 15
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Naraah
@@ -70,11 +70,10 @@ Naraah is one of **eight "Strong" colony support intelligences** built by **Trax
 
 ## Sources
 
-[^1]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^2]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^3]: [Cerebral Record: Arthur](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
-[^4]: [Cerebral Record: Bastion](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
-[^5]: [Mars, Our First Colony](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.8gbex8rdet0f)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^2]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Arthur|Cerebral Record: Arthur]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Bastion|Cerebral Record: Bastion]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
+[^5]: [[Leela/Marathon 2026/dire-marsh/Mars, Our First Colony|Mars, Our First Colony]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.8gbex8rdet0f)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

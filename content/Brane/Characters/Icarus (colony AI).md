@@ -13,7 +13,7 @@ tags: [character, ai, colony-ai, rhea-suite, m2026, brane-hub]
 source-count: 9
 mentioned-by: 13
 appears-in: [m1, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Icarus (colony AI)
@@ -88,15 +88,14 @@ Icarus is one of eight **Strong colony support intelligences** (family suite **R
 
 ## Sources
 
-[^1]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^2]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^3]: [Our Cosmic Home](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.x98u3jlftuqo)
-[^4]: [Cerebral Record: Arthur](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
-[^5]: [Cerebral Record: Lilith](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
-[^6]: [Cerebral Record: Bastion](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
-[^7]: [Cerebral Record: Gabriel](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
-[^8]: [Cerebral Record: Icarus](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
-[^9]: [Project:Goliath letter](https://marathon.karnemir.com/intercepts/uesc/letters#h.o4gbj5d6yhf6)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^2]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Our Cosmic Home|Our Cosmic Home]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.x98u3jlftuqo)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Arthur|Cerebral Record: Arthur]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
+[^5]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Lilith|Cerebral Record: Lilith]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
+[^6]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Bastion|Cerebral Record: Bastion]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
+[^7]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Gabriel|Cerebral Record: Gabriel]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
+[^8]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Icarus|Cerebral Record: Icarus]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
+[^9]: [[Leela/Marathon 2026/intercepts-uesc/Unified Earth Space Council Center|Unified Earth Space Council Center]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.o4gbj5d6yhf6)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

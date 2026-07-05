@@ -12,7 +12,7 @@ tags: [concept, jjaro, weapon, trilogy, m2, infinity]
 source-count: 7
 mentioned-by: 9
 appears-in: [m2, infinity]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Trih Xeem
@@ -79,22 +79,21 @@ last-updated: 2026-07-02
 *The local 1:1 pages this hub's citations resolve to — the twin's own ground truth.*
 
 - [[Mirror/archive/marathon-2/sphtkr/all-roads-lead-to-sol|sphtkr · all-roads-lead-to-sol]]
-- [[Mirror/archive/marathon/despair/aie-mak-sicur|despair · aie-mak-sicur]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
+- [[Mirror/archive/marathon-infinity/despair/aie-mak-sicur|despair · aie-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [^^^EOf — Aie Mak Sicur (Despair)](https://marathon.karnemir.com/archive/marathon/despair/aie-mak-sicur#h.svkiumbublnb)
-[^2]: [tat.iana — Aye Mak Sicur (Envy)](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
-[^3]: [dciel1cb1 — You Think You're Big Time… (Envy)](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
-[^4]: [wgrnc.q23 — You Think You're Big Time… (Envy)](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
-[^5]: [Report to Lh'owon Command — Introduction](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
-[^6]: [tranced.Finale\<0-05\> — All Roads Lead to Sol](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
-[^7]: [Cirlw.zoq — Confound Delivery](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
-
+[^1]: [[Leela/Marathon Infinity/aie-mak-sicur/^^^EOf|^^^EOf]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/aie-mak-sicur#h.svkiumbublnb)
+[^2]: [[Leela/Marathon Infinity/aye-mak-sicur/tat.iana|tat.iana]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
+[^3]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/dciel1cb1|dciel1cb1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
+[^4]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/wgrnc.q23|wgrnc.q23]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
+[^5]: [[Leela/Marathon Infinity/introduction/Report to Lh’owon Command|Report to Lh’owon Command]] · [src ↗](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
+[^6]: [[Leela/Marathon 2 - Durandal/all-roads-lead-to-sol/tranced.Finale-0-05-|tranced.Finale<0-05>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
+[^7]: [[Leela/Marathon Infinity/confound-delivery/Cirlw.zoq|Cirlw.zoq]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

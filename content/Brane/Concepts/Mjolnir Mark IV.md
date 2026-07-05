@@ -12,7 +12,7 @@ tags: [concept, cyborg, military, trilogy, m1]
 source-count: 4
 mentioned-by: 7
 appears-in: [m1, m2]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Mjolnir Mark IV
@@ -72,10 +72,9 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Public Access Terminal 92-g](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
-[^2]: [Public Access Terminal 39-z](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
-[^3]: [%94decaf@&!7](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
-[^4]: [Project:Goliath\_DRAFT\_E](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
-
+[^1]: [[Leela/Marathon 1/fire-fire-fire-fire-fire/Public Access Terminal 92-g|Public Access Terminal 92-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
+[^2]: [[Leela/Marathon 1/ingue-ferroque/Public Access Terminal 39-z|Public Access Terminal 39-z]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
+[^3]: [[Leela/Marathon 2 - Durandal/sorry-dont-make-it-so/-94decaf@-!7|%94decaf@&!7]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
+[^4]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_E|Project:Goliath\_DRAFT\_E]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.pem5b87lxhao)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

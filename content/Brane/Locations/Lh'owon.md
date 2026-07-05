@@ -13,7 +13,7 @@ tags: [location, trilogy, m2, lhowon, spht, key-lore]
 source-count: 30
 mentioned-by: 17
 appears-in: [m2, infinity, codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Lh'owon
@@ -129,47 +129,47 @@ last-updated: 2026-07-02
 - [[Mirror/archive/marathon-2/sphtkr/fatum-iustum-stultorum|sphtkr · fatum-iustum-stultorum]]
 - [[Mirror/archive/marathon-2/sphtkr/feel-the-noise|sphtkr · feel-the-noise]]
 - [[Mirror/archive/marathon-2/volunteers/what-about-bob|volunteers · what-about-bob]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/prologue/ne-cede-malis|prologue · ne-cede-malis]]
-- [[Mirror/archive/marathon/rage/acme-station|rage · acme-station]]
-- [[Mirror/archive/marathon/rage/post-naval-trauma|rage · post-naval-trauma]]
-- [[Mirror/archive/marathon/rage/thing-what-kicks|rage · thing-what-kicks]]
-- [[Mirror/archive/marathon/rage/where-some-rarely-go|rage · where-some-rarely-go]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/prologue/ne-cede-malis|prologue · ne-cede-malis]]
+- [[Mirror/archive/marathon-infinity/rage/acme-station|rage · acme-station]]
+- [[Mirror/archive/marathon-infinity/rage/post-naval-trauma|rage · post-naval-trauma]]
+- [[Mirror/archive/marathon-infinity/rage/thing-what-kicks|rage · thing-what-kicks]]
+- [[Mirror/archive/marathon-infinity/rage/where-some-rarely-go|rage · where-some-rarely-go]]
 - [[Mirror/codex/world/cryo-archive/collectibles|cryo-archive · collectibles]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Marathon 2 Introduction](https://marathon.karnemir.com/archive/marathon-2/introduction#h.abe9p6foql1u)
-[^2]: [Eat It, Vid Boi — S'pht Translator](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
-[^3]: [Six Thousand Feet Under — ax1-40^23](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
-[^4]: [Six Thousand Feet Under — EPAL4mm](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.byzi6emzhf1i)
-[^5]: [Alien History vol. 1](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.5r4gebgp2tpe)
-[^6]: [Six Thousand Feet Under — ax1-40^23](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
-[^7]: [Alien History vol. 3](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
-[^8]: [You Think You're Big Time](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
-[^9]: [For Carnage Apply Within — Tycho](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
-[^10]: [Charon Doesn't Make Change — ssg//4647](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.bfkb91sz71ys)
-[^11]: [Alien History vol. 4](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
-[^12]: [The Hard Stuff Rules — D-over expires](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.cijl4e62gg5z)
-[^13]: [This Side Toward Enemy — acropolis.piltdown](https://marathon.karnemir.com/archive/marathon-2/blake/this-side-toward-enemy#h.iwxtfh34ivww)
-[^14]: [Where Some Rarely Go — asecurmfeed.7.end](https://marathon.karnemir.com/archive/marathon/rage/where-some-rarely-go#h.xa517t3sq96m)
-[^15]: [Post Naval Trauma — furnish 20-a](https://marathon.karnemir.com/archive/marathon/rage/post-naval-trauma#h.cscxxethbqyx)
-[^16]: [Charon Doesn't Make Change — Remote Tecibon](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.dbaxap586ury)
-[^17]: [Waterloo Waterpark — CMND PRAMA](https://marathon.karnemir.com/archive/marathon-2/lhowon/waterloo-waterpark#h.fti4w1hm0f2z)
-[^18]: [Thing What Kicks — jll.4%](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.ya5wbawimp8m)
-[^19]: [All Roads Lead to Sol — tranced.Finale](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
-[^20]: [Ne Cede Malis — Error terminal](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
-[^21]: [Fatum Iustum Stultorum — vestrum.excrucibo](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
-[^22]: [Alien History vol. 5](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.7xyfujng9ro1)
-[^23]: [Thing What Kicks — fred.cictl.circe (Re'eer log)](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
-[^24]: [Acme Station — dlci3.ci3.21](https://marathon.karnemir.com/archive/marathon/rage/acme-station#h.mp0d86b5n35l)
-[^25]: [What About Bob — CMND OVERRIDE &@85f2](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.9j698eaufrkw)
-[^26]: [If I Had A Rocket Launcher — R4-interrupt 032-cm](https://marathon.karnemir.com/archive/marathon-2/durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay#h.alz9wjch4r4v)
-[^27]: [If I Had A Rocket Launcher — \<redirecting\> &49e 94f9c4](https://marathon.karnemir.com/archive/marathon-2/durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay#h.sylzd835uwg4)
-[^28]: [Confound Delivery — Cirlw.zoq](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
-[^29]: [Feel The Noise — //cge-wrought](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.djjib9zh1vup)
+[^1]: [[Leela/Marathon 2 - Durandal/introduction/The Adventure Continues...|The Adventure Continues...]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/introduction#h.abe9p6foql1u)
+[^2]: [[Leela/Marathon 2 - Durandal/eat-it-vid-boi/-Mnr --@1cz- 9cm2-|<Mnr \*@1cz: 9cm2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
+[^3]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/ax1-40^23-094.95.28.85-|ax1-40^23<094.95.28.85>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
+[^4]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/EPAL4mm--toneskfa31'loa'kr|EPAL4mm//toneskfa31'loa'kr]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.byzi6emzhf1i)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Alien History|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.5r4gebgp2tpe)
+[^6]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/ax1-40^23-094.95.28.85-|ax1-40^23<094.95.28.85>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.ejjoheeabg3g)
+[^7]: [[Leela/Marathon 2026/cryo-archive/Alien History (9xe7pf)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
+[^8]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/dciel1cb1|dciel1cb1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
+[^9]: [[Leela/Marathon 2 - Durandal/for-carnage-apply-within/traxIV-40c-40c- 48c-48c-|traxIV<40c<40c> 48c<48c>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
+[^10]: [[Leela/Marathon 2 - Durandal/charon-doesnt-make-change/ssg--4647.2.52.414.14-extrnt.4-|ssg//4647.2.52.414.14<extrnt.4>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.bfkb91sz71ys)
+[^11]: [[Leela/Marathon 2026/cryo-archive/Alien History (8jq58y)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
+[^12]: [[Leela/Marathon 2 - Durandal/the-hard-stuff-rules/D-over expires-3021.7.30.20.27.49-|D-over expires<3021.7.30.20.27.49>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.cijl4e62gg5z)
+[^13]: [[Leela/Marathon 2 - Durandal/this-side-toward-enemy/acropolis.piltdown--004121.25.1|acropolis.piltdown//004121.25.1]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/blake/this-side-toward-enemy#h.iwxtfh34ivww)
+[^14]: [[Leela/Marathon Infinity/where-some-rarely-go/asecurmfeed.7.end|asecurmfeed.7.end]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/where-some-rarely-go#h.xa517t3sq96m)
+[^15]: [[Leela/Marathon Infinity/post-naval-trauma/furnish 20-a|furnish 20-a]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/post-naval-trauma#h.cscxxethbqyx)
+[^16]: [[Leela/Marathon 2 - Durandal/charon-doesnt-make-change/Remote Tecibon 05fc392d|Remote Tecibon 05fc392d]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.dbaxap586ury)
+[^17]: [[Leela/Marathon 2 - Durandal/waterloo-waterpark/-CMND PRAMA -49c2-|<CMND PRAMA &49c2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/waterloo-waterpark#h.fti4w1hm0f2z)
+[^18]: [[Leela/Marathon Infinity/thing-what-kicks/jll.4-|jll.4%]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.ya5wbawimp8m)
+[^19]: [[Leela/Marathon 2 - Durandal/all-roads-lead-to-sol/tranced.Finale-0-05-|tranced.Finale<0-05>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
+[^20]: [[Leela/Marathon Infinity/ne-cede-malis/-Error-|<Error>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
+[^21]: [[Leela/Marathon 2 - Durandal/fatum-iustum-stultorum/vestrum.excrucibo-1-|vestrum.excrucibo<1>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
+[^22]: [[Leela/Marathon 2026/cryo-archive/Alien History (7xyfuj)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.7xyfujng9ro1)
+[^23]: [[Leela/Marathon Infinity/thing-what-kicks/fred.cictl.circe|fred.cictl.circe]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
+[^24]: [[Leela/Marathon Infinity/acme-station/-dlci3.ci3.21-|<dlci3.ci3.21>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/acme-station#h.mp0d86b5n35l)
+[^25]: [[Leela/Marathon 2 - Durandal/what-about-bob/-CMND OVERRIDE -@85f2-|<CMND OVERRIDE &@85f2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.9j698eaufrkw)
+[^26]: [[Leela/Marathon 2 - Durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay/R4-interrupt 032-cm|R4-interrupt 032-cm]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay#h.alz9wjch4r4v)
+[^27]: [[Leela/Marathon 2 - Durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay/-redirecting- -49e 94f9c4|<redirecting> &49e 94f9c4]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay#h.sylzd835uwg4)
+[^28]: [[Leela/Marathon Infinity/confound-delivery/Cirlw.zoq|Cirlw.zoq]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
+[^29]: [[Leela/Marathon 2 - Durandal/feel-the-noise/--cge-wrought-507g2.4149r-|//cge-wrought<507g2.4149r>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.djjib9zh1vup)
 [^30]: [Epilogue — UESCTerm 802.11](https://marathon.karnemir.com/archive/marathon-2/epilogue)
 
 ---

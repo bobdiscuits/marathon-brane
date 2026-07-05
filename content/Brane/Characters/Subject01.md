@@ -13,7 +13,7 @@ tags: [character, m2026, cryo-archive, uesc, key-lore]
 source-count: 5
 mentioned-by: 4
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Subject01
@@ -82,11 +82,10 @@ _No inbound links yet._
 
 ## Sources
 
-[^1]: [Securing Cryo Deck](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.k5q53mspykha)
+[^1]: [[Leela/Marathon 2026/cryo-archive/Securing Cryo Deck|Securing Cryo Deck]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.k5q53mspykha)
 [^2]: [Engagement [Subject01]](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.sttbwxtlq7jz)
-[^3]: [Cerberus Code Fragment](https://marathon.karnemir.com/codex/factions/mida/contracts#h.urgoqgv23p0s)
-[^4]: [First Contact](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.udaoflp8m081)
-[^5]: [Cryo Deck Exploration](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.b6tzxf3wczst)
-
+[^3]: [[Leela/Marathon 2026/faction-mida/Cerberus Code Fragment|Cerberus Code Fragment]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.urgoqgv23p0s)
+[^4]: [[Leela/Marathon 2026/cryo-archive/First Contact|First Contact]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.udaoflp8m081)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Cryo Deck Exploration|Cryo Deck Exploration]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.b6tzxf3wczst)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

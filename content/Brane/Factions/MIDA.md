@@ -13,7 +13,7 @@ tags: [faction, insurgent, m2026, mida]
 source-count: 34
 mentioned-by: 13
 appears-in: [m1, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 
@@ -151,40 +151,39 @@ members: []
 
 ## Sources
 
-[^1]: [MIDA Overview](https://marathon.karnemir.com/codex/factions/mida/comms#h.s9aqmszcd7k3)
-[^2]: [Public Access Terminal 23-f](https://marathon.karnemir.com/archive/marathon-1/counterattack/the-rose#h.qv92iysykrls)
-[^3]: [Date 2801.9.14.06.01](https://marathon.karnemir.com/archive/marathon-1/lost-network-packets#h.tqoem278g9d6)
-[^4]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^5]: [Marathon Security Incidents](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.ft2i1rd64j0r)
-[^6]: [Traxus Informal Negotiations](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.xy6q7c9n340n)
-[^7]: [UESC Report: "Project Vespid"](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.28hv33o5epr9)
-[^8]: [CyberAcme Interview](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
-[^9]: [Leaked PR Campaign](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.syyyez33fe12)
-[^10]: [Bioaugment Incidents](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.4uas9k207et2)
-[^11]: [Radio Comms Transcript](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.31qg3f1c8e1c)
-[^12]: [Insurrection](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.1x8ui7h9yflv)
-[^13]: [Manifesto](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.tyg2gp83jqvh)
-[^14]: [MIDA Manifesto](https://marathon.karnemir.com/codex/factions/mida/contracts#h.dekuucgbz5en)
-[^15]: [TRUTHworm.0152](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.v9da886rxk02)
-[^16]: [TRUTHworm.0834](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.wh5b938vnhnw)
-[^17]: [#somewhereintheheavens](https://marathon.karnemir.com/intercepts/mida/media#h.l481jaz5osc4)
-[^18]: [#theythoughtweweregone,theywerewrong](https://marathon.karnemir.com/intercepts/mida/media#h.advitk11q3vs)
-[^19]: [Personnel File: "Orion"](https://marathon.karnemir.com/codex/factions/mida/contracts#h.hivvxqv0w3hd)
+[^1]: [[Leela/Marathon 2026/faction-mida/MIDA Overview|MIDA Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/comms#h.s9aqmszcd7k3)
+[^2]: [[Leela/Marathon 1/the-rose/Public Access Terminal 23-f|Public Access Terminal 23-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/the-rose#h.qv92iysykrls)
+[^3]: [[Leela/Marathon 1/lost-network-packets/-Date 2801.9.14.06.01-|<Date 2801.9.14.06.01>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/lost-network-packets#h.tqoem278g9d6)
+[^4]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^5]: [[Leela/Marathon 2026/perimeter/Marathon Security Incidents|Marathon Security Incidents]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.ft2i1rd64j0r)
+[^6]: [[Leela/Marathon 2026/perimeter/Traxus Informal Negotiations|Traxus Informal Negotiations]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.xy6q7c9n340n)
+[^7]: [[Leela/Marathon 2026/perimeter/UESC Report- -Project Vespid-|UESC Report: "Project Vespid"]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.28hv33o5epr9)
+[^8]: [[Leela/Marathon 2026/perimeter/CyberAcme Interview|CyberAcme Interview]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.q6qqfl9k9f8f)
+[^9]: [[Leela/Marathon 2026/perimeter/Leaked PR Campaign|Leaked PR Campaign]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.syyyez33fe12)
+[^10]: [[Leela/Marathon 2026/perimeter/Bioaugment Incidents|Bioaugment Incidents]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.4uas9k207et2)
+[^11]: [[Leela/Marathon 2026/perimeter/Radio Comms Transcript|Radio Comms Transcript]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.31qg3f1c8e1c)
+[^12]: [[Leela/Marathon 2026/outpost/Insurrection|Insurrection]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.1x8ui7h9yflv)
+[^13]: [[Leela/Marathon 2026/outpost/Manifesto|Manifesto]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.tyg2gp83jqvh)
+[^14]: [[Leela/Marathon 2026/faction-mida/MIDA Manifesto|MIDA Manifesto]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.dekuucgbz5en)
+[^15]: [[Leela/Marathon 2026/outpost/TRUTHworm.0152|TRUTHworm.0152]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.v9da886rxk02)
+[^16]: [[Leela/Marathon 2026/outpost/TRUTHworm.0834|TRUTHworm.0834]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.wh5b938vnhnw)
+[^17]: [[Leela/Marathon 2026/intercepts-mida/-somewhereintheheavens|#somewhereintheheavens]] · [src ↗](https://marathon.karnemir.com/intercepts/mida/media#h.l481jaz5osc4)
+[^18]: [[Leela/Marathon 2026/intercepts-mida/-theythoughtweweregone,theywerewrong|#theythoughtweweregone,theywerewrong]] · [src ↗](https://marathon.karnemir.com/intercepts/mida/media#h.advitk11q3vs)
+[^19]: [[Leela/Marathon 2026/faction-mida/Personnel File- -Orion-|Personnel File: "Orion"]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.hivvxqv0w3hd)
 [^20]: [Message: Orion [2]](https://marathon.karnemir.com/codex/factions/mida/contracts#h.1436ndxtxfzu)
-[^21]: [Vandal Shell](https://marathon.karnemir.com/codex/runner/vandal#h.427qf7oz6bq9)
-[^22]: [Amplify](https://marathon.karnemir.com/codex/runner/vandal#h.aovk8aqi20q4)
-[^23]: [Luca Caruso](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.u7nzc8n685hx)
-[^24]: [Log: Civilian Interrogation](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.vdhwlyxkqgyh)
-[^25]: [Comfort/Cage](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vu9afbh4xha4)
-[^26]: [Traxus chats 24 May 2888](https://marathon.karnemir.com/intercepts/traxus/chats#h.i6u28brh4q7f)
-[^27]: [Traxus chats 25 May 2888, 01:23PM](https://marathon.karnemir.com/intercepts/traxus/chats#h.dqf4inwm9jna)
-[^28]: [Traxus chats 25 May 2888, 04:08PM](https://marathon.karnemir.com/intercepts/traxus/chats#h.y7953ku52rc6)
-[^29]: [Traxus chats 26 May 2888](https://marathon.karnemir.com/intercepts/traxus/chats#h.rqhokkp8ckdj)
-[^30]: [Project:Goliath\_DRAFT\_B](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
-[^31]: [STARTING\_LINE.log](https://marathon.karnemir.com/intercepts/uesc/terminal#h.8q208tfmtm77)
-[^32]: [hearoursilence\_4673c](https://marathon.karnemir.com/intercepts/mida/media#h.qj7kh6xpjmq8)
-[^33]: [Traxus chats 26 May 2888, 09:55AM](https://marathon.karnemir.com/intercepts/traxus/chats#h.vjyhdhu8bawe)
-[^34]: [Traxus chats 26 May 2888, 01:44PM](https://marathon.karnemir.com/intercepts/traxus/chats#h.rqhokkp8ckdj)
-
+[^21]: [[Leela/Marathon 2026/runners/Vandal Shell|Vandal Shell]] · [src ↗](https://marathon.karnemir.com/codex/runner/vandal#h.427qf7oz6bq9)
+[^22]: [[Leela/Marathon 2026/runners/Amplify|Amplify]] · [src ↗](https://marathon.karnemir.com/codex/runner/vandal#h.aovk8aqi20q4)
+[^23]: [[Leela/Marathon 2026/cryo-archive/Luca Caruso|Luca Caruso]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.u7nzc8n685hx)
+[^24]: [[Leela/Marathon 2026/outpost/Log- Civilian Interrogation|Log: Civilian Interrogation]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.vdhwlyxkqgyh)
+[^25]: [[Leela/Marathon 2026/faction-mida/Comfort-Cage|Comfort/Cage]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vu9afbh4xha4)
+[^26]: [[Leela/Marathon 2026/intercepts-traxus/24 May 2888, 02-25PM PST|24 May 2888, 02:25PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.i6u28brh4q7f)
+[^27]: [[Leela/Marathon 2026/intercepts-traxus/25 May 2888, 01-23PM PST|25 May 2888, 01:23PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.dqf4inwm9jna)
+[^28]: [[Leela/Marathon 2026/intercepts-traxus/25 May 2888, 04-08PM PST|25 May 2888, 04:08PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.y7953ku52rc6)
+[^29]: [[Leela/Marathon 2026/intercepts-traxus/26 May 2888, 01-44PM PST|26 May 2888, 01:44PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.rqhokkp8ckdj)
+[^30]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_B|Project:Goliath\_DRAFT\_B]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.5m01uzdbj8km)
+[^31]: [[Leela/Marathon 2026/intercepts-uesc/STARTING-_LINE.log|STARTING\_LINE.log]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.8q208tfmtm77)
+[^32]: [[Leela/Marathon 2026/intercepts-mida/hearoursilence-_4673c|hearoursilence\_4673c]] · [src ↗](https://marathon.karnemir.com/intercepts/mida/media#h.qj7kh6xpjmq8)
+[^33]: [[Leela/Marathon 2026/intercepts-traxus/26 May 2888, 09-55AM PST|26 May 2888, 09:55AM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.vjyhdhu8bawe)
+[^34]: [[Leela/Marathon 2026/intercepts-traxus/26 May 2888, 01-44PM PST|26 May 2888, 01:44PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.rqhokkp8ckdj)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

@@ -13,7 +13,7 @@ tags: [character, ai, trilogy, m1, m2, infinity, marathon-ship-ai, trilogy-bridg
 source-count: 34
 mentioned-by: 26
 appears-in: [m1, m2, infinity, codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Leela
@@ -166,46 +166,45 @@ last-updated: 2026-07-02
 - [[Mirror/archive/marathon-2/epilogue|marathon-2 · epilogue]]
 - [[Mirror/archive/marathon-2/volunteers/were-everywhere|volunteers · were-everywhere]]
 - [[Mirror/archive/marathon-2/volunteers/what-about-bob|volunteers · what-about-bob]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
 - [[Mirror/codex/world/cryo-archive/collectibles|cryo-archive · collectibles]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Airlock 34-a](https://marathon.karnemir.com/archive/marathon-1/arrival/arrival#h.8ulwatphax5k)
-[^2]: [Public Access Terminal, Bigger Guns Nearby](https://marathon.karnemir.com/archive/marathon-1/arrival/bigger-guns-nearby#h.z1sj8x12ngjm)
-[^3]: [Hangar Area 5](https://marathon.karnemir.com/archive/marathon-1/arrival/arrival#h.56k9xvr3snx2)
-[^4]: [Never Burn Money — Public Access Terminal 4-a](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.ep5n5ff3f044)
-[^5]: [AMS Terminal 33-f](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.rox4h5raic2d)
-[^6]: [AMS Terminal 39-f](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.vddzlpi01sr2)
-[^7]: [Bigger Guns Nearby](https://marathon.karnemir.com/archive/marathon-1/arrival/bigger-guns-nearby#h.vjdrmq6omej4)
-[^8]: [Defend This — Defense Security Access](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.asrmlj01mw9)
-[^9]: [Smells Like Napalm](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.1c9nfhdlcxrr)
-[^10]: [Couch Fishing](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.kg5znc3c7bgj)
-[^11]: [Couch Fishing — Service Area 39](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.hl1cl1ds5s0p)
-[^12]: [Blaspheme Quarantine — Science Terminal 236-g](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.y2g0zca2c456)
-[^13]: [Blaspheme Quarantine — Public Access Terminal](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.dtdzts79i357)
-[^14]: [Smells Like Napalm — Medical Access](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.7t233ht8mage)
-[^15]: [G-4 Sunbathing — Shell Terminal](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.z0d4foou4gv3)
-[^16]: [G-4 Sunbathing — Public Access](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.k9h5r77g9nj0)
-[^17]: [Blaspheme Quarantine — Quarantine Lab Terminal](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.afxifpua05mm)
-[^18]: [Shake Before Using — Engineering Access](https://marathon.karnemir.com/archive/marathon-1/reprisal/shake-before-using#h.ju2bnknvxac2)
-[^19]: [Ingue Ferroque — Public Access 2-e](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.3tdkkno96mx)
-[^20]: [The Rose — Public Access 30-g](https://marathon.karnemir.com/archive/marathon-1/counterattack/the-rose#h.zhuo3as8ff7e)
-[^21]: [Fire Fire Fire Fire Fire](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
-[^22]: [Lost Network Packets](https://marathon.karnemir.com/archive/marathon-1/lost-network-packets#h.tqoem278g9d6)
-[^23]: [Welcome to the Revolution — Terminal Identity Error](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.xx4hee4gcsab)
-[^24]: [Welcome to the Revolution — Public Access](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.27akgk8ykqtb)
-[^25]: [Try Again — Public Access 480-a](https://marathon.karnemir.com/archive/marathon-1/rebellion/try-again#h.4e5jwxjjgjd0)
-[^26]: [Ingue Ferroque — Public Access 39-z](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
-[^27]: [Confound Delivery — purge.seg1](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.dok9bc917ycc)
-[^28]: [Begging for Mercy Makes Me Angry — Yt-c469d02l;12](https://marathon.karnemir.com/archive/marathon-2/durandal/begging-for-mercy-makes-me-angry#h.v5gncp6k0qmr)
-[^29]: [For Carnage, Apply Within — error #441](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.eefj57kf3o9y)
-[^30]: [What About Bob — CMND OVERRIDE &@1494](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.yaqioipgfdvq)
-[^31]: [Were Everywhere — 65124.134.12##](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.gijk44pczngb)
-[^32]: [Never Burn Money](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.n2wgguk27lob)
+[^1]: [[Leela/Marathon 1/arrival/Airlock 34-a Terminal Access|Airlock 34-a Terminal Access]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/arrival#h.8ulwatphax5k)
+[^2]: [[Leela/Marathon 1/bigger-guns-nearby/Public Access Terminal|Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/bigger-guns-nearby#h.z1sj8x12ngjm)
+[^3]: [[Leela/Marathon 1/arrival/Hangar Area 5 Teleporter Pad Terminal|Hangar Area 5 Teleporter Pad Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/arrival#h.56k9xvr3snx2)
+[^4]: [[Leela/Marathon 1/never-burn-money/Public Access Terminal 4-a|Public Access Terminal 4-a]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.ep5n5ff3f044)
+[^5]: [[Leela/Marathon 1/never-burn-money/AMS Terminal 33-f|AMS Terminal 33-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.rox4h5raic2d)
+[^6]: [[Leela/Marathon 1/never-burn-money/AMS Terminal 39-f|AMS Terminal 39-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.vddzlpi01sr2)
+[^7]: [[Leela/Marathon 1/bigger-guns-nearby/Level 29-b Section 10 Public Access Terminal|Level 29-b Section 10 Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/bigger-guns-nearby#h.vjdrmq6omej4)
+[^8]: [[Leela/Marathon 1/defend-this/Defense Security Access 23-e|Defense Security Access 23-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.asrmlj01mw9)
+[^9]: [[Leela/Marathon 1/smells-like-napalm-tastes-like-chicken/Public Access Terminal 65-a|Public Access Terminal 65-a]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.1c9nfhdlcxrr)
+[^10]: [[Leela/Marathon 1/couch-fishing/Public Access Terminal 903-e|Public Access Terminal 903-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.kg5znc3c7bgj)
+[^11]: [[Leela/Marathon 1/couch-fishing/Service Area 39 Public Access Terminal|Service Area 39 Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.hl1cl1ds5s0p)
+[^12]: [[Leela/Marathon 1/blaspheme-quarantine/Science Terminal 236-g|Science Terminal 236-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.y2g0zca2c456)
+[^13]: [[Leela/Marathon 1/blaspheme-quarantine/Public Access Terminal|Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.dtdzts79i357)
+[^14]: [[Leela/Marathon 1/smells-like-napalm-tastes-like-chicken/Medical Access Terminal|Medical Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.7t233ht8mage)
+[^15]: [[Leela/Marathon 1/g4-sunbathing/Shell Terminal Access 5-b|Shell Terminal Access 5-b]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.z0d4foou4gv3)
+[^16]: [[Leela/Marathon 1/g4-sunbathing/Public Access Terminal|Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.k9h5r77g9nj0)
+[^17]: [[Leela/Marathon 1/blaspheme-quarantine/Quarantine Lab Control Room Terminal 321-a|Quarantine Lab Control Room Terminal 321-a]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/blaspheme-quarantine#h.afxifpua05mm)
+[^18]: [[Leela/Marathon 1/shake-before-using/Engineering Access 31-d|Engineering Access 31-d]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/reprisal/shake-before-using#h.ju2bnknvxac2)
+[^19]: [[Leela/Marathon 1/ingue-ferroque/Public Access Terminal 2-e|Public Access Terminal 2-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.3tdkkno96mx)
+[^20]: [[Leela/Marathon 1/the-rose/Public Access Terminal 30-g|Public Access Terminal 30-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/the-rose#h.zhuo3as8ff7e)
+[^21]: [[Leela/Marathon 1/fire-fire-fire-fire-fire/Public Access Terminal 92-g|Public Access Terminal 92-g]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.nzpbpin3o9bo)
+[^22]: [[Leela/Marathon 1/lost-network-packets/-Date 2801.9.14.06.01-|<Date 2801.9.14.06.01>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/lost-network-packets#h.tqoem278g9d6)
+[^23]: [[Leela/Marathon 1/welcome-to-the-revolution/-Terminal Identity Error @43-|<Terminal Identity Error @43>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.xx4hee4gcsab)
+[^24]: [[Leela/Marathon 1/welcome-to-the-revolution/Public Access Terminal|Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.27akgk8ykqtb)
+[^25]: [[Leela/Marathon 1/try-again/Public Access Terminal 480-a|Public Access Terminal 480-a]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/try-again#h.4e5jwxjjgjd0)
+[^26]: [[Leela/Marathon 1/ingue-ferroque/Public Access Terminal 39-z|Public Access Terminal 39-z]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
+[^27]: [[Leela/Marathon Infinity/confound-delivery/purge.seg1|purge.seg1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.dok9bc917ycc)
+[^28]: [[Leela/Marathon 2 - Durandal/begging-for-mercy-makes-me-angry/Yt-c469d02l;12|Yt-c469d02l;12]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/begging-for-mercy-makes-me-angry#h.v5gncp6k0qmr)
+[^29]: [[Leela/Marathon 2 - Durandal/for-carnage-apply-within/-error -441 in transmission-|<error #441 in transmission>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.eefj57kf3o9y)
+[^30]: [[Leela/Marathon 2 - Durandal/what-about-bob/-CMND OVERRIDE -@1494-|<CMND OVERRIDE &@1494>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.yaqioipgfdvq)
+[^31]: [[Leela/Marathon 2 - Durandal/were-everywhere/65124.134.12---CMND PRAMA -49c2-|65124.134.12##<CMND PRAMA &49c2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.gijk44pczngb)
+[^32]: [[Leela/Marathon 1/never-burn-money/Public Access Terminal 95-w|Public Access Terminal 95-w]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/arrival/never-burn-money#h.n2wgguk27lob)
 [^33]: [Marathon 2 Epilogue](https://marathon.karnemir.com/archive/marathon-2/epilogue)
-[^34]: [UESC Marathon AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
-
+[^34]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon AI|UESC Marathon AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

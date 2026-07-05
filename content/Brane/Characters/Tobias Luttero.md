@@ -13,7 +13,7 @@ tags: [character, nucaloric, scientist, m2026, dire-marsh]
 source-count: 8
 mentioned-by: 7
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Dr. Tobias Luttero
@@ -106,14 +106,13 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Profile: Dr. Tobias Luttero](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.zatcbjbx0usq)
-[^2]: [Tick Ethogram](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.3ra2grmny2n2)
-[^3]: [Tick-Related Incident](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.he3jrvh7syax)
-[^4]: [Tick Milk Education](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fum7sps4e2k3)
-[^5]: [Behavior Analysis](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
-[^6]: [Behavior Analysis](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
-[^7]: [Skrac Mimicry](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.e0bpmgyq1p6v)
-[^8]: [Unauthorized Access Request](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
-
+[^1]: [[Leela/Marathon 2026/dire-marsh/Profile- Dr. Tobias Luttero|Profile: Dr. Tobias Luttero]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.zatcbjbx0usq)
+[^2]: [[Leela/Marathon 2026/dire-marsh/Tick Ethogram|Tick Ethogram]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.3ra2grmny2n2)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Tick-Related Incident|Tick-Related Incident]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.he3jrvh7syax)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Tick Milk Education|Tick Milk Education]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fum7sps4e2k3)
+[^5]: [[Leela/Marathon 2026/dire-marsh-night/Behavior Analysis|Behavior Analysis]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
+[^6]: [[Leela/Marathon 2026/dire-marsh-night/Behavior Analysis|Behavior Analysis]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gsi43ygx1ff9)
+[^7]: [[Leela/Marathon 2026/dire-marsh-night/Skrac Mimicry|Skrac Mimicry]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.e0bpmgyq1p6v)
+[^8]: [[Leela/Marathon 2026/dire-marsh-night/Unauthorized Access Request|Unauthorized Access Request]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.t331qc5qhgly)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

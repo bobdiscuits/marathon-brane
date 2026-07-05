@@ -12,7 +12,7 @@ confidence: working
 source-count: 4
 mentioned-by: 4
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 tags: [character, survivor, post-colony, m2026, dire-marsh, brane-hub]
 ---
 
@@ -82,10 +82,9 @@ _No inbound links yet._
 
 ## Sources
 
-[^1]: [Post-Apocalyptic Log](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
-[^2]: [Handwritten Poetry](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.y1pfzrcjcsnr)
-[^3]: [Food Procurement](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.l04lh3ag5et0)
-[^4]: [Personal Aphorisms](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.l6kkm6oghvv9)
-
+[^1]: [[Leela/Marathon 2026/dire-marsh/Post-Apocalyptic Log|Post-Apocalyptic Log]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
+[^2]: [[Leela/Marathon 2026/dire-marsh/Handwritten Poetry|Handwritten Poetry]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.y1pfzrcjcsnr)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Food Procurement|Food Procurement]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.l04lh3ag5et0)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Personal Aphorisms|Personal Aphorisms]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.l6kkm6oghvv9)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

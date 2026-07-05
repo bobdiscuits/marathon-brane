@@ -12,7 +12,7 @@ tags: [concept, m2026, colony-ai, rhea-suite, family-suite, key-lore, brane-hub]
 source-count: 17
 mentioned-by: 24
 appears-in: [codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Rhea Suite
@@ -162,23 +162,22 @@ Security rampancy preparedness documentation confirms that a Stage 2 intelligenc
 
 ## Sources
 
-[^2]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^3]: [UESC Marathon AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
-[^4]: [Cerebral Record: Arthur](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
-[^6]: [Cerebral Record: Icarus](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
-[^8]: [Considering Degradation](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
-[^9]: [Tau Ceti Status Report](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
-[^10]: [Security Protocol Activation](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.4hws6m2m43bh)
-[^11]: [Maintenance Logs: Darius](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.avu26s73trbs)
-[^12]: [Diagnostic Analysis: Darius](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
-[^13]: [Data Log: Confinement](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.d867104hundl)
-[^14]: [Data Log: Evolution](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.flx515d4ryrt)
-[^15]: [Data Log: Madness](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.nyk41m7bbg59)
-[^16]: [AI Recollection](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.z77k1kvv7ewv)
-[^17]: [Self-Diagnostics: Joy](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.dcn4zccsei2)
-[^18]: [Darius and Joy Dialogue](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
-[^19]: [AI Uplink Overview](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.ej8o9xasppn8)
-[^20]: [Security Brief: Rampancy, Stage 2](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.cgo2tk8mkz3t)
-
+[^2]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^3]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon AI|UESC Marathon AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.px3afsaor679)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Arthur|Cerebral Record: Arthur]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
+[^6]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Icarus|Cerebral Record: Icarus]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
+[^8]: [[Leela/Marathon 2026/cryo-archive/Considering Degradation|Considering Degradation]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.me5ktnopxemy)
+[^9]: [[Leela/Marathon 2026/faction-traxus/Tau Ceti Status Report|Tau Ceti Status Report]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
+[^10]: [[Leela/Marathon 2026/dire-marsh-night/Security Protocol Activation|Security Protocol Activation]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.4hws6m2m43bh)
+[^11]: [[Leela/Marathon 2026/faction-nucaloric/Maintenance Logs- Darius|Maintenance Logs: Darius]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.avu26s73trbs)
+[^12]: [[Leela/Marathon 2026/faction-nucaloric/Diagnostic Analysis- Darius|Diagnostic Analysis: Darius]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xfeojzb2gcxl)
+[^13]: [[Leela/Marathon 2026/dire-marsh/Data Log- Confinement|Data Log: Confinement]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.d867104hundl)
+[^14]: [[Leela/Marathon 2026/dire-marsh/Data Log- Evolution|Data Log: Evolution]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.flx515d4ryrt)
+[^15]: [[Leela/Marathon 2026/dire-marsh/Data Log- Madness|Data Log: Madness]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.nyk41m7bbg59)
+[^16]: [[Leela/Marathon 2026/outpost/AI Recollection|AI Recollection]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.z77k1kvv7ewv)
+[^17]: [[Leela/Marathon 2026/outpost/Self-Diagnostics- Joy|Self-Diagnostics: Joy]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.dcn4zccsei2)
+[^18]: [[Leela/Marathon 2026/perimeter/Darius and Joy Dialogue|Darius and Joy Dialogue]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.5tq8dm4eimkc)
+[^19]: [[Leela/Marathon 2026/dire-marsh/AI Uplink Overview|AI Uplink Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.ej8o9xasppn8)
+[^20]: [[Leela/Marathon 2026/outpost/Security Brief- Rampancy, Stage 2|Security Brief: Rampancy, Stage 2]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.cgo2tk8mkz3t)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

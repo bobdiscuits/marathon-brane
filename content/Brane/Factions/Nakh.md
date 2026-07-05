@@ -13,7 +13,7 @@ tags: [faction, species, trilogy, m2, jjaro, nakh]
 source-count: 3
 mentioned-by: 5
 appears-in: [m2]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 

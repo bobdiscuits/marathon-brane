@@ -3,7 +3,7 @@ type: landing
 aliases: []
 canon-status: canon
 hub-count: 15
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 tags: [landing, brane, concept]
 ---
 
@@ -15,7 +15,7 @@ tags: [landing, brane, concept]
 
 <!-- CONTENTS:START -->
 ## Contents
-*15 hubs · 15 with full editorial frontmatter · regenerated 2026-07-02 by hub_pages.py*
+*15 hubs · 15 with full editorial frontmatter · regenerated 2026-07-05 by hub_pages.py*
 
 | Hub | Summary | Scope | Era | Status | Src | Refs |
 | --- | --- | --- | --- | --- | ---: | ---: |

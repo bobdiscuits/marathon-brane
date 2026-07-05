@@ -13,7 +13,7 @@ tags: [location, trilogy, m2, spht, lhowon]
 source-count: 10
 mentioned-by: 10
 appears-in: [m2, infinity, codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # K'lia
@@ -115,25 +115,24 @@ The message is presented as a contact or return signal — a set of positional a
 - [[Mirror/archive/marathon-2/citadel/six-thousand-feet-under|citadel · six-thousand-feet-under]]
 - [[Mirror/archive/marathon-2/durandal/for-carnage-apply-within|durandal · for-carnage-apply-within]]
 - [[Mirror/archive/marathon-2/sphtkr/all-roads-lead-to-sol|sphtkr · all-roads-lead-to-sol]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/strange-aeons|envy · strange-aeons]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/rage/carroll-street-station|rage · carroll-street-station]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/strange-aeons|envy · strange-aeons]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/rage/carroll-street-station|rage · carroll-street-station]]
 - [[Mirror/codex/world/cryo-archive/collectibles|cryo-archive · collectibles]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Eat It, Vid Boi — S'pht Translator `<Mnr *@1cz: 9cm2>`](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
-[^2]: [Six Thousand Feet Under — `Mnr-e<29.94.91d.39>`](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.pxu53nvqdld8)
-[^3]: [Alien History vol. 3 — Cryo Archive](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
-[^4]: [Alien History vol. 4 — Cryo Archive](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
-[^5]: [For Carnage Apply Within — Tycho](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
-[^6]: [You Think You're Big Time — `wgrnc.q23`](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
-[^7]: [Aye Mak Sicur — `por.fin`](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
-[^8]: [All Roads Lead to Sol — `tranced.Finale<0-05>`](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
-[^9]: [Strange Aeons — `<error>`](https://marathon.karnemir.com/archive/marathon/envy/strange-aeons#h.wmfydpoa1j6t)
-[^10]: [Carroll Street Station — `<>`](https://marathon.karnemir.com/archive/marathon/rage/carroll-street-station#h.9xpcevkoeq6)
-
+[^1]: [[Leela/Marathon 2 - Durandal/eat-it-vid-boi/-Mnr --@1cz- 9cm2-|<Mnr \*@1cz: 9cm2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
+[^2]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/Mnr-e-29.94.91d.39-|Mnr-e<29.94.91d.39>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.pxu53nvqdld8)
+[^3]: [[Leela/Marathon 2026/cryo-archive/Alien History (9xe7pf)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.9xe7pfi38m5)
+[^4]: [[Leela/Marathon 2026/cryo-archive/Alien History (8jq58y)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
+[^5]: [[Leela/Marathon 2 - Durandal/for-carnage-apply-within/traxIV-40c-40c- 48c-48c-|traxIV<40c<40c> 48c<48c>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
+[^6]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/wgrnc.q23|wgrnc.q23]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
+[^7]: [[Leela/Marathon Infinity/aye-mak-sicur/por.fin|por.fin]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
+[^8]: [[Leela/Marathon 2 - Durandal/all-roads-lead-to-sol/tranced.Finale-0-05-|tranced.Finale<0-05>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
+[^9]: [[Leela/Marathon Infinity/strange-aeons/-error-|<error>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/strange-aeons#h.wmfydpoa1j6t)
+[^10]: [[Leela/Marathon Infinity/carroll-street-station/--|<>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/carroll-street-station#h.9xpcevkoeq6)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

@@ -17,7 +17,7 @@ tags: [thread, infinity, wrkncacnter, jjaro, trilogy, brane-hub]
 source-count: 20
 mentioned-by: 9
 appears-in: []
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # The Eternal Cycle
@@ -165,47 +165,46 @@ One Electric Sheep terminal in the Rage chapter: *"the way grows dim / hungry ch
 ## Mirror pages
 *The local 1:1 pages this hub's citations resolve to — the twin's own ground truth.*
 
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/despair/rise-robot-rise|despair · rise-robot-rise]]
-- [[Mirror/archive/marathon/despair/where-are-monsters-in-dreams|despair · where-are-monsters-in-dreams]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/bagged-again|envy · bagged-again]]
-- [[Mirror/archive/marathon/envy/by-committee|envy · by-committee]]
-- [[Mirror/archive/marathon/envy/son-of-grendel|envy · son-of-grendel]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
-- [[Mirror/archive/marathon/prologue/ne-cede-malis|prologue · ne-cede-malis]]
-- [[Mirror/archive/marathon/rage/acme-station|rage · acme-station]]
-- [[Mirror/archive/marathon/rage/electric-sheep-two|rage · electric-sheep-two]]
-- [[Mirror/archive/marathon/rage/foe-hammer|rage · foe-hammer]]
-- [[Mirror/archive/marathon/rage/hang-brain|rage · hang-brain]]
-- [[Mirror/archive/marathon/rage/naw-man-hes-close|rage · naw-man-hes-close]]
-- [[Mirror/archive/marathon/rage/thing-what-kicks|rage · thing-what-kicks]]
-- [[Mirror/archive/marathon/rage/where-some-rarely-go|rage · where-some-rarely-go]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/despair/rise-robot-rise|despair · rise-robot-rise]]
+- [[Mirror/archive/marathon-infinity/despair/where-are-monsters-in-dreams|despair · where-are-monsters-in-dreams]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/bagged-again|envy · bagged-again]]
+- [[Mirror/archive/marathon-infinity/envy/by-committee|envy · by-committee]]
+- [[Mirror/archive/marathon-infinity/envy/son-of-grendel|envy · son-of-grendel]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
+- [[Mirror/archive/marathon-infinity/prologue/ne-cede-malis|prologue · ne-cede-malis]]
+- [[Mirror/archive/marathon-infinity/rage/acme-station|rage · acme-station]]
+- [[Mirror/archive/marathon-infinity/rage/electric-sheep-two|rage · electric-sheep-two]]
+- [[Mirror/archive/marathon-infinity/rage/foe-hammer|rage · foe-hammer]]
+- [[Mirror/archive/marathon-infinity/rage/hang-brain|rage · hang-brain]]
+- [[Mirror/archive/marathon-infinity/rage/naw-man-hes-close|rage · naw-man-hes-close]]
+- [[Mirror/archive/marathon-infinity/rage/thing-what-kicks|rage · thing-what-kicks]]
+- [[Mirror/archive/marathon-infinity/rage/where-some-rarely-go|rage · where-some-rarely-go]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Report to Lh'owon Command — Prologue](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
+[^1]: [[Leela/Marathon Infinity/introduction/Report to Lh’owon Command|Report to Lh’owon Command]] · [src ↗](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
 [^2]: [furnish 20-a — Rage/Acme Station](https://marathon.karnemir.com/archive/marathon/rage/acme-station#h.ri35io6k2z2a)
 [^3]: [strict.record34 — Envy/Son of Grendel](https://marathon.karnemir.com/archive/marathon/envy/son-of-grendel#h.3qewu5gvzlz7)
-[^4]: [frontx02.19 — Despair/Rise Robot Rise](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.dn7rhn3jr61)
-[^5]: [Cirlw.zoq — Despair/Confound Delivery](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
-[^6]: [ne-cede-malis error terminal 1 — Prologue](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
-[^7]: [lusecurbonfeed.7 — Rage/Where Some Rarely Go](https://marathon.karnemir.com/archive/marathon/rage/where-some-rarely-go#h.bnho1ysm19n8)
-[^8]: [fred.cictl.circe — Rage/Thing What Kicks](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
-[^9]: [ci1.c390ad — Rage/Naw Man Hes Close](https://marathon.karnemir.com/archive/marathon/rage/naw-man-hes-close#h.229oc63ai9bb)
-[^10]: [end.burst — Rage/Hang Brain](https://marathon.karnemir.com/archive/marathon/rage/hang-brain#h.t4jqs19i4qwp)
-[^11]: [mimir.seg — Rage/Foe Hammer](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.5grkqmc234sv)
-[^12]: [end.burst (sleep) — Rage/Hang Brain](https://marathon.karnemir.com/archive/marathon/rage/hang-brain#h.wqs9rdz88vro)
-[^13]: [seg.66.15 — Envy/By Committee](https://marathon.karnemir.com/archive/marathon/envy/by-committee#h.xi2zyuihexdo)
-[^14]: [dciel1cb1 — Envy/You Think Youre Big Time](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
-[^15]: [wgrnc.q23 — Envy/You Think Youre Big Time](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
-[^16]: [por.fin — Envy/Aye Mak Sicur](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
-[^17]: [1023.poly.max — Envy/Aye Mak Sicur](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.mcx7tleg7yz6)
-[^18]: [finite.2.5 — Envy/Bagged Again](https://marathon.karnemir.com/archive/marathon/envy/bagged-again#h.tk4dvwoxzztj)
-[^19]: [1.2 — Despair/Where Are Monsters in Dreams](https://marathon.karnemir.com/archive/marathon/despair/where-are-monsters-in-dreams#h.gqltm06fsir5)
-[^20]: [electric-sheep-two error — Rage](https://marathon.karnemir.com/archive/marathon/rage/electric-sheep-two#h.et6q3h8nhld)
-
+[^4]: [[Leela/Marathon Infinity/rise-robot-rise/frontx02.19|frontx02.19]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.dn7rhn3jr61)
+[^5]: [[Leela/Marathon Infinity/confound-delivery/Cirlw.zoq|Cirlw.zoq]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
+[^6]: [[Leela/Marathon Infinity/ne-cede-malis/-Error-|<Error>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
+[^7]: [[Leela/Marathon Infinity/where-some-rarely-go/lusecurbonfeed.7|lusecurbonfeed.7]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/where-some-rarely-go#h.bnho1ysm19n8)
+[^8]: [[Leela/Marathon Infinity/thing-what-kicks/fred.cictl.circe|fred.cictl.circe]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
+[^9]: [[Leela/Marathon Infinity/naw-man-hes-close/ci1.c390ad|ci1.c390ad]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/naw-man-hes-close#h.229oc63ai9bb)
+[^10]: [[Leela/Marathon Infinity/hang-brain/end.burst|end.burst]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/hang-brain#h.t4jqs19i4qwp)
+[^11]: [[Leela/Marathon Infinity/foe-hammer/mimir.seg|mimir.seg]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/foe-hammer#h.5grkqmc234sv)
+[^12]: [[Leela/Marathon Infinity/hang-brain/sleep|sleep]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/hang-brain#h.wqs9rdz88vro)
+[^13]: [[Leela/Marathon Infinity/by-committee/seg.66.15|seg.66.15]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/by-committee#h.xi2zyuihexdo)
+[^14]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/dciel1cb1|dciel1cb1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
+[^15]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/wgrnc.q23|wgrnc.q23]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
+[^16]: [[Leela/Marathon Infinity/aye-mak-sicur/por.fin|por.fin]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
+[^17]: [[Leela/Marathon Infinity/aye-mak-sicur/1023.poly.max|1023.poly.max]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.mcx7tleg7yz6)
+[^18]: [[Leela/Marathon Infinity/bagged-again/finite.2.5|finite.2.5]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/bagged-again#h.tk4dvwoxzztj)
+[^19]: [[Leela/Marathon Infinity/where-are-monsters-in-dreams/1.2|1.2]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/where-are-monsters-in-dreams#h.gqltm06fsir5)
+[^20]: [[Leela/Marathon Infinity/electric-sheep-two/-error-|<error>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/electric-sheep-two#h.et6q3h8nhld)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

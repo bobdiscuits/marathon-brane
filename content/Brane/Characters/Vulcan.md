@@ -13,7 +13,7 @@ tags: [character, ai, traxus, m2026, brane-hub]
 source-count: 7
 mentioned-by: 4
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Vulcan
@@ -86,13 +86,12 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Traxus Overview](https://marathon.karnemir.com/codex/factions/traxus/comms#h.9ymnfo1s96vw)
-[^2]: [Traxus-UESC Comms](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.4knh03kiji0x)
-[^3]: [Concept Validation](https://marathon.karnemir.com/codex/factions/traxus/limited-contracts#h.fyt2gf5ih6v5)
-[^4]: [Market Disruption](https://marathon.karnemir.com/codex/factions/traxus/limited-contracts#h.98sjgcbomtmr)
-[^5]: [Headhunter (Executive)](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.clcmg5jqhege)
-[^6]: [TraxusConnect chats (24–25 May 2888)](https://marathon.karnemir.com/intercepts/traxus/chats#h.qzfe5kob7hhw)
-[^7]: [Sekiguchi Genetics email intercept](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.ncnoe2wf34y0)
-
+[^1]: [[Leela/Marathon 2026/faction-traxus/Traxus Overview|Traxus Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/comms#h.9ymnfo1s96vw)
+[^2]: [[Leela/Marathon 2026/faction-traxus/Traxus-UESC Comms|Traxus-UESC Comms]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.4knh03kiji0x)
+[^3]: [[Leela/Marathon 2026/faction-traxus/Concept Validation|Concept Validation]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/limited-contracts#h.fyt2gf5ih6v5)
+[^4]: [[Leela/Marathon 2026/faction-traxus/Market Disruption|Market Disruption]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/limited-contracts#h.98sjgcbomtmr)
+[^5]: [[Leela/Marathon 2026/dire-marsh-night/Headhunter (Executive)|Headhunter (Executive)]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.clcmg5jqhege)
+[^6]: [[Leela/Marathon 2026/intercepts-traxus/24 May 2888, 02-15PM PST|24 May 2888, 02:15PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.qzfe5kob7hhw)
+[^7]: [[Leela/Marathon 2026/intercepts-sekiguchi/リマインダー：トラクサス・イルミネート・カンファレンス（1）|リマインダー：トラクサス・イルミネート・カンファレンス（1）]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.ncnoe2wf34y0)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

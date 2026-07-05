@@ -13,7 +13,7 @@ source-count: 57
 tags: [faction, species, trilogy, m1, m2, infinity, pfhor, trilogy-bridge]
 mentioned-by: 25
 appears-in: [m1, m2, infinity]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: ["[[Security Officer]]", "[[Tfear]]", "[[Tycho]]"]
 ---
 
@@ -270,78 +270,78 @@ members: ["[[Security Officer]]", "[[Tfear]]", "[[Tycho]]"]
 - [[Mirror/archive/marathon-2/volunteers/come-and-take-your-medicine|volunteers · come-and-take-your-medicine]]
 - [[Mirror/archive/marathon-2/volunteers/were-everywhere|volunteers · were-everywhere]]
 - [[Mirror/archive/marathon-2/volunteers/what-about-bob|volunteers · what-about-bob]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/despair/poor-yorick|despair · poor-yorick]]
-- [[Mirror/archive/marathon/despair/rise-robot-rise|despair · rise-robot-rise]]
-- [[Mirror/archive/marathon/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/by-committee|envy · by-committee]]
-- [[Mirror/archive/marathon/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
-- [[Mirror/archive/marathon/prologue/ne-cede-malis|prologue · ne-cede-malis]]
-- [[Mirror/archive/marathon/rage/acme-station|rage · acme-station]]
-- [[Mirror/archive/marathon/rage/thing-what-kicks|rage · thing-what-kicks]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/despair/poor-yorick|despair · poor-yorick]]
+- [[Mirror/archive/marathon-infinity/despair/rise-robot-rise|despair · rise-robot-rise]]
+- [[Mirror/archive/marathon-infinity/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/by-committee|envy · by-committee]]
+- [[Mirror/archive/marathon-infinity/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
+- [[Mirror/archive/marathon-infinity/prologue/ne-cede-malis|prologue · ne-cede-malis]]
+- [[Mirror/archive/marathon-infinity/rage/acme-station|rage · acme-station]]
+- [[Mirror/archive/marathon-infinity/rage/thing-what-kicks|rage · thing-what-kicks]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [Defense Access 40-a](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.bs32wub3yi3y)
-[^2]: [Defense Security Access 23-e](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.asrmlj01mw9)
-[^3]: [@collection#593 — Try Again](https://marathon.karnemir.com/archive/marathon-1/rebellion/try-again#h.jk2i06cu6pzf)
+[^1]: [[Leela/Marathon 1/defend-this/Defense Access 40-a|Defense Access 40-a]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.bs32wub3yi3y)
+[^2]: [[Leela/Marathon 1/defend-this/Defense Security Access 23-e|Defense Security Access 23-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.asrmlj01mw9)
+[^3]: [[Leela/Marathon 1/try-again/@collection-593!=394|@collection#593!=394]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/try-again#h.jk2i06cu6pzf)
 [^4]: [Biobus Chip Enhancements — manifest](https://marathon.karnemir.com/archive/manifest#h.v5gowu5544u3)
-[^5]: [Shell Terminal Access 5-b](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.z0d4foou4gv3)
-[^6]: [Public Access Terminal 2-e — Ingue Ferroque](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.3tdkkno96mx)
-[^7]: [Lost Network Packets](https://marathon.karnemir.com/archive/marathon-1/lost-network-packets#h.tqoem278g9d6)
-[^8]: [Defense Control Terminal 185-f](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.whsdz6wpxy76)
-[^9]: [Public Access Terminal 65-a — Smells Like Napalm](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.1c9nfhdlcxrr)
-[^10]: [jon3//12-a — The Slings and Arrows of Outrageous Fortune](https://marathon.karnemir.com/archive/marathon-2/lhowon/the-slings-arrows-of-outrageous-fortune#h.p1kejg50lwma)
-[^11]: [Public Access Terminal 34-f — Cool Fusion](https://marathon.karnemir.com/archive/marathon-1/counterattack/cool-fusion#h.boavh9j59tz6)
-[^12]: [end.feed.C3 — Poor Yorick](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.q4736vtv8et4)
-[^13]: [Public Access Terminal 73 — Beware of Low Flying Defense Drones](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/beware-of-low-flying-defense-drones#h.73ccgj5gyar7)
-[^14]: [Public Access Terminal 59-e — No Artificial Colors](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/no-artificial-colors#h.ocwoe2so6vp0)
-[^15]: [Engineering Access 31-d — Shake Before Using](https://marathon.karnemir.com/archive/marathon-1/reprisal/shake-before-using#h.ju2bnknvxac2)
-[^16]: [Public Access Terminal 903-e — Couch Fishing](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.kg5znc3c7bgj)
-[^17]: [Public Access Terminal 39-z — Ingue Ferroque](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
-[^18]: [Public Access Terminal — G-4 Sunbathing](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.k9h5r77g9nj0)
-[^19]: [Science Terminal 23-e — Fire Fire Fire Fire Fire](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.tgte2790gs0l)
-[^20]: [Terminal Identity Error @43 — Welcome to the Revolution](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.xx4hee4gcsab)
-[^21]: [Marathon 2 Introduction](https://marathon.karnemir.com/archive/marathon-2/introduction#h.abe9p6foql1u)
-[^22]: [ssg//4647 — Charon Doesn't Make Change](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.bfkb91sz71ys)
-[^23]: [D-over expires — The Hard Stuff Rules](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.cijl4e62gg5z)
-[^24]: [EPAL4mm — Bob's Big Date (bunkers)](https://marathon.karnemir.com/archive/marathon-2/citadel/bobs-big-date#h.cg2bovmfr000)
-[^25]: [Pragma Junction — Eat It Vid Boi](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.r9metmeyg6q5)
-[^26]: [virtus — Bob's Big Date](https://marathon.karnemir.com/archive/marathon-2/citadel/bobs-big-date#h.2icj0kjleq16)
-[^27]: [pen13 garrison — By Committee](https://marathon.karnemir.com/archive/marathon/envy/by-committee#h.xi2zyuihexdo)
-[^28]: [wgrnc.q23 — You Think You're Big Time](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
-[^29]: [purging seg 4a — Thing What Kicks](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.zee618qievh5)
-[^30]: [tyche'kr0625 — Six Thousand Feet Under](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.na0odl8hq5iv)
-[^31]: [tranced.Finale — All Roads Lead to Sol](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
-[^32]: [Report to Lh'owon Command — Marathon ∞ Introduction](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
-[^33]: [traxIV — For Carnage Apply Within](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
-[^34]: [Contact 45-f — Were Everywhere](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.cpbk655hpkka)
-[^35]: [Lhar 103-30 — Come and Take Your Medicine](https://marathon.karnemir.com/archive/marathon-2/volunteers/come-and-take-your-medicine#h.s81at7ximd1v)
-[^36]: [65124.134.12 — Were Everywhere](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.gijk44pczngb)
-[^37]: [vestrum.excrucibo — Fatum Iustum Stultorum](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
-[^38]: [por.fin — Aye Mak Sicur](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
-[^39]: [//cge-wrought 507g2 — Feel the Noise](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.djjib9zh1vup)
-[^40]: [CMND OVERRIDE &@85f2 — What About Bob](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.9j698eaufrkw)
-[^41]: [%94decaf — Sorry Don't Make It So](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
-[^42]: [frontx02.19 — Rise Robot Rise](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.dn7rhn3jr61)
-[^43]: [X-nil 37.9 — Ex Cathedra](https://marathon.karnemir.com/archive/marathon-2/garrison/ex-cathedra#h.1t4mia18kivv)
-[^44]: [75.battle.standard — Poor Yorick](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.10ux90mp9g4l)
-[^45]: [end.feed.C3 — Poor Yorick (Pfhor Empire web)](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.q4736vtv8et4)
-[^46]: [xpj399c001 — Rise Robot Rise](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.vhulcr4hulnp)
-[^47]: [Cirlw.zoq — Confound Delivery](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
-[^48]: [dciel1cb1 — You Think You're Big Time](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
-[^49]: [1023.poly.max — Aye Mak Sicur](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.mcx7tleg7yz6)
-[^50]: [tat.iana — Aye Mak Sicur](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
-[^51]: [<Error> — Ne Cede Malis](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
-[^52]: [Z-4 G-3 A-4c — Curiouser and Curiouser](https://marathon.karnemir.com/archive/marathon-2/garrison/curiouser-and-curiouser#h.c0r4myuqx26s)
-[^53]: [fred.cictl.circe — Thing What Kicks](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
-[^54]: [handl.remote — One Thousand Thousand Slimy Things](https://marathon.karnemir.com/archive/marathon/envy/one-thousand-thousand-slimy-things#h.m6kc3pws4tzc)
+[^5]: [[Leela/Marathon 1/g4-sunbathing/Shell Terminal Access 5-b|Shell Terminal Access 5-b]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.z0d4foou4gv3)
+[^6]: [[Leela/Marathon 1/ingue-ferroque/Public Access Terminal 2-e|Public Access Terminal 2-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.3tdkkno96mx)
+[^7]: [[Leela/Marathon 1/lost-network-packets/-Date 2801.9.14.06.01-|<Date 2801.9.14.06.01>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/lost-network-packets#h.tqoem278g9d6)
+[^8]: [[Leela/Marathon 1/defend-this/Defense Control Terminal 185-f|Defense Control Terminal 185-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/defend-this#h.whsdz6wpxy76)
+[^9]: [[Leela/Marathon 1/smells-like-napalm-tastes-like-chicken/Public Access Terminal 65-a|Public Access Terminal 65-a]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/smells-like-napalm-tastes-like-chicken#h.1c9nfhdlcxrr)
+[^10]: [[Leela/Marathon 2 - Durandal/the-slings-arrows-of-outrageous-fortune/jon3--12-a Phce-194-973-2356-|jon3//12-a Phce<194-973-2356>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/the-slings-arrows-of-outrageous-fortune#h.p1kejg50lwma)
+[^11]: [[Leela/Marathon 1/cool-fusion/Public Access Terminal 34-f|Public Access Terminal 34-f]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/cool-fusion#h.boavh9j59tz6)
+[^12]: [[Leela/Marathon Infinity/poor-yorick/end.feed.C3|end.feed.C3]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.q4736vtv8et4)
+[^13]: [[Leela/Marathon 1/beware-of-low-flying-defense-drones/Public Access Terminal 73|Public Access Terminal 73]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/beware-of-low-flying-defense-drones#h.73ccgj5gyar7)
+[^14]: [[Leela/Marathon 1/no-artificial-colors/Public Access Terminal 59-e|Public Access Terminal 59-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/the-pfhor/no-artificial-colors#h.ocwoe2so6vp0)
+[^15]: [[Leela/Marathon 1/shake-before-using/Engineering Access 31-d|Engineering Access 31-d]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/reprisal/shake-before-using#h.ju2bnknvxac2)
+[^16]: [[Leela/Marathon 1/couch-fishing/Public Access Terminal 903-e|Public Access Terminal 903-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/couch-fishing#h.kg5znc3c7bgj)
+[^17]: [[Leela/Marathon 1/ingue-ferroque/Public Access Terminal 39-z|Public Access Terminal 39-z]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/ingue-ferroque#h.jwolzif6vsww)
+[^18]: [[Leela/Marathon 1/g4-sunbathing/Public Access Terminal|Public Access Terminal]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.k9h5r77g9nj0)
+[^19]: [[Leela/Marathon 1/fire-fire-fire-fire-fire/Science Terminal 23-e|Science Terminal 23-e]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/durandal/fire-fire-fire-fire-fire#h.tgte2790gs0l)
+[^20]: [[Leela/Marathon 1/welcome-to-the-revolution/-Terminal Identity Error @43-|<Terminal Identity Error @43>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/rebellion/welcome-to-the-revolution#h.xx4hee4gcsab)
+[^21]: [[Leela/Marathon 2 - Durandal/introduction/The Adventure Continues...|The Adventure Continues...]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/introduction#h.abe9p6foql1u)
+[^22]: [[Leela/Marathon 2 - Durandal/charon-doesnt-make-change/ssg--4647.2.52.414.14-extrnt.4-|ssg//4647.2.52.414.14<extrnt.4>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.bfkb91sz71ys)
+[^23]: [[Leela/Marathon 2 - Durandal/the-hard-stuff-rules/D-over expires-3021.7.30.20.27.49-|D-over expires<3021.7.30.20.27.49>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/the-hard-stuff-rules#h.cijl4e62gg5z)
+[^24]: [[Leela/Marathon 2 - Durandal/bobs-big-date/fatum.celer-793.514.255.255-|fatum.celer<793.514.255.255>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/bobs-big-date#h.cg2bovmfr000)
+[^25]: [[Leela/Marathon 2 - Durandal/eat-it-vid-boi/-Pragma Junction ^7921 Engaged-|<Pragma Junction ^7921 Engaged>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.r9metmeyg6q5)
+[^26]: [[Leela/Marathon 2 - Durandal/bobs-big-date/virtus-30.4969.692.3-|virtus<30.4969.692.3>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/bobs-big-date#h.2icj0kjleq16)
+[^27]: [[Leela/Marathon Infinity/by-committee/seg.66.15|seg.66.15]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/by-committee#h.xi2zyuihexdo)
+[^28]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/wgrnc.q23|wgrnc.q23]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
+[^29]: [[Leela/Marathon Infinity/thing-what-kicks/purging seg 4a|purging seg 4a]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.zee618qievh5)
+[^30]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/tyche'kr0625.14.1|tyche'kr0625.14.1]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.na0odl8hq5iv)
+[^31]: [[Leela/Marathon 2 - Durandal/all-roads-lead-to-sol/tranced.Finale-0-05-|tranced.Finale<0-05>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/all-roads-lead-to-sol#h.7o7tp1oqpbig)
+[^32]: [[Leela/Marathon Infinity/introduction/Report to Lh’owon Command|Report to Lh’owon Command]] · [src ↗](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
+[^33]: [[Leela/Marathon 2 - Durandal/for-carnage-apply-within/traxIV-40c-40c- 48c-48c-|traxIV<40c<40c> 48c<48c>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/for-carnage-apply-within#h.fu34bojncrux)
+[^34]: [[Leela/Marathon 2 - Durandal/were-everywhere/Contact 45-f-yb.34.81.qx-|Contact 45-f<yb.34.81.qx>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.cpbk655hpkka)
+[^35]: [[Leela/Marathon 2 - Durandal/come-and-take-your-medicine/Lhar 103-30|Lhar 103-30]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/come-and-take-your-medicine#h.s81at7ximd1v)
+[^36]: [[Leela/Marathon 2 - Durandal/were-everywhere/65124.134.12---CMND PRAMA -49c2-|65124.134.12##<CMND PRAMA &49c2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.gijk44pczngb)
+[^37]: [[Leela/Marathon 2 - Durandal/fatum-iustum-stultorum/vestrum.excrucibo-1-|vestrum.excrucibo<1>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
+[^38]: [[Leela/Marathon Infinity/aye-mak-sicur/por.fin|por.fin]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
+[^39]: [[Leela/Marathon 2 - Durandal/feel-the-noise/--cge-wrought-507g2.4149r-|//cge-wrought<507g2.4149r>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.djjib9zh1vup)
+[^40]: [[Leela/Marathon 2 - Durandal/what-about-bob/-CMND OVERRIDE -@85f2-|<CMND OVERRIDE &@85f2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.9j698eaufrkw)
+[^41]: [[Leela/Marathon 2 - Durandal/sorry-dont-make-it-so/-94decaf@-!7|%94decaf@&!7]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
+[^42]: [[Leela/Marathon Infinity/rise-robot-rise/frontx02.19|frontx02.19]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.dn7rhn3jr61)
+[^43]: [[Leela/Marathon 2 - Durandal/ex-cathedra/X-nil 37.9@cjl1--vck3|X-nil 37.9@cjl1//vck3]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/garrison/ex-cathedra#h.1t4mia18kivv)
+[^44]: [[Leela/Marathon Infinity/poor-yorick/75.battle.standard|75.battle.standard]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.10ux90mp9g4l)
+[^45]: [[Leela/Marathon Infinity/poor-yorick/end.feed.C3|end.feed.C3]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/poor-yorick#h.q4736vtv8et4)
+[^46]: [[Leela/Marathon Infinity/rise-robot-rise/xpj399c001|xpj399c001]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/rise-robot-rise#h.vhulcr4hulnp)
+[^47]: [[Leela/Marathon Infinity/confound-delivery/Cirlw.zoq|Cirlw.zoq]] · [src ↗](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.zwa6wprsv0)
+[^48]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/dciel1cb1|dciel1cb1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
+[^49]: [[Leela/Marathon Infinity/aye-mak-sicur/1023.poly.max|1023.poly.max]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.mcx7tleg7yz6)
+[^50]: [[Leela/Marathon Infinity/aye-mak-sicur/tat.iana|tat.iana]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.u20z194560gs)
+[^51]: [[Leela/Marathon Infinity/ne-cede-malis/-Error-|<Error>]] · [src ↗](https://marathon.karnemir.com/archive/marathon/prologue/ne-cede-malis#h.fztbbv2r7xsx)
+[^52]: [[Leela/Marathon 2 - Durandal/curiouser-and-curiouser/Z-4 G-3 A-4c @394|Z-4 G-3 A-4c @394]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/garrison/curiouser-and-curiouser#h.c0r4myuqx26s)
+[^53]: [[Leela/Marathon Infinity/thing-what-kicks/fred.cictl.circe|fred.cictl.circe]] · [src ↗](https://marathon.karnemir.com/archive/marathon/rage/thing-what-kicks#h.4iceh4n4l0lm)
+[^54]: [[Leela/Marathon Infinity/one-thousand-thousand-slimy-things/handl.remote|handl.remote]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/one-thousand-thousand-slimy-things#h.m6kc3pws4tzc)
 [^55]: [req.932l1 — Acme Station](https://marathon.karnemir.com/archive/marathon/rage/acme-station#h.bvhyvedugivl)
-[^56]: [end.run — A Converted Church in Venice, Italy](https://marathon.karnemir.com/archive/marathon/envy/a-converted-church-in-venice-italy#h.9xkadrrjbnjc)
+[^56]: [[Leela/Marathon Infinity/a-converted-church-in-venice-italy/end.run|end.run]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/a-converted-church-in-venice-italy#h.9xkadrrjbnjc)
 [^57]: [Epilogue](https://marathon.karnemir.com/archive/marathon-2/epilogue) — *Marathon 2* epilogue (no in-page anchor in source)
 
 ---

@@ -12,7 +12,7 @@ source-count: 10
 tags: [concept, m2026, seasons, sentinel, runners, meta]
 mentioned-by: 5
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 > A reader's orientation guide to the Season 1 vs Season 2 content layers of [[Marathon (2026)]], and the [[Sentinel]] as the Season-2 runner class. The S1/S2 boundary is inferred from corpus structure — the source does not use the words "Season 1" or "Season 2" in the captured material. This note maps what the captured corpus contains and flags what is structural inference vs. source-stated.

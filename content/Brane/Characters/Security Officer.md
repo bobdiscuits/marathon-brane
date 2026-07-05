@@ -13,7 +13,7 @@ tags: [character, cyborg, trilogy, m1, m2, infinity, brane-hub]
 source-count: 34
 mentioned-by: 23
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Security Officer
@@ -177,16 +177,16 @@ last-updated: 2026-07-02
 - [[Mirror/archive/marathon-2/lhowon/waterloo-waterpark|lhowon · waterloo-waterpark]]
 - [[Mirror/archive/marathon-2/volunteers/come-and-take-your-medicine|volunteers · come-and-take-your-medicine]]
 - [[Mirror/archive/marathon-2/volunteers/what-about-bob|volunteers · what-about-bob]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/despair/poor-yorick|despair · poor-yorick]]
-- [[Mirror/archive/marathon/despair/rise-robot-rise|despair · rise-robot-rise]]
-- [[Mirror/archive/marathon/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
-- [[Mirror/archive/marathon/envy/by-committee|envy · by-committee]]
-- [[Mirror/archive/marathon/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
-- [[Mirror/archive/marathon/envy/son-of-grendel|envy · son-of-grendel]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/rage/foe-hammer|rage · foe-hammer]]
-- [[Mirror/archive/marathon/rage/naw-man-hes-close|rage · naw-man-hes-close]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/despair/poor-yorick|despair · poor-yorick]]
+- [[Mirror/archive/marathon-infinity/despair/rise-robot-rise|despair · rise-robot-rise]]
+- [[Mirror/archive/marathon-infinity/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
+- [[Mirror/archive/marathon-infinity/envy/by-committee|envy · by-committee]]
+- [[Mirror/archive/marathon-infinity/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
+- [[Mirror/archive/marathon-infinity/envy/son-of-grendel|envy · son-of-grendel]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/rage/foe-hammer|rage · foe-hammer]]
+- [[Mirror/archive/marathon-infinity/rage/naw-man-hes-close|rage · naw-man-hes-close]]
 <!-- MIRROR:END -->
 
 ## Sources

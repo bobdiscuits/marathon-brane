@@ -2,6 +2,7 @@
 type: game
 aliases: [Marathon, Marathon 2026, "Marathon (2026)"]
 scope: m2026
+subhub_model: faceted
 summary: "Bungie's PvPvE extraction shooter: Runners in Shells contest the ruins of New Cascadia on Tau Ceti IV, set roughly a century after the trilogy's close."
 era: "~2893 (in-fiction present)"
 status: current
@@ -14,7 +15,7 @@ tags: [game, m2026]
 source-count: 1
 mentioned-by: 23
 appears-in: [m1, m2, infinity, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Marathon (2026)

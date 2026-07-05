@@ -3,7 +3,7 @@ type: landing
 aliases: []
 canon-status: canon
 hub-count: 4
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 tags: [landing, brane, game]
 ---
 
@@ -15,7 +15,7 @@ tags: [landing, brane, game]
 
 <!-- CONTENTS:START -->
 ## Contents
-*4 hubs · 4 with full editorial frontmatter · regenerated 2026-07-02 by hub_pages.py*
+*4 hubs · 4 with full editorial frontmatter · regenerated 2026-07-05 by hub_pages.py*
 
 | Hub | Summary | Scope | Era | Status | Src | Refs |
 | --- | --- | --- | --- | --- | ---: | ---: |

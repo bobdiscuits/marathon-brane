@@ -13,7 +13,7 @@ tags: [character, m2026, anomaly, new-cascadia, brane-hub]
 source-count: 2
 mentioned-by: 5
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Talv (Mr. Alva)
@@ -78,8 +78,7 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [UESC Interrogation: Alva, T.](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.30y5fqh51eji)
-[^2]: [PSA: Unauthorized](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.dmii7sxwej5h)
-
+[^1]: [[Leela/Marathon 2026/dire-marsh/UESC Interrogation- Alva, T.|UESC Interrogation: Alva, T.]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.30y5fqh51eji)
+[^2]: [[Leela/Marathon 2026/outpost/PSA- Unauthorized|PSA: Unauthorized]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.dmii7sxwej5h)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

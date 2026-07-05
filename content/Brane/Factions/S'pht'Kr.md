@@ -13,7 +13,7 @@ tags: [faction, species, trilogy, m2, sphtkr, trilogy-bridge, brane-hub]
 source-count: 12
 mentioned-by: 21
 appears-in: [m2, infinity, codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: []
 ---
 
@@ -112,24 +112,24 @@ members: []
 - [[Mirror/archive/marathon-2/simalacrums/requiem-for-a-cyborg|simalacrums · requiem-for-a-cyborg]]
 - [[Mirror/archive/marathon-2/sphtkr/fatum-iustum-stultorum|sphtkr · fatum-iustum-stultorum]]
 - [[Mirror/archive/marathon-2/sphtkr/feel-the-noise|sphtkr · feel-the-noise]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
 - [[Mirror/codex/world/cryo-archive/collectibles|cryo-archive · collectibles]]
 <!-- MIRROR:END -->
 
 ## Sources
 
-[^1]: [antiquus&lt;304.92.38.82&gt; — Bob's Big Date](https://marathon.karnemir.com/archive/marathon-2/citadel/bobs-big-date#h.jbepa3cbryxp)
-[^2]: [Mnr-e&lt;29.94.91d.39&gt; — Eat It Vid Boi](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
-[^3]: [Mnr-e&lt;29.94.91d.39&gt; — Six Thousand Feet Under](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.pxu53nvqdld8)
-[^4]: [DCI3/19F.C3 — Charon Doesn't Make Change](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.httzp8j8pnen)
-[^5]: [ands of (0)!the empir — Requiem for a Cyborg](https://marathon.karnemir.com/archive/marathon-2/simalacrums/requiem-for-a-cyborg#h.19793f2u86zt)
-[^6]: [vestrum.excrucibo&lt;1&gt; — Fatum Iustum Stultorum](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
-[^7]: [dciel1cb1 — You Think You're Big Time You're Gonna Die Big Time](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
-[^8]: [wgrnc.q23 — You Think You're Big Time You're Gonna Die Big Time](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
-[^9]: [por.fin — Aye Mak Sicur](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
-[^10]: [//cge-wrought&lt;507g2.4149r&gt; — Feel the Noise](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.djjib9zh1vup)
-[^11]: [Alien History vol. 4](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
+[^1]: [[Leela/Marathon 2 - Durandal/bobs-big-date/antiquus-304.92.38.82-|antiquus<304.92.38.82>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/bobs-big-date#h.jbepa3cbryxp)
+[^2]: [[Leela/Marathon 2 - Durandal/eat-it-vid-boi/-Mnr --@1cz- 9cm2-|<Mnr \*@1cz: 9cm2>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/eat-it-vid-boi#h.2nd9fvxl0ays)
+[^3]: [[Leela/Marathon 2 - Durandal/six-thousand-feet-under/Mnr-e-29.94.91d.39-|Mnr-e<29.94.91d.39>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/citadel/six-thousand-feet-under#h.pxu53nvqdld8)
+[^4]: [[Leela/Marathon 2 - Durandal/charon-doesnt-make-change/DCI3-19F.C3|DCI3/19F.C3]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/charon-doesnt-make-change#h.httzp8j8pnen)
+[^5]: [[Leela/Marathon 2 - Durandal/requiem-for-a-cyborg/ands of (0)!the empir--(f~F-`fx--$C|ands of (0)!the empir%&(f~F\`fx\\$C]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/simalacrums/requiem-for-a-cyborg#h.19793f2u86zt)
+[^6]: [[Leela/Marathon 2 - Durandal/fatum-iustum-stultorum/vestrum.excrucibo-1-|vestrum.excrucibo<1>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/fatum-iustum-stultorum#h.mno1s2ni38vx)
+[^7]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/dciel1cb1|dciel1cb1]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.j97jd8ge6gd2)
+[^8]: [[Leela/Marathon Infinity/you-think-youre-big-time-youre-gonna-die-big-time/wgrnc.q23|wgrnc.q23]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time#h.rpxgkdbnhqw9)
+[^9]: [[Leela/Marathon Infinity/aye-mak-sicur/por.fin|por.fin]] · [src ↗](https://marathon.karnemir.com/archive/marathon/envy/aye-mak-sicur#h.vhyyhe31mzjl)
+[^10]: [[Leela/Marathon 2 - Durandal/feel-the-noise/--cge-wrought-507g2.4149r-|//cge-wrought<507g2.4149r>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/sphtkr/feel-the-noise#h.djjib9zh1vup)
+[^11]: [[Leela/Marathon 2026/cryo-archive/Alien History (8jq58y)|Alien History]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.8jq58y7sd8u)
 [^12]: [UESCTerm 802.11 — Epilogue](https://marathon.karnemir.com/archive/marathon-2/epilogue)
 
 ---

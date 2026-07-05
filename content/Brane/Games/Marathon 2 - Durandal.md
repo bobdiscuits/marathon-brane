@@ -2,6 +2,7 @@
 type: game
 aliases: [Marathon 2, Marathon 2 Durandal, Marathon 2 1995]
 scope: trilogy
+subhub_model: sequential
 summary: "Bungie's 1995 sequel: Durandal returns the Security Officer to Lh'owon seventeen years later to find the lost S'pht'Kr clan and break the Pfhor's grip on the galaxy."
 era: "1995 (release) — seventeen years after Marathon 1 (2794 → 2811)"
 status: current
@@ -13,8 +14,8 @@ confidence: working
 tags: [game, trilogy, m2]
 source-count: 7
 mentioned-by: 15
-appears-in: []
-last-updated: 2026-07-02
+appears-in: [m2]
+last-updated: 2026-07-05
 ---
 
 # Marathon 2: Durandal

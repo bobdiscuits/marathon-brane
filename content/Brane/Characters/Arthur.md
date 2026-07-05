@@ -13,7 +13,7 @@ tags: [character, ai, colony-ai, rhea-suite, m2026, brane-hub]
 source-count: 11
 mentioned-by: 18
 appears-in: [codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Arthur
@@ -90,17 +90,16 @@ Arthur is described as **the initial colony AI developed for the Tau Ceti IV col
 
 ## Sources
 
-[^1]: [UESC Marathon Overview](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
-[^2]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^3]: [Tau Ceti IV Colony AI](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
-[^4]: [Database Query](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
-[^5]: [Cerebral Record: Arthur](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
-[^6]: [Cerebral Record: Lilith](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
-[^7]: [Cerebral Record: Bastion](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
-[^8]: [Cerebral Record: Gabriel](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
-[^9]: [Cerebral Record: Icarus](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
-[^10]: [Security Report: Lt. Yabara](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.f0yztul74tbu)
-[^11]: [Project:Goliath letter](https://marathon.karnemir.com/intercepts/uesc/letters#h.o4gbj5d6yhf6)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Overview|UESC Marathon Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.gktje1uqtefx)
+[^2]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^3]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colony AI|Tau Ceti IV Colony AI]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.j01riy22nh8r)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Database Query|Database Query]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
+[^5]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Arthur|Cerebral Record: Arthur]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.xwy2n97k45xd)
+[^6]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Lilith|Cerebral Record: Lilith]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vmp1nvoktyy)
+[^7]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Bastion|Cerebral Record: Bastion]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
+[^8]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Gabriel|Cerebral Record: Gabriel]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.k95yvtgeob7c)
+[^9]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Icarus|Cerebral Record: Icarus]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.r7iit7pntjs9)
+[^10]: [[Leela/Marathon 2026/outpost/Security Report- Lt. Yabara (f0yztu)|Security Report: Lt. Yabara]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.f0yztul74tbu)
+[^11]: [[Leela/Marathon 2026/intercepts-uesc/Unified Earth Space Council Center|Unified Earth Space Council Center]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.o4gbj5d6yhf6)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

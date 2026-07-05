@@ -13,7 +13,7 @@ tags: [character, ai, rampancy, trilogy, m2026, traxus]
 source-count: 6
 mentioned-by: 8
 appears-in: [m1, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Traxus IV

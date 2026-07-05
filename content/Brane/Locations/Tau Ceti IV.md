@@ -13,7 +13,7 @@ tags: [location, planet, m2026, tau-ceti, key-lore, brane-hub]
 source-count: 51
 mentioned-by: 18
 appears-in: [m1, m2, infinity, codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Tau Ceti IV
@@ -236,8 +236,8 @@ A classified pre-mission UESC memo noted an addendum referencing **likely presen
 - [[Mirror/archive/marathon-2/lhowon/the-slings-arrows-of-outrageous-fortune|lhowon · the-slings-arrows-of-outrageous-fortune]]
 - [[Mirror/archive/marathon-2/volunteers/were-everywhere|volunteers · were-everywhere]]
 - [[Mirror/archive/marathon-2/volunteers/what-about-bob|volunteers · what-about-bob]]
-- [[Mirror/archive/marathon/despair/confound-delivery|despair · confound-delivery]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
+- [[Mirror/archive/marathon-infinity/despair/confound-delivery|despair · confound-delivery]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
 - [[Mirror/codex/career/orientation|career · orientation]]
 - [[Mirror/codex/factions/mida/contracts|mida · contracts]]
 - [[Mirror/codex/factions/mida/limited-contracts|mida · limited-contracts]]
@@ -265,57 +265,56 @@ A classified pre-mission UESC memo noted an addendum referencing **likely presen
 
 ## Sources
 
-[^1]: [Our Cosmic Home](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.x98u3jlftuqo)
-[^2]: [Exoplanet Candidates](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.jiatdwmf392e)
-[^3]: [UESC Marathon Mission](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.rn6jrtes244v)
-[^4]: [Report from Orbital Satellites](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.fm4o1r7rx3p0)
-[^5]: [Tau Ceti IV Colonization](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
-[^6]: [Ecological Best Practices](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kmsfc0fciv1x)
-[^7]: [Drone Modifications](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kkp3galoosm6)
-[^8]: [Bio-Research Overview](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.ix5liq72g1do)
-[^9]: [Security Recording: Seed Vault](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
-[^10]: [Cerebral Record: Bastion](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
-[^11]: [Shell "Death" Overview](https://marathon.karnemir.com/codex/career/orientation#h.74xhn1h9e87y)
-[^12]: [UESC Report: Anomaly](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.ykjtkx2y5n8l)
-[^13]: [Classified: Colony Anomaly Research](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xq9dwc53n7u8)
+[^1]: [[Leela/Marathon 2026/dire-marsh/Our Cosmic Home|Our Cosmic Home]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.x98u3jlftuqo)
+[^2]: [[Leela/Marathon 2026/perimeter/Exoplanet Candidates|Exoplanet Candidates]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.jiatdwmf392e)
+[^3]: [[Leela/Marathon 2026/cryo-archive/UESC Marathon Mission|UESC Marathon Mission]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.rn6jrtes244v)
+[^4]: [[Leela/Marathon 2026/perimeter/Report from Orbital Satellites|Report from Orbital Satellites]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.fm4o1r7rx3p0)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Tau Ceti IV Colonization|Tau Ceti IV Colonization]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.lxyohgajlec)
+[^6]: [[Leela/Marathon 2026/perimeter/Ecological Best Practices|Ecological Best Practices]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kmsfc0fciv1x)
+[^7]: [[Leela/Marathon 2026/perimeter/Drone Modifications|Drone Modifications]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/collectibles#h.kkp3galoosm6)
+[^8]: [[Leela/Marathon 2026/dire-marsh/Bio-Research Overview|Bio-Research Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/exploration#h.ix5liq72g1do)
+[^9]: [[Leela/Marathon 2026/faction-nucaloric/Security Recording- Seed Vault|Security Recording: Seed Vault]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
+[^10]: [[Leela/Marathon 2026/dire-marsh/Cerebral Record- Bastion|Cerebral Record: Bastion]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pe2cqlcl4a8l)
+[^11]: [[Leela/Marathon 2026/career/Shell -Death- Overview|Shell "Death" Overview]] · [src ↗](https://marathon.karnemir.com/codex/career/orientation#h.74xhn1h9e87y)
+[^12]: [[Leela/Marathon 2026/faction-traxus/UESC Report- Anomaly|UESC Report: Anomaly]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.ykjtkx2y5n8l)
+[^13]: [[Leela/Marathon 2026/dire-marsh-night/Classified- Colony Anomaly Research (xq9dwc)|Classified: Colony Anomaly Research]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xq9dwc53n7u8)
 [^14]: [Field Observation [346.2]](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ofx77b2u6lrx)
-[^15]: [Post-Apocalyptic Log](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
-[^16]: [Database Query](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
-[^17]: [Surveillance Recording](https://marathon.karnemir.com/codex/factions/mida/contracts#h.sr5zezwqc2kx)
-[^18]: [Alien Alloy](https://marathon.karnemir.com/codex/loot/salvage#h.vw446x1fk1kz)
-[^19]: [Tau Ceti Status Report](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
-[^20]: [G4 Sunbathing](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.z0d4foou4gv3)
-[^21]: [Introduction (Marathon)](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
-[^22]: [The Slings Arrows Of Outrageous Fortune](https://marathon.karnemir.com/archive/marathon-2/lhowon/the-slings-arrows-of-outrageous-fortune#h.p1kejg50lwma)
-[^23]: [Sorry Dont Make It So](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
+[^15]: [[Leela/Marathon 2026/dire-marsh/Post-Apocalyptic Log|Post-Apocalyptic Log]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.smcviqnj5sit)
+[^16]: [[Leela/Marathon 2026/dire-marsh/Database Query|Database Query]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
+[^17]: [[Leela/Marathon 2026/faction-mida/Surveillance Recording|Surveillance Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.sr5zezwqc2kx)
+[^18]: [[Leela/Marathon 2026/loot/Alien Alloy|Alien Alloy]] · [src ↗](https://marathon.karnemir.com/codex/loot/salvage#h.vw446x1fk1kz)
+[^19]: [[Leela/Marathon 2026/faction-traxus/Tau Ceti Status Report|Tau Ceti Status Report]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.v6ucd4uu9quz)
+[^20]: [[Leela/Marathon 1/g4-sunbathing/Shell Terminal Access 5-b|Shell Terminal Access 5-b]] · [src ↗](https://marathon.karnemir.com/archive/marathon-1/counterattack/g4-sunbathing#h.z0d4foou4gv3)
+[^21]: [[Leela/Marathon Infinity/introduction/Report to Lh’owon Command|Report to Lh’owon Command]] · [src ↗](https://marathon.karnemir.com/archive/marathon/introduction#h.leywy6ta84ob)
+[^22]: [[Leela/Marathon 2 - Durandal/the-slings-arrows-of-outrageous-fortune/jon3--12-a Phce-194-973-2356-|jon3//12-a Phce<194-973-2356>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/lhowon/the-slings-arrows-of-outrageous-fortune#h.p1kejg50lwma)
+[^23]: [[Leela/Marathon 2 - Durandal/sorry-dont-make-it-so/-94decaf@-!7|%94decaf@&!7]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/sorry-dont-make-it-so#h.r1jpl6tb7uen)
 [^24]: [Confound Delivery](https://marathon.karnemir.com/archive/marathon/despair/confound-delivery#h.crd20yyooxt3)
-[^25]: [What About Bob](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.yaqioipgfdvq)
-[^26]: [If I Had A Rocket Launcher Id Make Somebody Pay](https://marathon.karnemir.com/archive/marathon-2/durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay#h.alz9wjch4r4v)
-[^27]: [Were Everywhere](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.cpbk655hpkka)
-[^28]: [This Side Toward Enemy](https://marathon.karnemir.com/archive/marathon-2/blake/this-side-toward-enemy#h.iwxtfh34ivww)
-[^29]: [Tick Overview](https://marathon.karnemir.com/codex/world/threats/flora-and-fauna#h.u8l5zw2f43gh)
-[^30]: [Outpost Overview](https://marathon.karnemir.com/codex/world/outpost/orientation#h.kcpzwjospt39)
-[^31]: [PSA: Colony Holiday](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.opkmmogyp765)
-[^32]: [Perimeter Overview](https://marathon.karnemir.com/codex/world/perimeter/orientation#h.bi5ti626th4a)
-[^33]: [Field Recording: C. Song](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
-[^34]: [Mass Analysis: Novel Contagion](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.hq112hqnq7ac)
-[^35]: [Security Recording: Seed Vault](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
-[^36]: [Broadcast: Caruso](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xjdyz3jhyf1h)
-[^37]: [Cerberus Code Fragment](https://marathon.karnemir.com/codex/factions/mida/contracts#h.urgoqgv23p0s)
+[^25]: [[Leela/Marathon 2 - Durandal/what-about-bob/-CMND OVERRIDE -@1494-|<CMND OVERRIDE &@1494>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/what-about-bob#h.yaqioipgfdvq)
+[^26]: [[Leela/Marathon 2 - Durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay/R4-interrupt 032-cm|R4-interrupt 032-cm]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/durandal/if-i-had-a-rocket-launcher-id-make-somebody-pay#h.alz9wjch4r4v)
+[^27]: [[Leela/Marathon 2 - Durandal/were-everywhere/Contact 45-f-yb.34.81.qx-|Contact 45-f<yb.34.81.qx>]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/volunteers/were-everywhere#h.cpbk655hpkka)
+[^28]: [[Leela/Marathon 2 - Durandal/this-side-toward-enemy/acropolis.piltdown--004121.25.1|acropolis.piltdown//004121.25.1]] · [src ↗](https://marathon.karnemir.com/archive/marathon-2/blake/this-side-toward-enemy#h.iwxtfh34ivww)
+[^29]: [[Leela/Marathon 2026/threats/Tick Overview|Tick Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/threats/flora-and-fauna#h.u8l5zw2f43gh)
+[^30]: [[Leela/Marathon 2026/outpost/Outpost Overview|Outpost Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/orientation#h.kcpzwjospt39)
+[^31]: [[Leela/Marathon 2026/outpost/PSA- Colony Holiday|PSA: Colony Holiday]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.opkmmogyp765)
+[^32]: [[Leela/Marathon 2026/perimeter/Perimeter Overview|Perimeter Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/perimeter/orientation#h.bi5ti626th4a)
+[^33]: [[Leela/Marathon 2026/faction-nucaloric/Field Recording- C. Song|Field Recording: C. Song]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.u8u1ba5vaccs)
+[^34]: [[Leela/Marathon 2026/faction-nucaloric/Mass Analysis- Novel Contagion|Mass Analysis: Novel Contagion]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.hq112hqnq7ac)
+[^35]: [[Leela/Marathon 2026/faction-nucaloric/Security Recording- Seed Vault|Security Recording: Seed Vault]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.5ywrscoydrr5)
+[^36]: [[Leela/Marathon 2026/faction-nucaloric/Broadcast- Caruso|Broadcast: Caruso]] · [src ↗](https://marathon.karnemir.com/codex/factions/nucaloric/contracts#h.xjdyz3jhyf1h)
+[^37]: [[Leela/Marathon 2026/faction-mida/Cerberus Code Fragment|Cerberus Code Fragment]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/contracts#h.urgoqgv23p0s)
 [^38]: [Xenobiopsy](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.jjb1y3vqbywh)
 [^39]: [Shared Nightmare Phenomenology](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.al9cw04w373r)
-[^40]: [Burn/Reveal](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vs2cpmsy57ox)
-[^41]: [Concept Validation](https://marathon.karnemir.com/codex/factions/traxus/limited-contracts#h.fyt2gf5ih6v5)
-[^42]: [UESC Grenadier Cmdr Overview](https://marathon.karnemir.com/codex/world/threats/uesc#h.wfxdfc3nr2p0)
-[^43]: [Signal Mask](https://marathon.karnemir.com/codex/runner/rook#h.okah9822dn55)
-[^44]: [Nice to meet you... I mean it.](https://marathon.karnemir.com/codex/world/cryo-archive/cryo-vault#h.i54iigpl8xy8)
-[^45]: [Letters (UESC)](https://marathon.karnemir.com/intercepts/uesc/letters#h.obnddian4z9l)
-[^46]: [Memoranda (UESC)](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
-[^47]: [Emails (UESC)](https://marathon.karnemir.com/intercepts/uesc/emails#h.i3esq179wffk)
-[^48]: [Chats (Traxus)](https://marathon.karnemir.com/intercepts/traxus/chats#h.y7953ku52rc6)
-[^49]: [Traxus-UESC Comms](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.4knh03kiji0x)
-[^50]: [UESC Comms: Anomaly](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.vd0him8xydp6)
-[^51]: [UESC Comms: Runner Interference](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.vgwz4lhllchy)
-
+[^40]: [[Leela/Marathon 2026/faction-mida/Burn-Reveal|Burn/Reveal]] · [src ↗](https://marathon.karnemir.com/codex/factions/mida/limited-contracts#h.vs2cpmsy57ox)
+[^41]: [[Leela/Marathon 2026/faction-traxus/Concept Validation|Concept Validation]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/limited-contracts#h.fyt2gf5ih6v5)
+[^42]: [[Leela/Marathon 2026/threats/UESC Grenadier Cmdr Overview|UESC Grenadier Cmdr Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/threats/uesc#h.wfxdfc3nr2p0)
+[^43]: [[Leela/Marathon 2026/runners/Signal Mask|Signal Mask]] · [src ↗](https://marathon.karnemir.com/codex/runner/rook#h.okah9822dn55)
+[^44]: [[Leela/Marathon 2026/cryo-archive/Nice to meet you... I mean it.|Nice to meet you... I mean it.]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/cryo-vault#h.i54iigpl8xy8)
+[^45]: [[Leela/Marathon 2026/intercepts-uesc/U.E.S.C. MARATHON|U.E.S.C. MARATHON]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/letters#h.obnddian4z9l)
+[^46]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DRAFT-_A|Project:Goliath\_DRAFT\_A]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/memoranda#h.uquqken9esca)
+[^47]: [[Leela/Marathon 2026/intercepts-uesc/Project-Goliath-_DIGICORR|Project:Goliath\_DIGICORR]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/emails#h.i3esq179wffk)
+[^48]: [[Leela/Marathon 2026/intercepts-traxus/25 May 2888, 04-08PM PST|25 May 2888, 04:08PM PST]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.y7953ku52rc6)
+[^49]: [[Leela/Marathon 2026/faction-traxus/Traxus-UESC Comms|Traxus-UESC Comms]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.4knh03kiji0x)
+[^50]: [[Leela/Marathon 2026/faction-traxus/UESC Comms- Anomaly|UESC Comms: Anomaly]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.vd0him8xydp6)
+[^51]: [[Leela/Marathon 2026/faction-traxus/UESC Comms- Runner Interference|UESC Comms: Runner Interference]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.vgwz4lhllchy)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

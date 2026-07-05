@@ -13,7 +13,7 @@ tags: [character, pfhor, military, trilogy, m2, infinity]
 source-count: 18
 mentioned-by: 8
 appears-in: [m2, infinity]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Tfear
@@ -93,17 +93,17 @@ last-updated: 2026-07-02
 *The local 1:1 pages this hub's citations resolve to — the twin's own ground truth.*
 
 - [[Mirror/archive/marathon-2/citadel/bobs-big-date|citadel · bobs-big-date]]
-- [[Mirror/archive/marathon/despair/aie-mak-sicur|despair · aie-mak-sicur]]
-- [[Mirror/archive/marathon/despair/rise-robot-rise|despair · rise-robot-rise]]
-- [[Mirror/archive/marathon/despair/robot-world-arena|despair · robot-world-arena]]
-- [[Mirror/archive/marathon/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
-- [[Mirror/archive/marathon/envy/aye-mak-sicur|envy · aye-mak-sicur]]
-- [[Mirror/archive/marathon/envy/bagged-again|envy · bagged-again]]
-- [[Mirror/archive/marathon/envy/by-committee|envy · by-committee]]
-- [[Mirror/archive/marathon/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
-- [[Mirror/archive/marathon/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
-- [[Mirror/archive/marathon/introduction|marathon · introduction]]
-- [[Mirror/archive/marathon/rage/hang-brain|rage · hang-brain]]
+- [[Mirror/archive/marathon-infinity/despair/aie-mak-sicur|despair · aie-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/despair/rise-robot-rise|despair · rise-robot-rise]]
+- [[Mirror/archive/marathon-infinity/despair/robot-world-arena|despair · robot-world-arena]]
+- [[Mirror/archive/marathon-infinity/envy/a-converted-church-in-venice-italy|envy · a-converted-church-in-venice-italy]]
+- [[Mirror/archive/marathon-infinity/envy/aye-mak-sicur|envy · aye-mak-sicur]]
+- [[Mirror/archive/marathon-infinity/envy/bagged-again|envy · bagged-again]]
+- [[Mirror/archive/marathon-infinity/envy/by-committee|envy · by-committee]]
+- [[Mirror/archive/marathon-infinity/envy/one-thousand-thousand-slimy-things|envy · one-thousand-thousand-slimy-things]]
+- [[Mirror/archive/marathon-infinity/envy/you-think-youre-big-time-youre-gonna-die-big-time|envy · you-think-youre-big-time-youre-gonna-die-big-time]]
+- [[Mirror/archive/marathon-infinity/introduction|marathon-infinity · introduction]]
+- [[Mirror/archive/marathon-infinity/rage/hang-brain|rage · hang-brain]]
 <!-- MIRROR:END -->
 
 ## Sources

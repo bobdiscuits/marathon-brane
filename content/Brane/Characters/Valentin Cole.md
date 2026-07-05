@@ -13,7 +13,7 @@ tags: [character, scientist, m2026, anomaly, new-cascadia]
 source-count: 12
 mentioned-by: 9
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Valentin Cole
@@ -100,18 +100,17 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Council Meeting Recording](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
-[^2]: [Anomaly Incident Reports](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.dfyiaydai6aj)
-[^3]: [Anomaly Taskforce Extension Request](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
-[^4]: [Anomaly Recording](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.29sdbyj9tfgu)
-[^5]: [Dr. Valentin Cole](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.htn6r2ot37cm)
-[^6]: [Database Query](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
+[^1]: [[Leela/Marathon 2026/faction-traxus/Council Meeting Recording|Council Meeting Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.75b54r3goyl9)
+[^2]: [[Leela/Marathon 2026/faction-traxus/Anomaly Incident Reports|Anomaly Incident Reports]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.dfyiaydai6aj)
+[^3]: [[Leela/Marathon 2026/faction-traxus/Anomaly Taskforce Extension Request|Anomaly Taskforce Extension Request]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.fghjmd3jaecw)
+[^4]: [[Leela/Marathon 2026/faction-traxus/Anomaly Recording|Anomaly Recording]] · [src ↗](https://marathon.karnemir.com/codex/factions/traxus/contracts#h.29sdbyj9tfgu)
+[^5]: [[Leela/Marathon 2026/cryo-archive/Dr. Valentin Cole|Dr. Valentin Cole]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.htn6r2ot37cm)
+[^6]: [[Leela/Marathon 2026/dire-marsh/Database Query|Database Query]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.rreia214sjs0)
 [^7]: [Cole, V. Recording](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ak1kc4890ezs)
-[^8]: [Recording 1](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ubcdwmotjv6)
-[^9]: [Recording 2](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ueucluywjxq5)
-[^10]: [Recording 3](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.iqr8s45h7ko)
-[^11]: [Recording 4](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gdd1ppui8qaa)
-[^12]: [Recording 5](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.5uu9dzjkus09)
-
+[^8]: [[Leela/Marathon 2026/dire-marsh-night/Recording 1|Recording 1]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ubcdwmotjv6)
+[^9]: [[Leela/Marathon 2026/dire-marsh-night/Recording 2|Recording 2]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.ueucluywjxq5)
+[^10]: [[Leela/Marathon 2026/dire-marsh-night/Recording 3|Recording 3]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.iqr8s45h7ko)
+[^11]: [[Leela/Marathon 2026/dire-marsh-night/Recording 4|Recording 4]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.gdd1ppui8qaa)
+[^12]: [[Leela/Marathon 2026/dire-marsh-night/Recording 5|Recording 5]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.5uu9dzjkus09)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

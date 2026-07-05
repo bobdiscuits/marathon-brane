@@ -13,7 +13,7 @@ tags: [character, m2026, scientist, new-cascadia, brane-hub]
 source-count: 10
 mentioned-by: 11
 appears-in: [codex]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 ---
 
 # Mari Hassan
@@ -88,16 +88,15 @@ last-updated: 2026-07-02
 
 ## Sources
 
-[^1]: [Dr. Mari Hassan](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.n5krcy9xu4w6)
-[^2]: [Davic Reed](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.zfw5lq11thwm)
-[^3]: [Tick Milk Education](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fum7sps4e2k3)
-[^4]: [Pet Project Collaboration](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vm5b8fhz76a)
-[^5]: [Skrac Mimicry](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.e0bpmgyq1p6v)
-[^6]: [Amnesiac Implant Proposal](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xzniy3u359s0)
-[^7]: [Messaging Review](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.yetlgjx2h03e)
-[^8]: [Activation Error: Joy](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.4bghyc3onrxx)
-[^9]: [Personal Log: Hassan](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
-[^10]: [Wellness Session: Reed](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.ptzargmrab3t)
-
+[^1]: [[Leela/Marathon 2026/cryo-archive/Dr. Mari Hassan|Dr. Mari Hassan]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.n5krcy9xu4w6)
+[^2]: [[Leela/Marathon 2026/cryo-archive/Davic Reed|Davic Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/cryo-archive/collectibles#h.zfw5lq11thwm)
+[^3]: [[Leela/Marathon 2026/dire-marsh/Tick Milk Education|Tick Milk Education]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fum7sps4e2k3)
+[^4]: [[Leela/Marathon 2026/dire-marsh/Pet Project Collaboration|Pet Project Collaboration]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vm5b8fhz76a)
+[^5]: [[Leela/Marathon 2026/dire-marsh-night/Skrac Mimicry|Skrac Mimicry]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.e0bpmgyq1p6v)
+[^6]: [[Leela/Marathon 2026/dire-marsh-night/Amnesiac Implant Proposal|Amnesiac Implant Proposal]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.xzniy3u359s0)
+[^7]: [[Leela/Marathon 2026/dire-marsh-night/Messaging Review|Messaging Review]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.yetlgjx2h03e)
+[^8]: [[Leela/Marathon 2026/outpost/Activation Error- Joy|Activation Error: Joy]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.4bghyc3onrxx)
+[^9]: [[Leela/Marathon 2026/outpost/Personal Log- Hassan|Personal Log: Hassan]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.3euo6faqtocv)
+[^10]: [[Leela/Marathon 2026/outpost/Wellness Session- Reed|Wellness Session: Reed]] · [src ↗](https://marathon.karnemir.com/codex/world/outpost/collectibles#h.ptzargmrab3t)
 ---
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*

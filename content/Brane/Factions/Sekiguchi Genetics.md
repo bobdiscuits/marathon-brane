@@ -13,7 +13,7 @@ tags: [faction, corporation, m2026, sekiguchi, biotech]
 source-count: 32
 mentioned-by: 17
 appears-in: [codex, intercepts]
-last-updated: 2026-07-02
+last-updated: 2026-07-05
 members: ["[[Nona]]"]
 ---
 
@@ -156,39 +156,38 @@ By Q2 2787 (Colony Era), New Cascadia technicians were troubleshooting Felini ma
 
 ## Sources
 
-[^1]: [SekGen Overview](https://marathon.karnemir.com/codex/factions/sekiguchi/comms#h.11qt8hzojdl)
-[^2]: [Matter, Converted — CRADLE Overview](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
-[^3]: [An Introduction to WEAVEworms](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fmtd21eloz4u)
-[^4]: [An Introduction to SYNTHsilk](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.lro1043pj6w5)
-[^5]: [Shell Print Process Overview](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.mml2dn2d36j)
-[^6]: [WEAVEworm Technological Timeline](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.5ptlw5dvkx65)
-[^7]: [Code Fragments: SIMbiont](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.q63yl2m8360y)
-[^8]: [Metabolic Readout](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.y9w7korwwjzw)
-[^9]: [Inter-Corp Transmission](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.jd4qd0y8mtzx)
-[^10]: [Pet Project Collaboration](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vm5b8fhz76a)
-[^11]: [Felini Deliverables](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.oeyjb3nvtttr)
-[^12]: [Felini Troubleshooting](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pkg406j9t7il)
-[^13]: [XQREL-読み込み成功 / 至急：保留中の契約案件](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.57b5jom5y7tx)
-[^14]: [149階 北西ブロック、トイレ使用停止](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.lmwf8rf7fz0v)
-[^15]: [149階 北西ブロック、トイレ復旧完了](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.6pej2ebr2q2n)
-[^16]: [リマインダー：トラクサス・イルミネート・カンファレンス（1）](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.ncnoe2wf34y0)
-[^17]: [URGENT: PO INITIATION](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.1ykz3yg4ggpm)
-[^18]: [至急：転送・返信不可 (Sakamoto → Goto, PO 910853457)](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.f10s6zn21z3q)
-[^19]: [至急：転送・返信不可 (Sato → Goto, worm IP concern)](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.md863rprktvc)
-[^20]: [至急：不在予定](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.rwcjjop4zawp)
-[^21]: [URGENT: ORDER 970224312 ADDENDUM](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.g8qvio1rzrur)
-[^22]: [緊急：火星における重大事故の発生](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.p4plqlxjzvjp)
-[^23]: [緊急：オキシア・パルスの事故に関する最新情報](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.4xke2isrt9hd)
-[^24]: [至急：UESCによる個人情報開示請求](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.77tarjl74m0u)
-[^25]: [トラクサス社の発注書が承認されました](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.g2q1terl577q)
-[^26]: [新たなイノベーションによるパートナーシップ強化](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.jqovmaxi2lyi)
-[^27]: [新たな活躍の機会](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.gcqb3kqwfrw1)
-[^28]: [LOG#00987](https://marathon.karnemir.com/intercepts/traxus/chats#h.nkyhiam9ti0v)
-[^29]: [STARTING_LINE.log](https://marathon.karnemir.com/intercepts/uesc/terminal#h.8q208tfmtm77)
-[^30]: [Crew Chatter Log](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.36kxq6buk21o)
-[^31]: [Triage Shell](https://marathon.karnemir.com/codex/runner/triage#h.qrmjjzz848ub)
-[^32]: [Thief Shell](https://marathon.karnemir.com/codex/runner/thief#h.zh518diqbnvq)
-
+[^1]: [[Leela/Marathon 2026/faction-sekiguchi/SekGen Overview|SekGen Overview]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/comms#h.11qt8hzojdl)
+[^2]: [[Leela/Marathon 2026/loot/Matter, Converted|Matter, Converted]] · [src ↗](https://marathon.karnemir.com/codex/loot/cradle#h.d9g0ncg08d5r)
+[^3]: [[Leela/Marathon 2026/dire-marsh/An Introduction to WEAVEworms|An Introduction to WEAVEworms]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.fmtd21eloz4u)
+[^4]: [[Leela/Marathon 2026/dire-marsh/An Introduction to SYNTHsilk|An Introduction to SYNTHsilk]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.lro1043pj6w5)
+[^5]: [[Leela/Marathon 2026/dire-marsh/Shell Print Process Overview|Shell Print Process Overview]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.mml2dn2d36j)
+[^6]: [[Leela/Marathon 2026/dire-marsh/WEAVEworm Technological Timeline|WEAVEworm Technological Timeline]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.5ptlw5dvkx65)
+[^7]: [[Leela/Marathon 2026/faction-sekiguchi/Code Fragments- SIMbiont|Code Fragments: SIMbiont]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.q63yl2m8360y)
+[^8]: [[Leela/Marathon 2026/faction-sekiguchi/Metabolic Readout|Metabolic Readout]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.y9w7korwwjzw)
+[^9]: [[Leela/Marathon 2026/faction-sekiguchi/Inter-Corp Transmission|Inter-Corp Transmission]] · [src ↗](https://marathon.karnemir.com/codex/factions/sekiguchi/contracts#h.jd4qd0y8mtzx)
+[^10]: [[Leela/Marathon 2026/dire-marsh/Pet Project Collaboration|Pet Project Collaboration]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.vm5b8fhz76a)
+[^11]: [[Leela/Marathon 2026/dire-marsh/Felini Deliverables|Felini Deliverables]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.oeyjb3nvtttr)
+[^12]: [[Leela/Marathon 2026/dire-marsh/Felini Troubleshooting|Felini Troubleshooting]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh/collectibles#h.pkg406j9t7il)
+[^13]: [[Leela/Marathon 2026/intercepts-sekiguchi/XQREL-読み込み成功|XQREL-読み込み成功]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.57b5jom5y7tx)
+[^14]: [[Leela/Marathon 2026/intercepts-sekiguchi/149階 北西ブロック、トイレ使用停止|149階 北西ブロック、トイレ使用停止]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.lmwf8rf7fz0v)
+[^15]: [[Leela/Marathon 2026/intercepts-sekiguchi/149階 北西ブロック、トイレ復旧完了|149階 北西ブロック、トイレ復旧完了]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.6pej2ebr2q2n)
+[^16]: [[Leela/Marathon 2026/intercepts-sekiguchi/リマインダー：トラクサス・イルミネート・カンファレンス（1）|リマインダー：トラクサス・イルミネート・カンファレンス（1）]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.ncnoe2wf34y0)
+[^17]: [[Leela/Marathon 2026/intercepts-sekiguchi/URGENT- PO INITIATION|URGENT: PO INITIATION]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.1ykz3yg4ggpm)
+[^18]: [[Leela/Marathon 2026/intercepts-sekiguchi/至急：転送・返信不可|至急：転送・返信不可]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.f10s6zn21z3q)
+[^19]: [[Leela/Marathon 2026/intercepts-sekiguchi/至急：転送・返信不可 (md863r)|至急：転送・返信不可]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.md863rprktvc)
+[^20]: [[Leela/Marathon 2026/intercepts-sekiguchi/至急：不在予定|至急：不在予定]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.rwcjjop4zawp)
+[^21]: [[Leela/Marathon 2026/intercepts-sekiguchi/URGENT- ORDER 970224312 ADDENDUM|URGENT: ORDER 970224312 ADDENDUM]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.g8qvio1rzrur)
+[^22]: [[Leela/Marathon 2026/intercepts-sekiguchi/緊急：火星における重大事故の発生|緊急：火星における重大事故の発生]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.p4plqlxjzvjp)
+[^23]: [[Leela/Marathon 2026/intercepts-sekiguchi/緊急：オキシア・パルスの事故に関する最新情報|緊急：オキシア・パルスの事故に関する最新情報]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.4xke2isrt9hd)
+[^24]: [[Leela/Marathon 2026/intercepts-sekiguchi/至急：UESCによる個人情報開示請求|至急：UESCによる個人情報開示請求]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.77tarjl74m0u)
+[^25]: [[Leela/Marathon 2026/intercepts-sekiguchi/トラクサス社の発注書が承認されました|トラクサス社の発注書が承認されました]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.g2q1terl577q)
+[^26]: [[Leela/Marathon 2026/intercepts-sekiguchi/新たなイノベーションによるパートナーシップ強化|新たなイノベーションによるパートナーシップ強化]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.jqovmaxi2lyi)
+[^27]: [[Leela/Marathon 2026/intercepts-sekiguchi/新たな活躍の機会|新たな活躍の機会]] · [src ↗](https://marathon.karnemir.com/intercepts/sekiguchi/emails#h.gcqb3kqwfrw1)
+[^28]: [[Leela/Marathon 2026/intercepts-traxus/LOG-00987|LOG#00987]] · [src ↗](https://marathon.karnemir.com/intercepts/traxus/chats#h.nkyhiam9ti0v)
+[^29]: [[Leela/Marathon 2026/intercepts-uesc/STARTING-_LINE.log|STARTING\_LINE.log]] · [src ↗](https://marathon.karnemir.com/intercepts/uesc/terminal#h.8q208tfmtm77)
+[^30]: [[Leela/Marathon 2026/dire-marsh-night/Crew Chatter Log|Crew Chatter Log]] · [src ↗](https://marathon.karnemir.com/codex/world/dire-marsh-night/collectibles#h.36kxq6buk21o)
+[^31]: [[Leela/Marathon 2026/runners/Triage Shell|Triage Shell]] · [src ↗](https://marathon.karnemir.com/codex/runner/triage#h.qrmjjzz848ub)
+[^32]: [[Leela/Marathon 2026/runners/Thief Shell|Thief Shell]] · [src ↗](https://marathon.karnemir.com/codex/runner/thief#h.zh518diqbnvq)
 ---
 
 *Every factual claim above is cited to primary Marathon source material — see Sources below. Cross-corpus connections and interpretation are the vault's own; where the games are silent, this page says so.*
