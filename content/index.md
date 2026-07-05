@@ -32,7 +32,7 @@ There's no single way through. Every page links outward; the graph is the table 
 
 Every hub is footnoted to the vault's own word-for-word [[Mirror/about|Mirror]] of the source, so the graph runs unbroken — home → hub → page → source — from the 1994 game through Season 2 of Marathon (2026).
 
-**Take it with you:** [the one-file console](console.html) — the entire vault, searchable, graph included, in a single HTML file that works offline.
+**Take it with you:** [the one-file console](static/console.html) — the entire vault, searchable, graph included, in a single HTML file that works offline.
 
 ## The four games
 

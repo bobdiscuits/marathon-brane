@@ -1,16 +1,21 @@
-# Publishing this site (the RED step — yours)
+# SHIP IT — your three commands (the RED step)
 
-The repo is staged and committed. To go live:
+Everything is staged: clean history, deploy workflow, license, README, console at a Pages-safe path.
 
-1. Create the GitHub repo (e.g. `marathon-brane`) on your account.
-2. `cd ~/marathon-brane-site`
-3. `git remote add origin git@github.com:bobdiscuits/marathon-brane.git`
-4. `git push -u origin main`
-5. GitHub Pages: follow Quartz's hosting doc (`docs/hosting.md`) — add its GitHub Actions deploy workflow, then Settings → Pages → Source: GitHub Actions.
-6. If your final URL differs, update `baseUrl` in `quartz.config.ts` and push again.
+1. Create the repo at https://github.com/new — name it **marathon-brane**, Public, NO readme/license/gitignore (we have them).
+2. In Terminal:
+   ```
+   cd ~/marathon-brane-site
+   git remote add origin git@github.com:bobdiscuits/marathon-brane.git
+   git push -u origin main
+   ```
+   (HTTPS instead of SSH if you prefer: `https://github.com/bobdiscuits/marathon-brane.git`)
+3. On GitHub: repo **Settings → Pages → Source: GitHub Actions**. The included workflow (`.github/workflows/deploy.yml`) builds and deploys on every push (~2 min).
 
-**Brane-only vs. both:** the repo currently ships BOTH halves (Brane + Mirror). To publish analysis-only, add "Mirror" to `ignorePatterns` in `quartz.config.ts` — the hubs' footnotes still link out to karnemir. `CONTENT-LICENSE.md` covers the both-halves case.
+Live at: **https://bobdiscuits.github.io/marathon-brane/** (matches the baseUrl already set in quartz.config.ts — if you name the repo differently, change baseUrl to match and push again).
 
-**Refresh after vault edits:** re-run the rsync in `README-DEMO.md`, plus `_tools/artifact_index.py` + `_tools/export_console.py` in the vault, then copy `_index/console_snapshot.html` → `content/console.html`, commit, push.
+Tell Claude the moment it's up → live smoke-test: sample pages across all tiers, the console download, search, graph, and a link-sweep.
 
-> Note: Quartz emits `content/console.html` at the clean URL `/console`. After deploy, verify it renders on GitHub Pages; if it downloads instead, move the file to `quartz/static/` and link `/static/console.html`.
+**Notes:** the one-file console ships at `/static/console.html` (Pages-safe, linked from the front door). Brane+Mirror+Leela all ship, per your call. To go Brane-only later: add "Mirror" to ignorePatterns in quartz.config.ts, push.
+
+**Refresh after vault edits:** run the rsync in README-DEMO.md, plus in the vault: `_tools/artifact_index.py` → `_tools/export_console.py --theme dark` → copy `_index/console_snapshot.html` to `quartz/static/console.html`; commit; push. Actions redeploys automatically.
